@@ -1,5 +1,5 @@
 # verb-data
-A collection of Spanish verbs and conjugations.  Formatted as JSON for use in a mobile app.
+A collection of verbs and conjugations.  Formatted as JSON for use in a mobile app.
 
 # Licence 
 Text is available under the Creative Commons Attribution-ShareAlike License
