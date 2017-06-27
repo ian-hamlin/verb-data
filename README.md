@@ -16,5 +16,7 @@ The following apps are currently published:
 ## Spanish
 
 [App Store](https://itunes.apple.com/gb/app/spanish-verbs/id1187878897?mt=8)
+![Build status](https://build.mobile.azure.com/v0.1/apps/e7dd2562-efa1-4975-a0d6-43e8d32dabec/branches/Spanish/badge)
 
 [Play Store](https://play.google.com/store/apps/details?id=verbviewer.esverbs.droid&hl=en_GB)
+![Build status](https://build.mobile.azure.com/v0.1/apps/f71d1821-869b-45a2-9f60-88cd591c70b4/branches/Spanish/badge)
