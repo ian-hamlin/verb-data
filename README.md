@@ -15,6 +15,6 @@ The following apps are currently published:
 
 ## Spanish
 
-[ App Store](https://itunes.apple.com/gb/app/spanish-verbs/id1187878897?mt=8)
+[App Store](https://itunes.apple.com/gb/app/spanish-verbs/id1187878897?mt=8)
 
 [Play Store](https://play.google.com/store/apps/details?id=verbviewer.esverbs.droid&hl=en_GB)
