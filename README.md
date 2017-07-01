@@ -20,3 +20,8 @@ The following apps are currently published:
 
 [Play Store](https://play.google.com/store/apps/details?id=verbviewer.esverbs.droid&hl=en_GB)
 ![Build status](https://build.mobile.azure.com/v0.1/apps/f71d1821-869b-45a2-9f60-88cd591c70b4/branches/Spanish/badge)
+
+## Portuguese
+
+[Play Store](https://play.google.com/store/apps/details?id=verbviewer.ptverbs.droid&hl=en_GB)
+![Build status](https://build.mobile.azure.com/v0.1/apps/fa91efbe-5d91-4f06-8e14-154cf16c7f62/branches/Portuguese/badge)
