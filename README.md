@@ -23,5 +23,8 @@ The following apps are currently published:
 
 ## Portuguese
 
+[App Store](https://itunes.apple.com/gb/app/portuguese-verbs/id1254828017?mt=8)
+![Build status](https://build.mobile.azure.com/v0.1/apps/848db1b2-c0c6-4196-8f1b-6bcf5fc271b0/branches/Portuguese/badge)
+
 [Play Store](https://play.google.com/store/apps/details?id=verbviewer.ptverbs.droid&hl=en_GB)
 ![Build status](https://build.mobile.azure.com/v0.1/apps/fa91efbe-5d91-4f06-8e14-154cf16c7f62/branches/Portuguese/badge)
