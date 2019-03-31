@@ -1,5 +1,11 @@
 # verb-data
-A collection of verbs and conjugations.  Formatted as JSON for use in a mobile app.
+A collection of verbs and conjugations. 
+
+## Formats available 
+* JSON
+* protobuf
+
+For protobuf definitions see https://github.com/ian-hamlin/proto-verb-data/tree/master/protocol/proto_defs
 
 # Licence 
 Text is available under the Creative Commons Attribution-ShareAlike License
