@@ -1,1 +1,521 @@
-{"conjugations": [{"group": "infinitive", "group_sort": 0, "sort": 0, "value": "teleportar"}, {"group": "gerund", "group_sort": 1, "sort": 0, "value": "teleportando"}, {"form": "masculine", "group": "pastparticiple/singular", "group_sort": 2, "sort": 0, "value": "teleportado"}, {"form": "feminine", "group": "pastparticiple/singular", "group_sort": 2, "sort": 1, "value": "teleportada"}, {"form": "masculine", "group": "pastparticiple/plural", "group_sort": 3, "sort": 0, "value": "teleportados"}, {"form": "feminine", "group": "pastparticiple/plural", "group_sort": 3, "sort": 1, "value": "teleportadas"}, {"form": "s1", "group": "indicative/present", "group_sort": 4, "sort": 0, "value": "teleporto"}, {"form": "s2", "group": "indicative/present", "group_sort": 4, "sort": 1, "value": "teleportas (t\u00fa) - teleport\u00e1s (vos)"}, {"form": "s3", "group": "indicative/present", "group_sort": 4, "sort": 2, "value": "teleporta"}, {"form": "p1", "group": "indicative/present", "group_sort": 4, "sort": 3, "value": "teleportamos"}, {"form": "p2", "group": "indicative/present", "group_sort": 4, "sort": 4, "value": "teleport\u00e1is"}, {"form": "p3", "group": "indicative/present", "group_sort": 4, "sort": 5, "value": "teleportan"}, {"form": "s1", "group": "indicative/imperfect", "group_sort": 5, "sort": 0, "value": "teleportaba"}, {"form": "s2", "group": "indicative/imperfect", "group_sort": 5, "sort": 1, "value": "teleportabas"}, {"form": "s3", "group": "indicative/imperfect", "group_sort": 5, "sort": 2, "value": "teleportaba"}, {"form": "p1", "group": "indicative/imperfect", "group_sort": 5, "sort": 3, "value": "teleport\u00e1bamos"}, {"form": "p2", "group": "indicative/imperfect", "group_sort": 5, "sort": 4, "value": "teleportabais"}, {"form": "p3", "group": "indicative/imperfect", "group_sort": 5, "sort": 5, "value": "teleportaban"}, {"form": "s1", "group": "indicative/preterite", "group_sort": 6, "sort": 0, "value": "teleport\u00e9"}, {"form": "s2", "group": "indicative/preterite", "group_sort": 6, "sort": 1, "value": "teleportaste"}, {"form": "s3", "group": "indicative/preterite", "group_sort": 6, "sort": 2, "value": "teleport\u00f3"}, {"form": "p1", "group": "indicative/preterite", "group_sort": 6, "sort": 3, "value": "teleportamos"}, {"form": "p2", "group": "indicative/preterite", "group_sort": 6, "sort": 4, "value": "teleportasteis"}, {"form": "p3", "group": "indicative/preterite", "group_sort": 6, "sort": 5, "value": "teleportaron"}, {"form": "s1", "group": "indicative/future", "group_sort": 7, "sort": 0, "value": "teleportar\u00e9"}, {"form": "s2", "group": "indicative/future", "group_sort": 7, "sort": 1, "value": "teleportar\u00e1s"}, {"form": "s3", "group": "indicative/future", "group_sort": 7, "sort": 2, "value": "teleportar\u00e1"}, {"form": "p1", "group": "indicative/future", "group_sort": 7, "sort": 3, "value": "teleportaremos"}, {"form": "p2", "group": "indicative/future", "group_sort": 7, "sort": 4, "value": "teleportar\u00e9is"}, {"form": "p3", "group": "indicative/future", "group_sort": 7, "sort": 5, "value": "teleportar\u00e1n"}, {"form": "s1", "group": "indicative/conditional", "group_sort": 8, "sort": 0, "value": "teleportar\u00eda"}, {"form": "s2", "group": "indicative/conditional", "group_sort": 8, "sort": 1, "value": "teleportar\u00edas"}, {"form": "s3", "group": "indicative/conditional", "group_sort": 8, "sort": 2, "value": "teleportar\u00eda"}, {"form": "p1", "group": "indicative/conditional", "group_sort": 8, "sort": 3, "value": "teleportar\u00edamos"}, {"form": "p2", "group": "indicative/conditional", "group_sort": 8, "sort": 4, "value": "teleportar\u00edais"}, {"form": "p3", "group": "indicative/conditional", "group_sort": 8, "sort": 5, "value": "teleportar\u00edan"}, {"form": "s1", "group": "subjunctive/present", "group_sort": 9, "sort": 0, "value": "teleporte"}, {"form": "s2", "group": "subjunctive/present", "group_sort": 9, "sort": 1, "value": "teleportes (t\u00fa) - teleport\u00e9s (vos)"}, {"form": "s3", "group": "subjunctive/present", "group_sort": 9, "sort": 2, "value": "teleporte"}, {"form": "p1", "group": "subjunctive/present", "group_sort": 9, "sort": 3, "value": "teleportemos"}, {"form": "p2", "group": "subjunctive/present", "group_sort": 9, "sort": 4, "value": "teleport\u00e9is"}, {"form": "p3", "group": "subjunctive/present", "group_sort": 9, "sort": 5, "value": "teleporten"}, {"form": "s1", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 0, "value": "teleportara"}, {"form": "s2", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 1, "value": "teleportaras"}, {"form": "s3", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 2, "value": "teleportara"}, {"form": "p1", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 3, "value": "teleport\u00e1ramos"}, {"form": "p2", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 4, "value": "teleportarais"}, {"form": "p3", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 5, "value": "teleportaran"}, {"form": "s1", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 0, "value": "teleportase"}, {"form": "s2", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 1, "value": "teleportases"}, {"form": "s3", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 2, "value": "teleportase"}, {"form": "p1", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 3, "value": "teleport\u00e1semos"}, {"form": "p2", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 4, "value": "teleportaseis"}, {"form": "p3", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 5, "value": "teleportasen"}, {"form": "s1", "group": "subjunctive/future", "group_sort": 12, "sort": 0, "value": "teleportare"}, {"form": "s2", "group": "subjunctive/future", "group_sort": 12, "sort": 1, "value": "teleportares"}, {"form": "s3", "group": "subjunctive/future", "group_sort": 12, "sort": 2, "value": "teleportare"}, {"form": "p1", "group": "subjunctive/future", "group_sort": 12, "sort": 3, "value": "teleport\u00e1remos"}, {"form": "p2", "group": "subjunctive/future", "group_sort": 12, "sort": 4, "value": "teleportareis"}, {"form": "p3", "group": "subjunctive/future", "group_sort": 12, "sort": 5, "value": "teleportaren"}, {"form": "s1", "group": "imperative/affirmative", "group_sort": 13, "sort": 0, "value": ""}, {"form": "s2", "group": "imperative/affirmative", "group_sort": 13, "sort": 1, "value": "teleporta (t\u00fa) - teleport\u00e1 (vos)"}, {"form": "s3", "group": "imperative/affirmative", "group_sort": 13, "sort": 2, "value": "teleporte"}, {"form": "p1", "group": "imperative/affirmative", "group_sort": 13, "sort": 3, "value": "teleportemos"}, {"form": "p2", "group": "imperative/affirmative", "group_sort": 13, "sort": 4, "value": "teleportad"}, {"form": "p3", "group": "imperative/affirmative", "group_sort": 13, "sort": 5, "value": "teleporten"}, {"form": "s1", "group": "imperative/negative", "group_sort": 14, "sort": 0, "value": ""}, {"form": "s2", "group": "imperative/negative", "group_sort": 14, "sort": 1, "value": "no teleportes"}, {"form": "s3", "group": "imperative/negative", "group_sort": 14, "sort": 2, "value": "no teleporte"}, {"form": "p1", "group": "imperative/negative", "group_sort": 14, "sort": 3, "value": "no teleportemos"}, {"form": "p2", "group": "imperative/negative", "group_sort": 14, "sort": 4, "value": "no teleport\u00e9is"}, {"form": "p3", "group": "imperative/negative", "group_sort": 14, "sort": 5, "value": "no teleporten"}], "definitions": ["to teleport"], "description": "teleportar", "etymology": null, "page_id": 4583953, "pronunciations": ["IPA(key): /telepor\u02c8ta\u027e/, [t\u032aelepor\u02c8t\u032aa\u027e]"], "related": [], "synonyms": ["teletransportar"], "url": "https://en.wiktionary.org/?curid=4583953#Spanish", "word": "teleportar"}
+{
+  "conjugations": [
+    {
+      "group": "infinitive",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "teleportar"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "teleportando"
+    },
+    {
+      "form": "masculine",
+      "group": "pastparticiple/singular",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "teleportado"
+    },
+    {
+      "form": "feminine",
+      "group": "pastparticiple/singular",
+      "group_sort": 2,
+      "sort": 1,
+      "value": "teleportada"
+    },
+    {
+      "form": "masculine",
+      "group": "pastparticiple/plural",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "teleportados"
+    },
+    {
+      "form": "feminine",
+      "group": "pastparticiple/plural",
+      "group_sort": 3,
+      "sort": 1,
+      "value": "teleportadas"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "teleporto"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 1,
+      "value": "teleportas (tú) - teleportás (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 2,
+      "value": "teleporta"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 3,
+      "value": "teleportamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 4,
+      "value": "teleportáis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 5,
+      "value": "teleportan"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "teleportaba"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "teleportabas"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 2,
+      "value": "teleportaba"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 3,
+      "value": "teleportábamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 4,
+      "value": "teleportabais"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 5,
+      "value": "teleportaban"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "teleporté"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "teleportaste"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 2,
+      "value": "teleportó"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 3,
+      "value": "teleportamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 4,
+      "value": "teleportasteis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 5,
+      "value": "teleportaron"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "teleportaré"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "teleportarás"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "teleportará"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "teleportaremos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "teleportaréis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "teleportarán"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "teleportaría"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "teleportarías"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "teleportaría"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "teleportaríamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "teleportaríais"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "teleportarían"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "teleporte"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "teleportes (tú) - teleportés (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "teleporte"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "teleportemos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "teleportéis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "teleporten"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "teleportara"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "teleportaras"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "teleportara"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "teleportáramos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "teleportarais"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "teleportaran"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "teleportase"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "teleportases"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "teleportase"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "teleportásemos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "teleportaseis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "teleportasen"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 0,
+      "value": "teleportare"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "teleportares"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "teleportare"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "teleportáremos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "teleportareis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "teleportaren"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 1,
+      "value": "teleporta (tú) - teleportá (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 2,
+      "value": "teleporte"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 3,
+      "value": "teleportemos"
+    },
+    {
+      "form": "p2",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 4,
+      "value": "teleportad"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 5,
+      "value": "teleporten"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 1,
+      "value": "no teleportes"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 2,
+      "value": "no teleporte"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 3,
+      "value": "no teleportemos"
+    },
+    {
+      "form": "p2",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 4,
+      "value": "no teleportéis"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 5,
+      "value": "no teleporten"
+    }
+  ],
+  "definitions": [
+    "to teleport"
+  ],
+  "description": "teleportar",
+  "etymology": null,
+  "page_id": 4583953,
+  "pronunciations": [
+    "IPA(key): /teleporˈtaɾ/, [t̪eleporˈt̪aɾ]"
+  ],
+  "related": [],
+  "synonyms": [
+    "teletransportar"
+  ],
+  "url": "https://en.wiktionary.org/?curid=4583953#Spanish",
+  "word": "teleportar"
+}

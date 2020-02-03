@@ -1,1 +1,535 @@
-{"conjugations": [{"group": "infinitive", "group_sort": 0, "sort": 0, "value": "espabilar"}, {"group": "gerund", "group_sort": 1, "sort": 0, "value": "espabilando"}, {"form": "masculine", "group": "pastparticiple/singular", "group_sort": 2, "sort": 0, "value": "espabilado"}, {"form": "feminine", "group": "pastparticiple/singular", "group_sort": 2, "sort": 1, "value": "espabilada"}, {"form": "masculine", "group": "pastparticiple/plural", "group_sort": 3, "sort": 0, "value": "espabilados"}, {"form": "feminine", "group": "pastparticiple/plural", "group_sort": 3, "sort": 1, "value": "espabiladas"}, {"form": "s1", "group": "indicative/present", "group_sort": 4, "sort": 0, "value": "espabilo"}, {"form": "s2", "group": "indicative/present", "group_sort": 4, "sort": 1, "value": "espabilas (t\u00fa) - espabil\u00e1s (vos)"}, {"form": "s3", "group": "indicative/present", "group_sort": 4, "sort": 2, "value": "espabila"}, {"form": "p1", "group": "indicative/present", "group_sort": 4, "sort": 3, "value": "espabilamos"}, {"form": "p2", "group": "indicative/present", "group_sort": 4, "sort": 4, "value": "espabil\u00e1is"}, {"form": "p3", "group": "indicative/present", "group_sort": 4, "sort": 5, "value": "espabilan"}, {"form": "s1", "group": "indicative/imperfect", "group_sort": 5, "sort": 0, "value": "espabilaba"}, {"form": "s2", "group": "indicative/imperfect", "group_sort": 5, "sort": 1, "value": "espabilabas"}, {"form": "s3", "group": "indicative/imperfect", "group_sort": 5, "sort": 2, "value": "espabilaba"}, {"form": "p1", "group": "indicative/imperfect", "group_sort": 5, "sort": 3, "value": "espabil\u00e1bamos"}, {"form": "p2", "group": "indicative/imperfect", "group_sort": 5, "sort": 4, "value": "espabilabais"}, {"form": "p3", "group": "indicative/imperfect", "group_sort": 5, "sort": 5, "value": "espabilaban"}, {"form": "s1", "group": "indicative/preterite", "group_sort": 6, "sort": 0, "value": "espabil\u00e9"}, {"form": "s2", "group": "indicative/preterite", "group_sort": 6, "sort": 1, "value": "espabilaste"}, {"form": "s3", "group": "indicative/preterite", "group_sort": 6, "sort": 2, "value": "espabil\u00f3"}, {"form": "p1", "group": "indicative/preterite", "group_sort": 6, "sort": 3, "value": "espabilamos"}, {"form": "p2", "group": "indicative/preterite", "group_sort": 6, "sort": 4, "value": "espabilasteis"}, {"form": "p3", "group": "indicative/preterite", "group_sort": 6, "sort": 5, "value": "espabilaron"}, {"form": "s1", "group": "indicative/future", "group_sort": 7, "sort": 0, "value": "espabilar\u00e9"}, {"form": "s2", "group": "indicative/future", "group_sort": 7, "sort": 1, "value": "espabilar\u00e1s"}, {"form": "s3", "group": "indicative/future", "group_sort": 7, "sort": 2, "value": "espabilar\u00e1"}, {"form": "p1", "group": "indicative/future", "group_sort": 7, "sort": 3, "value": "espabilaremos"}, {"form": "p2", "group": "indicative/future", "group_sort": 7, "sort": 4, "value": "espabilar\u00e9is"}, {"form": "p3", "group": "indicative/future", "group_sort": 7, "sort": 5, "value": "espabilar\u00e1n"}, {"form": "s1", "group": "indicative/conditional", "group_sort": 8, "sort": 0, "value": "espabilar\u00eda"}, {"form": "s2", "group": "indicative/conditional", "group_sort": 8, "sort": 1, "value": "espabilar\u00edas"}, {"form": "s3", "group": "indicative/conditional", "group_sort": 8, "sort": 2, "value": "espabilar\u00eda"}, {"form": "p1", "group": "indicative/conditional", "group_sort": 8, "sort": 3, "value": "espabilar\u00edamos"}, {"form": "p2", "group": "indicative/conditional", "group_sort": 8, "sort": 4, "value": "espabilar\u00edais"}, {"form": "p3", "group": "indicative/conditional", "group_sort": 8, "sort": 5, "value": "espabilar\u00edan"}, {"form": "s1", "group": "subjunctive/present", "group_sort": 9, "sort": 0, "value": "espabile"}, {"form": "s2", "group": "subjunctive/present", "group_sort": 9, "sort": 1, "value": "espabiles (t\u00fa) - espabil\u00e9s (vos)"}, {"form": "s3", "group": "subjunctive/present", "group_sort": 9, "sort": 2, "value": "espabile"}, {"form": "p1", "group": "subjunctive/present", "group_sort": 9, "sort": 3, "value": "espabilemos"}, {"form": "p2", "group": "subjunctive/present", "group_sort": 9, "sort": 4, "value": "espabil\u00e9is"}, {"form": "p3", "group": "subjunctive/present", "group_sort": 9, "sort": 5, "value": "espabilen"}, {"form": "s1", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 0, "value": "espabilara"}, {"form": "s2", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 1, "value": "espabilaras"}, {"form": "s3", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 2, "value": "espabilara"}, {"form": "p1", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 3, "value": "espabil\u00e1ramos"}, {"form": "p2", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 4, "value": "espabilarais"}, {"form": "p3", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 5, "value": "espabilaran"}, {"form": "s1", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 0, "value": "espabilase"}, {"form": "s2", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 1, "value": "espabilases"}, {"form": "s3", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 2, "value": "espabilase"}, {"form": "p1", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 3, "value": "espabil\u00e1semos"}, {"form": "p2", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 4, "value": "espabilaseis"}, {"form": "p3", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 5, "value": "espabilasen"}, {"form": "s1", "group": "subjunctive/future", "group_sort": 12, "sort": 0, "value": "espabilare"}, {"form": "s2", "group": "subjunctive/future", "group_sort": 12, "sort": 1, "value": "espabilares"}, {"form": "s3", "group": "subjunctive/future", "group_sort": 12, "sort": 2, "value": "espabilare"}, {"form": "p1", "group": "subjunctive/future", "group_sort": 12, "sort": 3, "value": "espabil\u00e1remos"}, {"form": "p2", "group": "subjunctive/future", "group_sort": 12, "sort": 4, "value": "espabilareis"}, {"form": "p3", "group": "subjunctive/future", "group_sort": 12, "sort": 5, "value": "espabilaren"}, {"form": "s1", "group": "imperative/affirmative", "group_sort": 13, "sort": 0, "value": ""}, {"form": "s2", "group": "imperative/affirmative", "group_sort": 13, "sort": 1, "value": "espabila (t\u00fa) - espabil\u00e1 (vos)"}, {"form": "s3", "group": "imperative/affirmative", "group_sort": 13, "sort": 2, "value": "espabile"}, {"form": "p1", "group": "imperative/affirmative", "group_sort": 13, "sort": 3, "value": "espabilemos"}, {"form": "p2", "group": "imperative/affirmative", "group_sort": 13, "sort": 4, "value": "espabilad"}, {"form": "p3", "group": "imperative/affirmative", "group_sort": 13, "sort": 5, "value": "espabilen"}, {"form": "s1", "group": "imperative/negative", "group_sort": 14, "sort": 0, "value": ""}, {"form": "s2", "group": "imperative/negative", "group_sort": 14, "sort": 1, "value": "no espabiles"}, {"form": "s3", "group": "imperative/negative", "group_sort": 14, "sort": 2, "value": "no espabile"}, {"form": "p1", "group": "imperative/negative", "group_sort": 14, "sort": 3, "value": "no espabilemos"}, {"form": "p2", "group": "imperative/negative", "group_sort": 14, "sort": 4, "value": "no espabil\u00e9is"}, {"form": "p3", "group": "imperative/negative", "group_sort": 14, "sort": 5, "value": "no espabilen"}], "definitions": ["to remove any excedent portion of a candle's wick that is charred (to snuff a candle).", "to brighten up, to enliven, to make smart or smarter", "to wake up", "to pay attention, watch out", "to hurry up"], "description": "espabilar (first-person singular present espabilo, first-person singular preterite espabil\u00e9, past participle espabilado) (see despabilar)", "etymology": "From pabilo", "page_id": 4477209, "pronunciations": [], "related": ["pabilo", "despabilar", "despabilarse", "espabilarse"], "synonyms": ["(all senses): despabilar", "(make smart): avivarse", "avisparse", "(wake up): despertar", "despejar", "(watch out): tener cuidado", "(hurry up): apurarse", "darse prisa"], "url": "https://en.wiktionary.org/?curid=4477209#Spanish", "word": "espabilar"}
+{
+  "conjugations": [
+    {
+      "group": "infinitive",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "espabilar"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "espabilando"
+    },
+    {
+      "form": "masculine",
+      "group": "pastparticiple/singular",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "espabilado"
+    },
+    {
+      "form": "feminine",
+      "group": "pastparticiple/singular",
+      "group_sort": 2,
+      "sort": 1,
+      "value": "espabilada"
+    },
+    {
+      "form": "masculine",
+      "group": "pastparticiple/plural",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "espabilados"
+    },
+    {
+      "form": "feminine",
+      "group": "pastparticiple/plural",
+      "group_sort": 3,
+      "sort": 1,
+      "value": "espabiladas"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "espabilo"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 1,
+      "value": "espabilas (tú) - espabilás (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 2,
+      "value": "espabila"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 3,
+      "value": "espabilamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 4,
+      "value": "espabiláis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 5,
+      "value": "espabilan"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "espabilaba"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "espabilabas"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 2,
+      "value": "espabilaba"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 3,
+      "value": "espabilábamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 4,
+      "value": "espabilabais"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 5,
+      "value": "espabilaban"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "espabilé"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "espabilaste"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 2,
+      "value": "espabiló"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 3,
+      "value": "espabilamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 4,
+      "value": "espabilasteis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 5,
+      "value": "espabilaron"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "espabilaré"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "espabilarás"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "espabilará"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "espabilaremos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "espabilaréis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "espabilarán"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "espabilaría"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "espabilarías"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "espabilaría"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "espabilaríamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "espabilaríais"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "espabilarían"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "espabile"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "espabiles (tú) - espabilés (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "espabile"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "espabilemos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "espabiléis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "espabilen"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "espabilara"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "espabilaras"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "espabilara"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "espabiláramos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "espabilarais"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "espabilaran"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "espabilase"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "espabilases"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "espabilase"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "espabilásemos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "espabilaseis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "espabilasen"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 0,
+      "value": "espabilare"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "espabilares"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "espabilare"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "espabiláremos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "espabilareis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "espabilaren"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 1,
+      "value": "espabila (tú) - espabilá (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 2,
+      "value": "espabile"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 3,
+      "value": "espabilemos"
+    },
+    {
+      "form": "p2",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 4,
+      "value": "espabilad"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 5,
+      "value": "espabilen"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 1,
+      "value": "no espabiles"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 2,
+      "value": "no espabile"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 3,
+      "value": "no espabilemos"
+    },
+    {
+      "form": "p2",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 4,
+      "value": "no espabiléis"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 5,
+      "value": "no espabilen"
+    }
+  ],
+  "definitions": [
+    "to remove any excedent portion of a candle's wick that is charred (to snuff a candle).",
+    "to brighten up, to enliven, to make smart or smarter",
+    "to wake up",
+    "to pay attention, watch out",
+    "to hurry up"
+  ],
+  "description": "espabilar (first-person singular present espabilo, first-person singular preterite espabilé, past participle espabilado) (see despabilar)",
+  "etymology": "From pabilo",
+  "page_id": 4477209,
+  "pronunciations": [],
+  "related": [
+    "pabilo",
+    "despabilar",
+    "despabilarse",
+    "espabilarse"
+  ],
+  "synonyms": [
+    "(all senses): despabilar",
+    "(make smart): avivarse",
+    "avisparse",
+    "(wake up): despertar",
+    "despejar",
+    "(watch out): tener cuidado",
+    "(hurry up): apurarse",
+    "darse prisa"
+  ],
+  "url": "https://en.wiktionary.org/?curid=4477209#Spanish",
+  "word": "espabilar"
+}

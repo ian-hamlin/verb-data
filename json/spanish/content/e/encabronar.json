@@ -1,1 +1,522 @@
-{"conjugations": [{"group": "infinitive", "group_sort": 0, "sort": 0, "value": "encabronar"}, {"group": "gerund", "group_sort": 1, "sort": 0, "value": "encabronando"}, {"form": "masculine", "group": "pastparticiple/singular", "group_sort": 2, "sort": 0, "value": "encabronado"}, {"form": "feminine", "group": "pastparticiple/singular", "group_sort": 2, "sort": 1, "value": "encabronada"}, {"form": "masculine", "group": "pastparticiple/plural", "group_sort": 3, "sort": 0, "value": "encabronados"}, {"form": "feminine", "group": "pastparticiple/plural", "group_sort": 3, "sort": 1, "value": "encabronadas"}, {"form": "s1", "group": "indicative/present", "group_sort": 4, "sort": 0, "value": "encabrono"}, {"form": "s2", "group": "indicative/present", "group_sort": 4, "sort": 1, "value": "encabronas (t\u00fa) - encabron\u00e1s (vos)"}, {"form": "s3", "group": "indicative/present", "group_sort": 4, "sort": 2, "value": "encabrona"}, {"form": "p1", "group": "indicative/present", "group_sort": 4, "sort": 3, "value": "encabronamos"}, {"form": "p2", "group": "indicative/present", "group_sort": 4, "sort": 4, "value": "encabron\u00e1is"}, {"form": "p3", "group": "indicative/present", "group_sort": 4, "sort": 5, "value": "encabronan"}, {"form": "s1", "group": "indicative/imperfect", "group_sort": 5, "sort": 0, "value": "encabronaba"}, {"form": "s2", "group": "indicative/imperfect", "group_sort": 5, "sort": 1, "value": "encabronabas"}, {"form": "s3", "group": "indicative/imperfect", "group_sort": 5, "sort": 2, "value": "encabronaba"}, {"form": "p1", "group": "indicative/imperfect", "group_sort": 5, "sort": 3, "value": "encabron\u00e1bamos"}, {"form": "p2", "group": "indicative/imperfect", "group_sort": 5, "sort": 4, "value": "encabronabais"}, {"form": "p3", "group": "indicative/imperfect", "group_sort": 5, "sort": 5, "value": "encabronaban"}, {"form": "s1", "group": "indicative/preterite", "group_sort": 6, "sort": 0, "value": "encabron\u00e9"}, {"form": "s2", "group": "indicative/preterite", "group_sort": 6, "sort": 1, "value": "encabronaste"}, {"form": "s3", "group": "indicative/preterite", "group_sort": 6, "sort": 2, "value": "encabron\u00f3"}, {"form": "p1", "group": "indicative/preterite", "group_sort": 6, "sort": 3, "value": "encabronamos"}, {"form": "p2", "group": "indicative/preterite", "group_sort": 6, "sort": 4, "value": "encabronasteis"}, {"form": "p3", "group": "indicative/preterite", "group_sort": 6, "sort": 5, "value": "encabronaron"}, {"form": "s1", "group": "indicative/future", "group_sort": 7, "sort": 0, "value": "encabronar\u00e9"}, {"form": "s2", "group": "indicative/future", "group_sort": 7, "sort": 1, "value": "encabronar\u00e1s"}, {"form": "s3", "group": "indicative/future", "group_sort": 7, "sort": 2, "value": "encabronar\u00e1"}, {"form": "p1", "group": "indicative/future", "group_sort": 7, "sort": 3, "value": "encabronaremos"}, {"form": "p2", "group": "indicative/future", "group_sort": 7, "sort": 4, "value": "encabronar\u00e9is"}, {"form": "p3", "group": "indicative/future", "group_sort": 7, "sort": 5, "value": "encabronar\u00e1n"}, {"form": "s1", "group": "indicative/conditional", "group_sort": 8, "sort": 0, "value": "encabronar\u00eda"}, {"form": "s2", "group": "indicative/conditional", "group_sort": 8, "sort": 1, "value": "encabronar\u00edas"}, {"form": "s3", "group": "indicative/conditional", "group_sort": 8, "sort": 2, "value": "encabronar\u00eda"}, {"form": "p1", "group": "indicative/conditional", "group_sort": 8, "sort": 3, "value": "encabronar\u00edamos"}, {"form": "p2", "group": "indicative/conditional", "group_sort": 8, "sort": 4, "value": "encabronar\u00edais"}, {"form": "p3", "group": "indicative/conditional", "group_sort": 8, "sort": 5, "value": "encabronar\u00edan"}, {"form": "s1", "group": "subjunctive/present", "group_sort": 9, "sort": 0, "value": "encabrone"}, {"form": "s2", "group": "subjunctive/present", "group_sort": 9, "sort": 1, "value": "encabrones (t\u00fa) - encabron\u00e9s (vos)"}, {"form": "s3", "group": "subjunctive/present", "group_sort": 9, "sort": 2, "value": "encabrone"}, {"form": "p1", "group": "subjunctive/present", "group_sort": 9, "sort": 3, "value": "encabronemos"}, {"form": "p2", "group": "subjunctive/present", "group_sort": 9, "sort": 4, "value": "encabron\u00e9is"}, {"form": "p3", "group": "subjunctive/present", "group_sort": 9, "sort": 5, "value": "encabronen"}, {"form": "s1", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 0, "value": "encabronara"}, {"form": "s2", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 1, "value": "encabronaras"}, {"form": "s3", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 2, "value": "encabronara"}, {"form": "p1", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 3, "value": "encabron\u00e1ramos"}, {"form": "p2", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 4, "value": "encabronarais"}, {"form": "p3", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 5, "value": "encabronaran"}, {"form": "s1", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 0, "value": "encabronase"}, {"form": "s2", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 1, "value": "encabronases"}, {"form": "s3", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 2, "value": "encabronase"}, {"form": "p1", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 3, "value": "encabron\u00e1semos"}, {"form": "p2", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 4, "value": "encabronaseis"}, {"form": "p3", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 5, "value": "encabronasen"}, {"form": "s1", "group": "subjunctive/future", "group_sort": 12, "sort": 0, "value": "encabronare"}, {"form": "s2", "group": "subjunctive/future", "group_sort": 12, "sort": 1, "value": "encabronares"}, {"form": "s3", "group": "subjunctive/future", "group_sort": 12, "sort": 2, "value": "encabronare"}, {"form": "p1", "group": "subjunctive/future", "group_sort": 12, "sort": 3, "value": "encabron\u00e1remos"}, {"form": "p2", "group": "subjunctive/future", "group_sort": 12, "sort": 4, "value": "encabronareis"}, {"form": "p3", "group": "subjunctive/future", "group_sort": 12, "sort": 5, "value": "encabronaren"}, {"form": "s1", "group": "imperative/affirmative", "group_sort": 13, "sort": 0, "value": ""}, {"form": "s2", "group": "imperative/affirmative", "group_sort": 13, "sort": 1, "value": "encabrona (t\u00fa) - encabron\u00e1 (vos)"}, {"form": "s3", "group": "imperative/affirmative", "group_sort": 13, "sort": 2, "value": "encabrone"}, {"form": "p1", "group": "imperative/affirmative", "group_sort": 13, "sort": 3, "value": "encabronemos"}, {"form": "p2", "group": "imperative/affirmative", "group_sort": 13, "sort": 4, "value": "encabronad"}, {"form": "p3", "group": "imperative/affirmative", "group_sort": 13, "sort": 5, "value": "encabronen"}, {"form": "s1", "group": "imperative/negative", "group_sort": 14, "sort": 0, "value": ""}, {"form": "s2", "group": "imperative/negative", "group_sort": 14, "sort": 1, "value": "no encabrones"}, {"form": "s3", "group": "imperative/negative", "group_sort": 14, "sort": 2, "value": "no encabrone"}, {"form": "p1", "group": "imperative/negative", "group_sort": 14, "sort": 3, "value": "no encabronemos"}, {"form": "p2", "group": "imperative/negative", "group_sort": 14, "sort": 4, "value": "no encabron\u00e9is"}, {"form": "p3", "group": "imperative/negative", "group_sort": 14, "sort": 5, "value": "no encabronen"}], "definitions": ["to bore", "(reflexive) to get angry, very frustrated"], "description": "encabronar (first-person singular present encabrono, first-person singular preterite encabron\u00e9, past participle encabronado)", "etymology": "From en- + cabr\u00f3n + -ar.", "page_id": 3486440, "pronunciations": ["IPA(key): /enkab\u027eo\u02c8na\u027e/, [\u1ebd\u014bka\u03b2\u027eo\u02c8na\u027e]"], "related": [], "synonyms": ["enputar"], "url": "https://en.wiktionary.org/?curid=3486440#Spanish", "word": "encabronar"}
+{
+  "conjugations": [
+    {
+      "group": "infinitive",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "encabronar"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "encabronando"
+    },
+    {
+      "form": "masculine",
+      "group": "pastparticiple/singular",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "encabronado"
+    },
+    {
+      "form": "feminine",
+      "group": "pastparticiple/singular",
+      "group_sort": 2,
+      "sort": 1,
+      "value": "encabronada"
+    },
+    {
+      "form": "masculine",
+      "group": "pastparticiple/plural",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "encabronados"
+    },
+    {
+      "form": "feminine",
+      "group": "pastparticiple/plural",
+      "group_sort": 3,
+      "sort": 1,
+      "value": "encabronadas"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "encabrono"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 1,
+      "value": "encabronas (tú) - encabronás (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 2,
+      "value": "encabrona"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 3,
+      "value": "encabronamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 4,
+      "value": "encabronáis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 5,
+      "value": "encabronan"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "encabronaba"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "encabronabas"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 2,
+      "value": "encabronaba"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 3,
+      "value": "encabronábamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 4,
+      "value": "encabronabais"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 5,
+      "value": "encabronaban"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "encabroné"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "encabronaste"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 2,
+      "value": "encabronó"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 3,
+      "value": "encabronamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 4,
+      "value": "encabronasteis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 5,
+      "value": "encabronaron"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "encabronaré"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "encabronarás"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "encabronará"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "encabronaremos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "encabronaréis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "encabronarán"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "encabronaría"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "encabronarías"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "encabronaría"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "encabronaríamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "encabronaríais"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "encabronarían"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "encabrone"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "encabrones (tú) - encabronés (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "encabrone"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "encabronemos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "encabronéis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "encabronen"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "encabronara"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "encabronaras"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "encabronara"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "encabronáramos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "encabronarais"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "encabronaran"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "encabronase"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "encabronases"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "encabronase"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "encabronásemos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "encabronaseis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "encabronasen"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 0,
+      "value": "encabronare"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "encabronares"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "encabronare"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "encabronáremos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "encabronareis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "encabronaren"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 1,
+      "value": "encabrona (tú) - encabroná (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 2,
+      "value": "encabrone"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 3,
+      "value": "encabronemos"
+    },
+    {
+      "form": "p2",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 4,
+      "value": "encabronad"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 5,
+      "value": "encabronen"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 1,
+      "value": "no encabrones"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 2,
+      "value": "no encabrone"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 3,
+      "value": "no encabronemos"
+    },
+    {
+      "form": "p2",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 4,
+      "value": "no encabronéis"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 5,
+      "value": "no encabronen"
+    }
+  ],
+  "definitions": [
+    "to bore",
+    "(reflexive) to get angry, very frustrated"
+  ],
+  "description": "encabronar (first-person singular present encabrono, first-person singular preterite encabroné, past participle encabronado)",
+  "etymology": "From en- + cabrón + -ar.",
+  "page_id": 3486440,
+  "pronunciations": [
+    "IPA(key): /enkabɾoˈnaɾ/, [ẽŋkaβɾoˈnaɾ]"
+  ],
+  "related": [],
+  "synonyms": [
+    "enputar"
+  ],
+  "url": "https://en.wiktionary.org/?curid=3486440#Spanish",
+  "word": "encabronar"
+}

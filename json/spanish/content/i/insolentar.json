@@ -1,1 +1,517 @@
-{"conjugations": [{"group": "infinitive", "group_sort": 0, "sort": 0, "value": "insolentar"}, {"group": "gerund", "group_sort": 1, "sort": 0, "value": "insolentando"}, {"form": "masculine", "group": "pastparticiple/singular", "group_sort": 2, "sort": 0, "value": "insolentado"}, {"form": "feminine", "group": "pastparticiple/singular", "group_sort": 2, "sort": 1, "value": "insolentada"}, {"form": "masculine", "group": "pastparticiple/plural", "group_sort": 3, "sort": 0, "value": "insolentados"}, {"form": "feminine", "group": "pastparticiple/plural", "group_sort": 3, "sort": 1, "value": "insolentadas"}, {"form": "s1", "group": "indicative/present", "group_sort": 4, "sort": 0, "value": "insolento"}, {"form": "s2", "group": "indicative/present", "group_sort": 4, "sort": 1, "value": "insolentas (t\u00fa) - insolent\u00e1s (vos)"}, {"form": "s3", "group": "indicative/present", "group_sort": 4, "sort": 2, "value": "insolenta"}, {"form": "p1", "group": "indicative/present", "group_sort": 4, "sort": 3, "value": "insolentamos"}, {"form": "p2", "group": "indicative/present", "group_sort": 4, "sort": 4, "value": "insolent\u00e1is"}, {"form": "p3", "group": "indicative/present", "group_sort": 4, "sort": 5, "value": "insolentan"}, {"form": "s1", "group": "indicative/imperfect", "group_sort": 5, "sort": 0, "value": "insolentaba"}, {"form": "s2", "group": "indicative/imperfect", "group_sort": 5, "sort": 1, "value": "insolentabas"}, {"form": "s3", "group": "indicative/imperfect", "group_sort": 5, "sort": 2, "value": "insolentaba"}, {"form": "p1", "group": "indicative/imperfect", "group_sort": 5, "sort": 3, "value": "insolent\u00e1bamos"}, {"form": "p2", "group": "indicative/imperfect", "group_sort": 5, "sort": 4, "value": "insolentabais"}, {"form": "p3", "group": "indicative/imperfect", "group_sort": 5, "sort": 5, "value": "insolentaban"}, {"form": "s1", "group": "indicative/preterite", "group_sort": 6, "sort": 0, "value": "insolent\u00e9"}, {"form": "s2", "group": "indicative/preterite", "group_sort": 6, "sort": 1, "value": "insolentaste"}, {"form": "s3", "group": "indicative/preterite", "group_sort": 6, "sort": 2, "value": "insolent\u00f3"}, {"form": "p1", "group": "indicative/preterite", "group_sort": 6, "sort": 3, "value": "insolentamos"}, {"form": "p2", "group": "indicative/preterite", "group_sort": 6, "sort": 4, "value": "insolentasteis"}, {"form": "p3", "group": "indicative/preterite", "group_sort": 6, "sort": 5, "value": "insolentaron"}, {"form": "s1", "group": "indicative/future", "group_sort": 7, "sort": 0, "value": "insolentar\u00e9"}, {"form": "s2", "group": "indicative/future", "group_sort": 7, "sort": 1, "value": "insolentar\u00e1s"}, {"form": "s3", "group": "indicative/future", "group_sort": 7, "sort": 2, "value": "insolentar\u00e1"}, {"form": "p1", "group": "indicative/future", "group_sort": 7, "sort": 3, "value": "insolentaremos"}, {"form": "p2", "group": "indicative/future", "group_sort": 7, "sort": 4, "value": "insolentar\u00e9is"}, {"form": "p3", "group": "indicative/future", "group_sort": 7, "sort": 5, "value": "insolentar\u00e1n"}, {"form": "s1", "group": "indicative/conditional", "group_sort": 8, "sort": 0, "value": "insolentar\u00eda"}, {"form": "s2", "group": "indicative/conditional", "group_sort": 8, "sort": 1, "value": "insolentar\u00edas"}, {"form": "s3", "group": "indicative/conditional", "group_sort": 8, "sort": 2, "value": "insolentar\u00eda"}, {"form": "p1", "group": "indicative/conditional", "group_sort": 8, "sort": 3, "value": "insolentar\u00edamos"}, {"form": "p2", "group": "indicative/conditional", "group_sort": 8, "sort": 4, "value": "insolentar\u00edais"}, {"form": "p3", "group": "indicative/conditional", "group_sort": 8, "sort": 5, "value": "insolentar\u00edan"}, {"form": "s1", "group": "subjunctive/present", "group_sort": 9, "sort": 0, "value": "insolente"}, {"form": "s2", "group": "subjunctive/present", "group_sort": 9, "sort": 1, "value": "insolentes (t\u00fa) - insolent\u00e9s (vos)"}, {"form": "s3", "group": "subjunctive/present", "group_sort": 9, "sort": 2, "value": "insolente"}, {"form": "p1", "group": "subjunctive/present", "group_sort": 9, "sort": 3, "value": "insolentemos"}, {"form": "p2", "group": "subjunctive/present", "group_sort": 9, "sort": 4, "value": "insolent\u00e9is"}, {"form": "p3", "group": "subjunctive/present", "group_sort": 9, "sort": 5, "value": "insolenten"}, {"form": "s1", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 0, "value": "insolentara"}, {"form": "s2", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 1, "value": "insolentaras"}, {"form": "s3", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 2, "value": "insolentara"}, {"form": "p1", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 3, "value": "insolent\u00e1ramos"}, {"form": "p2", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 4, "value": "insolentarais"}, {"form": "p3", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 5, "value": "insolentaran"}, {"form": "s1", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 0, "value": "insolentase"}, {"form": "s2", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 1, "value": "insolentases"}, {"form": "s3", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 2, "value": "insolentase"}, {"form": "p1", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 3, "value": "insolent\u00e1semos"}, {"form": "p2", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 4, "value": "insolentaseis"}, {"form": "p3", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 5, "value": "insolentasen"}, {"form": "s1", "group": "subjunctive/future", "group_sort": 12, "sort": 0, "value": "insolentare"}, {"form": "s2", "group": "subjunctive/future", "group_sort": 12, "sort": 1, "value": "insolentares"}, {"form": "s3", "group": "subjunctive/future", "group_sort": 12, "sort": 2, "value": "insolentare"}, {"form": "p1", "group": "subjunctive/future", "group_sort": 12, "sort": 3, "value": "insolent\u00e1remos"}, {"form": "p2", "group": "subjunctive/future", "group_sort": 12, "sort": 4, "value": "insolentareis"}, {"form": "p3", "group": "subjunctive/future", "group_sort": 12, "sort": 5, "value": "insolentaren"}, {"form": "s1", "group": "imperative/affirmative", "group_sort": 13, "sort": 0, "value": ""}, {"form": "s2", "group": "imperative/affirmative", "group_sort": 13, "sort": 1, "value": "insolenta (t\u00fa) - insolent\u00e1 (vos)"}, {"form": "s3", "group": "imperative/affirmative", "group_sort": 13, "sort": 2, "value": "insolente"}, {"form": "p1", "group": "imperative/affirmative", "group_sort": 13, "sort": 3, "value": "insolentemos"}, {"form": "p2", "group": "imperative/affirmative", "group_sort": 13, "sort": 4, "value": "insolentad"}, {"form": "p3", "group": "imperative/affirmative", "group_sort": 13, "sort": 5, "value": "insolenten"}, {"form": "s1", "group": "imperative/negative", "group_sort": 14, "sort": 0, "value": ""}, {"form": "s2", "group": "imperative/negative", "group_sort": 14, "sort": 1, "value": "no insolentes"}, {"form": "s3", "group": "imperative/negative", "group_sort": 14, "sort": 2, "value": "no insolente"}, {"form": "p1", "group": "imperative/negative", "group_sort": 14, "sort": 3, "value": "no insolentemos"}, {"form": "p2", "group": "imperative/negative", "group_sort": 14, "sort": 4, "value": "no insolent\u00e9is"}, {"form": "p3", "group": "imperative/negative", "group_sort": 14, "sort": 5, "value": "no insolenten"}], "definitions": ["To make someone insolent"], "description": "insolentar", "etymology": null, "page_id": 6957382, "pronunciations": [], "related": [], "synonyms": [], "url": "https://en.wiktionary.org/?curid=6957382#Spanish", "word": "insolentar"}
+{
+  "conjugations": [
+    {
+      "group": "infinitive",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "insolentar"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "insolentando"
+    },
+    {
+      "form": "masculine",
+      "group": "pastparticiple/singular",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "insolentado"
+    },
+    {
+      "form": "feminine",
+      "group": "pastparticiple/singular",
+      "group_sort": 2,
+      "sort": 1,
+      "value": "insolentada"
+    },
+    {
+      "form": "masculine",
+      "group": "pastparticiple/plural",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "insolentados"
+    },
+    {
+      "form": "feminine",
+      "group": "pastparticiple/plural",
+      "group_sort": 3,
+      "sort": 1,
+      "value": "insolentadas"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "insolento"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 1,
+      "value": "insolentas (tú) - insolentás (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 2,
+      "value": "insolenta"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 3,
+      "value": "insolentamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 4,
+      "value": "insolentáis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 5,
+      "value": "insolentan"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "insolentaba"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "insolentabas"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 2,
+      "value": "insolentaba"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 3,
+      "value": "insolentábamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 4,
+      "value": "insolentabais"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 5,
+      "value": "insolentaban"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "insolenté"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "insolentaste"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 2,
+      "value": "insolentó"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 3,
+      "value": "insolentamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 4,
+      "value": "insolentasteis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 5,
+      "value": "insolentaron"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "insolentaré"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "insolentarás"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "insolentará"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "insolentaremos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "insolentaréis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "insolentarán"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "insolentaría"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "insolentarías"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "insolentaría"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "insolentaríamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "insolentaríais"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "insolentarían"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "insolente"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "insolentes (tú) - insolentés (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "insolente"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "insolentemos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "insolentéis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "insolenten"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "insolentara"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "insolentaras"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "insolentara"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "insolentáramos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "insolentarais"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "insolentaran"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "insolentase"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "insolentases"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "insolentase"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "insolentásemos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "insolentaseis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "insolentasen"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 0,
+      "value": "insolentare"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "insolentares"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "insolentare"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "insolentáremos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "insolentareis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "insolentaren"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 1,
+      "value": "insolenta (tú) - insolentá (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 2,
+      "value": "insolente"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 3,
+      "value": "insolentemos"
+    },
+    {
+      "form": "p2",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 4,
+      "value": "insolentad"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 5,
+      "value": "insolenten"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 1,
+      "value": "no insolentes"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 2,
+      "value": "no insolente"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 3,
+      "value": "no insolentemos"
+    },
+    {
+      "form": "p2",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 4,
+      "value": "no insolentéis"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 5,
+      "value": "no insolenten"
+    }
+  ],
+  "definitions": [
+    "To make someone insolent"
+  ],
+  "description": "insolentar",
+  "etymology": null,
+  "page_id": 6957382,
+  "pronunciations": [],
+  "related": [],
+  "synonyms": [],
+  "url": "https://en.wiktionary.org/?curid=6957382#Spanish",
+  "word": "insolentar"
+}

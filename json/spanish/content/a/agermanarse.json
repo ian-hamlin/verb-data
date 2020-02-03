@@ -1,1 +1,517 @@
-{"conjugations": [{"group": "infinitive", "group_sort": 0, "sort": 0, "value": "agermanarse"}, {"group": "gerund", "group_sort": 1, "sort": 0, "value": "agerman\u00e1ndose"}, {"form": "masculine", "group": "pastparticiple/singular", "group_sort": 2, "sort": 0, "value": "agermanado"}, {"form": "feminine", "group": "pastparticiple/singular", "group_sort": 2, "sort": 1, "value": "agermanada"}, {"form": "masculine", "group": "pastparticiple/plural", "group_sort": 3, "sort": 0, "value": "agermanados"}, {"form": "feminine", "group": "pastparticiple/plural", "group_sort": 3, "sort": 1, "value": "agermanadas"}, {"form": "s1", "group": "indicative/present", "group_sort": 4, "sort": 0, "value": "me agermano"}, {"form": "s2", "group": "indicative/present", "group_sort": 4, "sort": 1, "value": "te agermanas"}, {"form": "s3", "group": "indicative/present", "group_sort": 4, "sort": 2, "value": "se agermana"}, {"form": "p1", "group": "indicative/present", "group_sort": 4, "sort": 3, "value": "nos agermanamos"}, {"form": "p2", "group": "indicative/present", "group_sort": 4, "sort": 4, "value": "os agerman\u00e1is"}, {"form": "p3", "group": "indicative/present", "group_sort": 4, "sort": 5, "value": "se agermanan"}, {"form": "s1", "group": "indicative/imperfect", "group_sort": 5, "sort": 0, "value": "me agermanaba"}, {"form": "s2", "group": "indicative/imperfect", "group_sort": 5, "sort": 1, "value": "te agermanabas"}, {"form": "s3", "group": "indicative/imperfect", "group_sort": 5, "sort": 2, "value": "se agermanaba"}, {"form": "p1", "group": "indicative/imperfect", "group_sort": 5, "sort": 3, "value": "nos agerman\u00e1bamos"}, {"form": "p2", "group": "indicative/imperfect", "group_sort": 5, "sort": 4, "value": "os agermanabais"}, {"form": "p3", "group": "indicative/imperfect", "group_sort": 5, "sort": 5, "value": "se agermanaban"}, {"form": "s1", "group": "indicative/preterite", "group_sort": 6, "sort": 0, "value": "me agerman\u00e9"}, {"form": "s2", "group": "indicative/preterite", "group_sort": 6, "sort": 1, "value": "te agermanaste"}, {"form": "s3", "group": "indicative/preterite", "group_sort": 6, "sort": 2, "value": "se agerman\u00f3"}, {"form": "p1", "group": "indicative/preterite", "group_sort": 6, "sort": 3, "value": "nos agermanamos"}, {"form": "p2", "group": "indicative/preterite", "group_sort": 6, "sort": 4, "value": "os agermanasteis"}, {"form": "p3", "group": "indicative/preterite", "group_sort": 6, "sort": 5, "value": "se agermanaron"}, {"form": "s1", "group": "indicative/future", "group_sort": 7, "sort": 0, "value": "me agermanar\u00e9"}, {"form": "s2", "group": "indicative/future", "group_sort": 7, "sort": 1, "value": "te agermanar\u00e1s"}, {"form": "s3", "group": "indicative/future", "group_sort": 7, "sort": 2, "value": "se agermanar\u00e1"}, {"form": "p1", "group": "indicative/future", "group_sort": 7, "sort": 3, "value": "nos agermanaremos"}, {"form": "p2", "group": "indicative/future", "group_sort": 7, "sort": 4, "value": "os agermanar\u00e9is"}, {"form": "p3", "group": "indicative/future", "group_sort": 7, "sort": 5, "value": "se agermanar\u00e1n"}, {"form": "s1", "group": "indicative/conditional", "group_sort": 8, "sort": 0, "value": "me agermanar\u00eda"}, {"form": "s2", "group": "indicative/conditional", "group_sort": 8, "sort": 1, "value": "te agermanar\u00edas"}, {"form": "s3", "group": "indicative/conditional", "group_sort": 8, "sort": 2, "value": "se agermanar\u00eda"}, {"form": "p1", "group": "indicative/conditional", "group_sort": 8, "sort": 3, "value": "nos agermanar\u00edamos"}, {"form": "p2", "group": "indicative/conditional", "group_sort": 8, "sort": 4, "value": "os agermanar\u00edais"}, {"form": "p3", "group": "indicative/conditional", "group_sort": 8, "sort": 5, "value": "se agermanar\u00edan"}, {"form": "s1", "group": "subjunctive/present", "group_sort": 9, "sort": 0, "value": "me agermane"}, {"form": "s2", "group": "subjunctive/present", "group_sort": 9, "sort": 1, "value": "te agermanes"}, {"form": "s3", "group": "subjunctive/present", "group_sort": 9, "sort": 2, "value": "se agermane"}, {"form": "p1", "group": "subjunctive/present", "group_sort": 9, "sort": 3, "value": "nos agermanemos"}, {"form": "p2", "group": "subjunctive/present", "group_sort": 9, "sort": 4, "value": "os agerman\u00e9is"}, {"form": "p3", "group": "subjunctive/present", "group_sort": 9, "sort": 5, "value": "se agermanen"}, {"form": "s1", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 0, "value": "me agermanara"}, {"form": "s2", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 1, "value": "te agermanaras"}, {"form": "s3", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 2, "value": "se agermanara"}, {"form": "p1", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 3, "value": "nos agerman\u00e1ramos"}, {"form": "p2", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 4, "value": "os agermanarais"}, {"form": "p3", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 5, "value": "se agermanaran"}, {"form": "s1", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 0, "value": "me agermanase"}, {"form": "s2", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 1, "value": "te agermanases"}, {"form": "s3", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 2, "value": "se agermanase"}, {"form": "p1", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 3, "value": "nos agerman\u00e1semos"}, {"form": "p2", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 4, "value": "os agermanaseis"}, {"form": "p3", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 5, "value": "se agermanasen"}, {"form": "s1", "group": "subjunctive/future", "group_sort": 12, "sort": 0, "value": "me agermanare"}, {"form": "s2", "group": "subjunctive/future", "group_sort": 12, "sort": 1, "value": "te agermanares"}, {"form": "s3", "group": "subjunctive/future", "group_sort": 12, "sort": 2, "value": "se agermanare"}, {"form": "p1", "group": "subjunctive/future", "group_sort": 12, "sort": 3, "value": "nos agerman\u00e1remos"}, {"form": "p2", "group": "subjunctive/future", "group_sort": 12, "sort": 4, "value": "os agermanareis"}, {"form": "p3", "group": "subjunctive/future", "group_sort": 12, "sort": 5, "value": "se agermanaren"}, {"form": "s1", "group": "imperative/affirmative", "group_sort": 13, "sort": 0, "value": ""}, {"form": "s2", "group": "imperative/affirmative", "group_sort": 13, "sort": 1, "value": "agerm\u00e1nate"}, {"form": "s3", "group": "imperative/affirmative", "group_sort": 13, "sort": 2, "value": "agerm\u00e1nese"}, {"form": "p1", "group": "imperative/affirmative", "group_sort": 13, "sort": 3, "value": "agerman\u00e9monos"}, {"form": "p2", "group": "imperative/affirmative", "group_sort": 13, "sort": 4, "value": "agermanaos"}, {"form": "p3", "group": "imperative/affirmative", "group_sort": 13, "sort": 5, "value": "agerm\u00e1nense"}, {"form": "s1", "group": "imperative/negative", "group_sort": 14, "sort": 0, "value": ""}, {"form": "s2", "group": "imperative/negative", "group_sort": 14, "sort": 1, "value": "no te agermanes"}, {"form": "s3", "group": "imperative/negative", "group_sort": 14, "sort": 2, "value": "no se agermane"}, {"form": "p1", "group": "imperative/negative", "group_sort": 14, "sort": 3, "value": "no nos agermanemos"}, {"form": "p2", "group": "imperative/negative", "group_sort": 14, "sort": 4, "value": "no os agerman\u00e9is"}, {"form": "p3", "group": "imperative/negative", "group_sort": 14, "sort": 5, "value": "no se agermanen"}], "definitions": ["(reflexive) to join a guild"], "description": "agermanarse (first-person singular present me agermano, first-person singular preterite me agerman\u00e9, past participle agermanado)", "etymology": "a- + german\u00eda + -ar + se", "page_id": 6987507, "pronunciations": [], "related": [], "synonyms": [], "url": "https://en.wiktionary.org/?curid=6987507#Spanish", "word": "agermanarse"}
+{
+  "conjugations": [
+    {
+      "group": "infinitive",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "agermanarse"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "agermanándose"
+    },
+    {
+      "form": "masculine",
+      "group": "pastparticiple/singular",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "agermanado"
+    },
+    {
+      "form": "feminine",
+      "group": "pastparticiple/singular",
+      "group_sort": 2,
+      "sort": 1,
+      "value": "agermanada"
+    },
+    {
+      "form": "masculine",
+      "group": "pastparticiple/plural",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "agermanados"
+    },
+    {
+      "form": "feminine",
+      "group": "pastparticiple/plural",
+      "group_sort": 3,
+      "sort": 1,
+      "value": "agermanadas"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "me agermano"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 1,
+      "value": "te agermanas"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 2,
+      "value": "se agermana"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 3,
+      "value": "nos agermanamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 4,
+      "value": "os agermanáis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 5,
+      "value": "se agermanan"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "me agermanaba"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "te agermanabas"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 2,
+      "value": "se agermanaba"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 3,
+      "value": "nos agermanábamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 4,
+      "value": "os agermanabais"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 5,
+      "value": "se agermanaban"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "me agermané"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "te agermanaste"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 2,
+      "value": "se agermanó"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 3,
+      "value": "nos agermanamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 4,
+      "value": "os agermanasteis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 5,
+      "value": "se agermanaron"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "me agermanaré"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "te agermanarás"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "se agermanará"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "nos agermanaremos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "os agermanaréis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "se agermanarán"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "me agermanaría"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "te agermanarías"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "se agermanaría"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "nos agermanaríamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "os agermanaríais"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "se agermanarían"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "me agermane"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "te agermanes"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "se agermane"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "nos agermanemos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "os agermanéis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "se agermanen"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "me agermanara"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "te agermanaras"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "se agermanara"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "nos agermanáramos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "os agermanarais"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "se agermanaran"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "me agermanase"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "te agermanases"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "se agermanase"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "nos agermanásemos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "os agermanaseis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "se agermanasen"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 0,
+      "value": "me agermanare"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "te agermanares"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "se agermanare"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "nos agermanáremos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "os agermanareis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "se agermanaren"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 1,
+      "value": "agermánate"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 2,
+      "value": "agermánese"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 3,
+      "value": "agermanémonos"
+    },
+    {
+      "form": "p2",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 4,
+      "value": "agermanaos"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 5,
+      "value": "agermánense"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 1,
+      "value": "no te agermanes"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 2,
+      "value": "no se agermane"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 3,
+      "value": "no nos agermanemos"
+    },
+    {
+      "form": "p2",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 4,
+      "value": "no os agermanéis"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 5,
+      "value": "no se agermanen"
+    }
+  ],
+  "definitions": [
+    "(reflexive) to join a guild"
+  ],
+  "description": "agermanarse (first-person singular present me agermano, first-person singular preterite me agermané, past participle agermanado)",
+  "etymology": "a- + germanía + -ar + se",
+  "page_id": 6987507,
+  "pronunciations": [],
+  "related": [],
+  "synonyms": [],
+  "url": "https://en.wiktionary.org/?curid=6987507#Spanish",
+  "word": "agermanarse"
+}

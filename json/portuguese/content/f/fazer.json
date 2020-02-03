@@ -1,1 +1,582 @@
-{"conjugations": [{"group": "infinitive/impersonal", "group_sort": 0, "sort": 0, "value": "fazer\n"}, {"form": "s1", "group": "infinitive/personal", "group_sort": 1, "sort": 0, "value": "fazer\n"}, {"form": "s2", "group": "infinitive/personal", "group_sort": 1, "sort": 1, "value": "fazeres\n"}, {"form": "s3", "group": "infinitive/personal", "group_sort": 1, "sort": 2, "value": "fazer\n"}, {"form": "p1", "group": "infinitive/personal", "group_sort": 1, "sort": 3, "value": "fazermos - "}, {"form": "p2", "group": "infinitive/personal", "group_sort": 1, "sort": 4, "value": "fazerdes\n"}, {"form": "p3", "group": "infinitive/personal", "group_sort": 1, "sort": 5, "value": "fazerem\n"}, {"group": "gerund", "group_sort": 2, "sort": 0, "value": "fazendo\n"}, {"form": "s", "group": "pastparticiple/masculine", "group_sort": 3, "sort": 0, "value": "feito\n"}, {"form": "p", "group": "pastparticiple/masculine", "group_sort": 3, "sort": 1, "value": "feitos\n"}, {"form": "s", "group": "pastparticiple/feminine", "group_sort": 4, "sort": 0, "value": "feita\n"}, {"form": "p", "group": "pastparticiple/feminine", "group_sort": 4, "sort": 1, "value": "feitas\n"}, {"form": "s1", "group": "indicative/present", "group_sort": 5, "sort": 0, "value": "fa\u00e7o\n"}, {"form": "s2", "group": "indicative/present", "group_sort": 5, "sort": 1, "value": "fazes\n"}, {"form": "s3", "group": "indicative/present", "group_sort": 5, "sort": 2, "value": "faz\n"}, {"form": "p1", "group": "indicative/present", "group_sort": 5, "sort": 3, "value": "fazemos - "}, {"form": "p2", "group": "indicative/present", "group_sort": 5, "sort": 4, "value": "fazeis\n"}, {"form": "p3", "group": "indicative/present", "group_sort": 5, "sort": 5, "value": "fazem\n"}, {"form": "s1", "group": "indicative/imperfect", "group_sort": 6, "sort": 0, "value": "fazia\n"}, {"form": "s2", "group": "indicative/imperfect", "group_sort": 6, "sort": 1, "value": "fazias\n"}, {"form": "s3", "group": "indicative/imperfect", "group_sort": 6, "sort": 2, "value": "fazia\n"}, {"form": "p1", "group": "indicative/imperfect", "group_sort": 6, "sort": 3, "value": "faz\u00edamos - "}, {"form": "p2", "group": "indicative/imperfect", "group_sort": 6, "sort": 4, "value": "faz\u00edeis\n"}, {"form": "p3", "group": "indicative/imperfect", "group_sort": 6, "sort": 5, "value": "faziam\n"}, {"form": "s1", "group": "indicative/preterite", "group_sort": 7, "sort": 0, "value": "fiz\n"}, {"form": "s2", "group": "indicative/preterite", "group_sort": 7, "sort": 1, "value": "fizeste\n"}, {"form": "s3", "group": "indicative/preterite", "group_sort": 7, "sort": 2, "value": "fez\n"}, {"form": "p1", "group": "indicative/preterite", "group_sort": 7, "sort": 3, "value": "fizemos - "}, {"form": "p2", "group": "indicative/preterite", "group_sort": 7, "sort": 4, "value": "fizestes\n"}, {"form": "p3", "group": "indicative/preterite", "group_sort": 7, "sort": 5, "value": "fizeram\n"}, {"form": "s1", "group": "indicative/pluperfect", "group_sort": 8, "sort": 0, "value": "fizera\n"}, {"form": "s2", "group": "indicative/pluperfect", "group_sort": 8, "sort": 1, "value": "fizeras\n"}, {"form": "s3", "group": "indicative/pluperfect", "group_sort": 8, "sort": 2, "value": "fizera\n"}, {"form": "p1", "group": "indicative/pluperfect", "group_sort": 8, "sort": 3, "value": "fiz\u00e9ramos - "}, {"form": "p2", "group": "indicative/pluperfect", "group_sort": 8, "sort": 4, "value": "fiz\u00e9reis\n"}, {"form": "p3", "group": "indicative/pluperfect", "group_sort": 8, "sort": 5, "value": "fizeram\n"}, {"form": "s1", "group": "indicative/future", "group_sort": 9, "sort": 0, "value": "farei\n"}, {"form": "s2", "group": "indicative/future", "group_sort": 9, "sort": 1, "value": "far\u00e1s\n"}, {"form": "s3", "group": "indicative/future", "group_sort": 9, "sort": 2, "value": "far\u00e1\n"}, {"form": "p1", "group": "indicative/future", "group_sort": 9, "sort": 3, "value": "faremos - "}, {"form": "p2", "group": "indicative/future", "group_sort": 9, "sort": 4, "value": "fareis\n"}, {"form": "p3", "group": "indicative/future", "group_sort": 9, "sort": 5, "value": "far\u00e3o\n"}, {"form": "s1", "group": "conditional", "group_sort": 10, "sort": 0, "value": "faria\n"}, {"form": "s2", "group": "conditional", "group_sort": 10, "sort": 1, "value": "farias\n"}, {"form": "s3", "group": "conditional", "group_sort": 10, "sort": 2, "value": "faria\n"}, {"form": "p1", "group": "conditional", "group_sort": 10, "sort": 3, "value": "far\u00edamos - "}, {"form": "p2", "group": "conditional", "group_sort": 10, "sort": 4, "value": "far\u00edeis\n"}, {"form": "p3", "group": "conditional", "group_sort": 10, "sort": 5, "value": "fariam\n"}, {"form": "s1", "group": "subjunctive/present", "group_sort": 11, "sort": 0, "value": "fa\u00e7a\n"}, {"form": "s2", "group": "subjunctive/present", "group_sort": 11, "sort": 1, "value": "fa\u00e7as\n"}, {"form": "s3", "group": "subjunctive/present", "group_sort": 11, "sort": 2, "value": "fa\u00e7a\n"}, {"form": "p1", "group": "subjunctive/present", "group_sort": 11, "sort": 3, "value": "fa\u00e7amos - "}, {"form": "p2", "group": "subjunctive/present", "group_sort": 11, "sort": 4, "value": "fa\u00e7ais\n"}, {"form": "p3", "group": "subjunctive/present", "group_sort": 11, "sort": 5, "value": "fa\u00e7am\n"}, {"form": "s1", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 0, "value": "fizesse\n"}, {"form": "s2", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 1, "value": "fizesses\n"}, {"form": "s3", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 2, "value": "fizesse\n"}, {"form": "p1", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 3, "value": "fiz\u00e9ssemos - "}, {"form": "p2", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 4, "value": "fiz\u00e9sseis\n"}, {"form": "p3", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 5, "value": "fizessem\n"}, {"form": "s1", "group": "subjunctive/preterite", "group_sort": 13, "sort": 0, "value": "fizer\n"}, {"form": "s2", "group": "subjunctive/preterite", "group_sort": 13, "sort": 1, "value": "fizeres\n"}, {"form": "s3", "group": "subjunctive/preterite", "group_sort": 13, "sort": 2, "value": "fizer\n"}, {"form": "p1", "group": "subjunctive/preterite", "group_sort": 13, "sort": 3, "value": "fizermos - "}, {"form": "p2", "group": "subjunctive/preterite", "group_sort": 13, "sort": 4, "value": "fizerdes\n"}, {"form": "p3", "group": "subjunctive/preterite", "group_sort": 13, "sort": 5, "value": "fizerem\n"}, {"form": "s1", "group": "imperative/affirmative", "group_sort": 14, "sort": 0, "value": "-\n"}, {"form": "s2", "group": "imperative/affirmative", "group_sort": 14, "sort": 1, "value": "fazefaz\n"}, {"form": "s3", "group": "imperative/affirmative", "group_sort": 14, "sort": 2, "value": "fa\u00e7a\n"}, {"form": "p1", "group": "imperative/affirmative", "group_sort": 14, "sort": 3, "value": "fa\u00e7amos - "}, {"form": "p2", "group": "imperative/affirmative", "group_sort": 14, "sort": 4, "value": "fazei\n"}, {"form": "p3", "group": "imperative/affirmative", "group_sort": 14, "sort": 5, "value": "fa\u00e7am\n"}, {"form": "s1", "group": "imperative/negative", "group_sort": 15, "sort": 0, "value": "-\n"}, {"form": "s2", "group": "imperative/negative", "group_sort": 15, "sort": 1, "value": "fa\u00e7as\n"}, {"form": "s3", "group": "imperative/negative", "group_sort": 15, "sort": 2, "value": "fa\u00e7a\n"}, {"form": "p1", "group": "imperative/negative", "group_sort": 15, "sort": 3, "value": "fa\u00e7amos - "}, {"form": "p2", "group": "imperative/negative", "group_sort": 15, "sort": 4, "value": "fa\u00e7ais\n"}, {"form": "p3", "group": "imperative/negative", "group_sort": 15, "sort": 5, "value": "fa\u00e7am\n"}], "definitions": ["(transitive) to make; to create; to produce\nA minha m\u00e3e fez este vestido para mim. My mother made this dress for me.", "(transitive) to do; to execute; to perform\nAquele homem fez um crime terr\u00edvel. That man committed a horrible crime.\nEu respondi, fazendo um gesto afirmativo. I answered, making an affirmative gesture.", "(transitive, auxiliary  with a verb in the impersonal infinitive  as the second object) to cause to; to make\nA explos\u00e3o fez cair alguns pr\u00e9dios. The explosion caused some buildings to fall.", "(takes a reflexive pronoun, transitive with de) to play; to pretend to be\nEu me fiz de Jo\u00e3o, a minha irm\u00e3 fez-se de Maria. I played Hansel, my sister played Gretel.", "(transitive) to arrange; to clean up; to tidy\nJ\u00e1 fiz a cama hoje. I already made the bed today.", "(transitive) to cook; to prepare; to fix\nN\u00f3s fizemos o almo\u00e7o juntos! We prepared dinner together!", "(transitive) to turn; to reach an age; to have a birthday\nOs g\u00eameos fizeram quinze anos m\u00eas passado. The twins turned fifteen last month.", "(ditransitive, with the indirect object taking por) to sell for a given price (usually to make cheaper in a bargain)\nSe voc\u00ea comprar dois, fa\u00e7o por trinta d\u00f3lares. If you buy two, I can sell them for thirty dollars.", "(transitive, impersonal) to pass (said of time)\nFaz duas horas que meu tio chegou. Two hours have passed since my uncle arrived.", "(transitive, impersonal) to be; to occur (said of a weather phenomenon)\nAqui sempre faz sol. It\u2019s always sunny here.", "first-person singular (eu) personal infinitive of fazer", "third-person singular (ele and ela, also used with voc\u00ea and others) personal infinitive of fazer"], "description": "fazer (first-person singular present indicative fa\u00e7o, past participle feito)", "etymology": "From Old Portuguese fazer, from Latin facere, present active infinitive of faci\u014d (\u201cI do; I make\u201d), from Proto-Italic *faki\u014d, from Proto-Indo-European *d\u02b0eh\u2081- (\u201cto put, place, set\u201d).", "page_id": 39838, "pronunciations": ["(Brazil) IPA(key): /fa.\u02c8ze(\u0281)/\n(Paulista) IPA(key): [fa.\u02c8ze(\u0279)], [fa.\u02c8ze(\u027e)]\n(South Brazil) IPA(key): [fa.\u02c8ze(\u027b)], [fa.\u02c8ze(\u027e)]\n(Mineiro) IPA(key): [fa.ze(h)]", "(Paulista) IPA(key): [fa.\u02c8ze(\u0279)], [fa.\u02c8ze(\u027e)]", "(South Brazil) IPA(key): [fa.\u02c8ze(\u027b)], [fa.\u02c8ze(\u027e)]", "(Mineiro) IPA(key): [fa.ze(h)]"], "related": [], "synonyms": ["(to create): criar", "gerar", "produzir", "(to perform): praticar", "(to cook): cozinhar", "(to arrange): arrumar"], "url": "https://en.wiktionary.org/?curid=39838#Portuguese", "word": "fazer"}
+{
+  "conjugations": [
+    {
+      "group": "infinitive/impersonal",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "fazer\n"
+    },
+    {
+      "form": "s1",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "fazer\n"
+    },
+    {
+      "form": "s2",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 1,
+      "value": "fazeres\n"
+    },
+    {
+      "form": "s3",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 2,
+      "value": "fazer\n"
+    },
+    {
+      "form": "p1",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 3,
+      "value": "fazermos - "
+    },
+    {
+      "form": "p2",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 4,
+      "value": "fazerdes\n"
+    },
+    {
+      "form": "p3",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 5,
+      "value": "fazerem\n"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "fazendo\n"
+    },
+    {
+      "form": "s",
+      "group": "pastparticiple/masculine",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "feito\n"
+    },
+    {
+      "form": "p",
+      "group": "pastparticiple/masculine",
+      "group_sort": 3,
+      "sort": 1,
+      "value": "feitos\n"
+    },
+    {
+      "form": "s",
+      "group": "pastparticiple/feminine",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "feita\n"
+    },
+    {
+      "form": "p",
+      "group": "pastparticiple/feminine",
+      "group_sort": 4,
+      "sort": 1,
+      "value": "feitas\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "faço\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "fazes\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 2,
+      "value": "faz\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 3,
+      "value": "fazemos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 4,
+      "value": "fazeis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 5,
+      "value": "fazem\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "fazia\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "fazias\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 2,
+      "value": "fazia\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 3,
+      "value": "fazíamos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 4,
+      "value": "fazíeis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 5,
+      "value": "faziam\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "fiz\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "fizeste\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "fez\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "fizemos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "fizestes\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "fizeram\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "fizera\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "fizeras\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "fizera\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "fizéramos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "fizéreis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "fizeram\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "farei\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "farás\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "fará\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "faremos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "fareis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "farão\n"
+    },
+    {
+      "form": "s1",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "faria\n"
+    },
+    {
+      "form": "s2",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "farias\n"
+    },
+    {
+      "form": "s3",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "faria\n"
+    },
+    {
+      "form": "p1",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "faríamos - "
+    },
+    {
+      "form": "p2",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "faríeis\n"
+    },
+    {
+      "form": "p3",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "fariam\n"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "faça\n"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "faças\n"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "faça\n"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "façamos - "
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "façais\n"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "façam\n"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 0,
+      "value": "fizesse\n"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "fizesses\n"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "fizesse\n"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "fizéssemos - "
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "fizésseis\n"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "fizessem\n"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 0,
+      "value": "fizer\n"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 1,
+      "value": "fizeres\n"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 2,
+      "value": "fizer\n"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 3,
+      "value": "fizermos - "
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 4,
+      "value": "fizerdes\n"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 5,
+      "value": "fizerem\n"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 0,
+      "value": "-\n"
+    },
+    {
+      "form": "s2",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 1,
+      "value": "fazefaz\n"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 2,
+      "value": "faça\n"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 3,
+      "value": "façamos - "
+    },
+    {
+      "form": "p2",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 4,
+      "value": "fazei\n"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 5,
+      "value": "façam\n"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 0,
+      "value": "-\n"
+    },
+    {
+      "form": "s2",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 1,
+      "value": "faças\n"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 2,
+      "value": "faça\n"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 3,
+      "value": "façamos - "
+    },
+    {
+      "form": "p2",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 4,
+      "value": "façais\n"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 5,
+      "value": "façam\n"
+    }
+  ],
+  "definitions": [
+    "(transitive) to make; to create; to produce\nA minha mãe fez este vestido para mim. My mother made this dress for me.",
+    "(transitive) to do; to execute; to perform\nAquele homem fez um crime terrível. That man committed a horrible crime.\nEu respondi, fazendo um gesto afirmativo. I answered, making an affirmative gesture.",
+    "(transitive, auxiliary  with a verb in the impersonal infinitive  as the second object) to cause to; to make\nA explosão fez cair alguns prédios. The explosion caused some buildings to fall.",
+    "(takes a reflexive pronoun, transitive with de) to play; to pretend to be\nEu me fiz de João, a minha irmã fez-se de Maria. I played Hansel, my sister played Gretel.",
+    "(transitive) to arrange; to clean up; to tidy\nJá fiz a cama hoje. I already made the bed today.",
+    "(transitive) to cook; to prepare; to fix\nNós fizemos o almoço juntos! We prepared dinner together!",
+    "(transitive) to turn; to reach an age; to have a birthday\nOs gêmeos fizeram quinze anos mês passado. The twins turned fifteen last month.",
+    "(ditransitive, with the indirect object taking por) to sell for a given price (usually to make cheaper in a bargain)\nSe você comprar dois, faço por trinta dólares. If you buy two, I can sell them for thirty dollars.",
+    "(transitive, impersonal) to pass (said of time)\nFaz duas horas que meu tio chegou. Two hours have passed since my uncle arrived.",
+    "(transitive, impersonal) to be; to occur (said of a weather phenomenon)\nAqui sempre faz sol. It’s always sunny here.",
+    "first-person singular (eu) personal infinitive of fazer",
+    "third-person singular (ele and ela, also used with você and others) personal infinitive of fazer"
+  ],
+  "description": "fazer (first-person singular present indicative faço, past participle feito)",
+  "etymology": "From Old Portuguese fazer, from Latin facere, present active infinitive of faciō (“I do; I make”), from Proto-Italic *fakiō, from Proto-Indo-European *dʰeh₁- (“to put, place, set”).",
+  "page_id": 39838,
+  "pronunciations": [
+    "(Brazil) IPA(key): /fa.ˈze(ʁ)/\n(Paulista) IPA(key): [fa.ˈze(ɹ)], [fa.ˈze(ɾ)]\n(South Brazil) IPA(key): [fa.ˈze(ɻ)], [fa.ˈze(ɾ)]\n(Mineiro) IPA(key): [fa.ze(h)]",
+    "(Paulista) IPA(key): [fa.ˈze(ɹ)], [fa.ˈze(ɾ)]",
+    "(South Brazil) IPA(key): [fa.ˈze(ɻ)], [fa.ˈze(ɾ)]",
+    "(Mineiro) IPA(key): [fa.ze(h)]"
+  ],
+  "related": [],
+  "synonyms": [
+    "(to create): criar",
+    "gerar",
+    "produzir",
+    "(to perform): praticar",
+    "(to cook): cozinhar",
+    "(to arrange): arrumar"
+  ],
+  "url": "https://en.wiktionary.org/?curid=39838#Portuguese",
+  "word": "fazer"
+}

@@ -1,1 +1,563 @@
-{"conjugations": [{"group": "infinitive/impersonal", "group_sort": 0, "sort": 0, "value": "soar\n"}, {"form": "s1", "group": "infinitive/personal", "group_sort": 1, "sort": 0, "value": "soar\n"}, {"form": "s2", "group": "infinitive/personal", "group_sort": 1, "sort": 1, "value": "soares\n"}, {"form": "s3", "group": "infinitive/personal", "group_sort": 1, "sort": 2, "value": "soar\n"}, {"form": "p1", "group": "infinitive/personal", "group_sort": 1, "sort": 3, "value": "soarmos - "}, {"form": "p2", "group": "infinitive/personal", "group_sort": 1, "sort": 4, "value": "soardes\n"}, {"form": "p3", "group": "infinitive/personal", "group_sort": 1, "sort": 5, "value": "soarem\n"}, {"group": "gerund", "group_sort": 2, "sort": 0, "value": "soando\n"}, {"form": "s", "group": "pastparticiple/masculine", "group_sort": 3, "sort": 0, "value": "soado\n"}, {"form": "p", "group": "pastparticiple/masculine", "group_sort": 3, "sort": 1, "value": "soados\n"}, {"form": "s", "group": "pastparticiple/feminine", "group_sort": 4, "sort": 0, "value": "soada\n"}, {"form": "p", "group": "pastparticiple/feminine", "group_sort": 4, "sort": 1, "value": "soadas\n"}, {"form": "s1", "group": "indicative/present", "group_sort": 5, "sort": 0, "value": "sooObsolete:s\u00f4o\n"}, {"form": "s2", "group": "indicative/present", "group_sort": 5, "sort": 1, "value": "soas\n"}, {"form": "s3", "group": "indicative/present", "group_sort": 5, "sort": 2, "value": "soa\n"}, {"form": "p1", "group": "indicative/present", "group_sort": 5, "sort": 3, "value": "soamos - "}, {"form": "p2", "group": "indicative/present", "group_sort": 5, "sort": 4, "value": "soais\n"}, {"form": "p3", "group": "indicative/present", "group_sort": 5, "sort": 5, "value": "soam\n"}, {"form": "s1", "group": "indicative/imperfect", "group_sort": 6, "sort": 0, "value": "soava\n"}, {"form": "s2", "group": "indicative/imperfect", "group_sort": 6, "sort": 1, "value": "soavas\n"}, {"form": "s3", "group": "indicative/imperfect", "group_sort": 6, "sort": 2, "value": "soava\n"}, {"form": "p1", "group": "indicative/imperfect", "group_sort": 6, "sort": 3, "value": "so\u00e1vamos - "}, {"form": "p2", "group": "indicative/imperfect", "group_sort": 6, "sort": 4, "value": "so\u00e1veis\n"}, {"form": "p3", "group": "indicative/imperfect", "group_sort": 6, "sort": 5, "value": "soavam\n"}, {"form": "s1", "group": "indicative/preterite", "group_sort": 7, "sort": 0, "value": "soei\n"}, {"form": "s2", "group": "indicative/preterite", "group_sort": 7, "sort": 1, "value": "soaste\n"}, {"form": "s3", "group": "indicative/preterite", "group_sort": 7, "sort": 2, "value": "soou\n"}, {"form": "p1", "group": "indicative/preterite", "group_sort": 7, "sort": 3, "value": "soamosso\u00e1mos - "}, {"form": "p2", "group": "indicative/preterite", "group_sort": 7, "sort": 4, "value": "soastes\n"}, {"form": "p3", "group": "indicative/preterite", "group_sort": 7, "sort": 5, "value": "soaram\n"}, {"form": "s1", "group": "indicative/pluperfect", "group_sort": 8, "sort": 0, "value": "soara\n"}, {"form": "s2", "group": "indicative/pluperfect", "group_sort": 8, "sort": 1, "value": "soaras\n"}, {"form": "s3", "group": "indicative/pluperfect", "group_sort": 8, "sort": 2, "value": "soara\n"}, {"form": "p1", "group": "indicative/pluperfect", "group_sort": 8, "sort": 3, "value": "so\u00e1ramos - "}, {"form": "p2", "group": "indicative/pluperfect", "group_sort": 8, "sort": 4, "value": "so\u00e1reis\n"}, {"form": "p3", "group": "indicative/pluperfect", "group_sort": 8, "sort": 5, "value": "soaram\n"}, {"form": "s1", "group": "indicative/future", "group_sort": 9, "sort": 0, "value": "soarei\n"}, {"form": "s2", "group": "indicative/future", "group_sort": 9, "sort": 1, "value": "soar\u00e1s\n"}, {"form": "s3", "group": "indicative/future", "group_sort": 9, "sort": 2, "value": "soar\u00e1\n"}, {"form": "p1", "group": "indicative/future", "group_sort": 9, "sort": 3, "value": "soaremos - "}, {"form": "p2", "group": "indicative/future", "group_sort": 9, "sort": 4, "value": "soareis\n"}, {"form": "p3", "group": "indicative/future", "group_sort": 9, "sort": 5, "value": "soar\u00e3o\n"}, {"form": "s1", "group": "conditional", "group_sort": 10, "sort": 0, "value": "soaria\n"}, {"form": "s2", "group": "conditional", "group_sort": 10, "sort": 1, "value": "soarias\n"}, {"form": "s3", "group": "conditional", "group_sort": 10, "sort": 2, "value": "soaria\n"}, {"form": "p1", "group": "conditional", "group_sort": 10, "sort": 3, "value": "soar\u00edamos - "}, {"form": "p2", "group": "conditional", "group_sort": 10, "sort": 4, "value": "soar\u00edeis\n"}, {"form": "p3", "group": "conditional", "group_sort": 10, "sort": 5, "value": "soariam\n"}, {"form": "s1", "group": "subjunctive/present", "group_sort": 11, "sort": 0, "value": "soe\n"}, {"form": "s2", "group": "subjunctive/present", "group_sort": 11, "sort": 1, "value": "soes\n"}, {"form": "s3", "group": "subjunctive/present", "group_sort": 11, "sort": 2, "value": "soe\n"}, {"form": "p1", "group": "subjunctive/present", "group_sort": 11, "sort": 3, "value": "soemos - "}, {"form": "p2", "group": "subjunctive/present", "group_sort": 11, "sort": 4, "value": "soeis\n"}, {"form": "p3", "group": "subjunctive/present", "group_sort": 11, "sort": 5, "value": "soem\n"}, {"form": "s1", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 0, "value": "soasse\n"}, {"form": "s2", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 1, "value": "soasses\n"}, {"form": "s3", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 2, "value": "soasse\n"}, {"form": "p1", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 3, "value": "so\u00e1ssemos - "}, {"form": "p2", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 4, "value": "so\u00e1sseis\n"}, {"form": "p3", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 5, "value": "soassem\n"}, {"form": "s1", "group": "subjunctive/preterite", "group_sort": 13, "sort": 0, "value": "soar\n"}, {"form": "s2", "group": "subjunctive/preterite", "group_sort": 13, "sort": 1, "value": "soares\n"}, {"form": "s3", "group": "subjunctive/preterite", "group_sort": 13, "sort": 2, "value": "soar\n"}, {"form": "p1", "group": "subjunctive/preterite", "group_sort": 13, "sort": 3, "value": "soarmos - "}, {"form": "p2", "group": "subjunctive/preterite", "group_sort": 13, "sort": 4, "value": "soardes\n"}, {"form": "p3", "group": "subjunctive/preterite", "group_sort": 13, "sort": 5, "value": "soarem\n"}, {"form": "s1", "group": "imperative/affirmative", "group_sort": 14, "sort": 0, "value": "-\n"}, {"form": "s2", "group": "imperative/affirmative", "group_sort": 14, "sort": 1, "value": "soa\n"}, {"form": "s3", "group": "imperative/affirmative", "group_sort": 14, "sort": 2, "value": "soe\n"}, {"form": "p1", "group": "imperative/affirmative", "group_sort": 14, "sort": 3, "value": "soemos - "}, {"form": "p2", "group": "imperative/affirmative", "group_sort": 14, "sort": 4, "value": "soai\n"}, {"form": "p3", "group": "imperative/affirmative", "group_sort": 14, "sort": 5, "value": "soem\n"}, {"form": "s1", "group": "imperative/negative", "group_sort": 15, "sort": 0, "value": "-\n"}, {"form": "s2", "group": "imperative/negative", "group_sort": 15, "sort": 1, "value": "soes\n"}, {"form": "s3", "group": "imperative/negative", "group_sort": 15, "sort": 2, "value": "soe\n"}, {"form": "p1", "group": "imperative/negative", "group_sort": 15, "sort": 3, "value": "soemos - "}, {"form": "p2", "group": "imperative/negative", "group_sort": 15, "sort": 4, "value": "soeis\n"}, {"form": "p3", "group": "imperative/negative", "group_sort": 15, "sort": 5, "value": "soem\n"}], "definitions": ["make a sound\n\nIsso n\u00e3o soa bem.  \u2015 That doesn't sound good."], "description": "soar (first-person singular present indicative soo, past participle soado)", "etymology": "From Old Portuguese s\u00f5ar, from Latin son\u0101re, present active infinitive of son\u014d, ultimately from Proto-Indo-European *swen- (\u201cto sound, resound\u201d).", "page_id": 106407, "pronunciations": ["(Portugal) IPA(key): /su\u02c8a\u027e/, /\u02c8swa\u027e/\nHomophone: suar", "Homophone: suar", "IPA(key): /so\u02c8a\u027e/"], "related": [], "synonyms": [], "url": "https://en.wiktionary.org/?curid=106407#Portuguese", "word": "soar"}
+{
+  "conjugations": [
+    {
+      "group": "infinitive/impersonal",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "soar\n"
+    },
+    {
+      "form": "s1",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "soar\n"
+    },
+    {
+      "form": "s2",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 1,
+      "value": "soares\n"
+    },
+    {
+      "form": "s3",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 2,
+      "value": "soar\n"
+    },
+    {
+      "form": "p1",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 3,
+      "value": "soarmos - "
+    },
+    {
+      "form": "p2",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 4,
+      "value": "soardes\n"
+    },
+    {
+      "form": "p3",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 5,
+      "value": "soarem\n"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "soando\n"
+    },
+    {
+      "form": "s",
+      "group": "pastparticiple/masculine",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "soado\n"
+    },
+    {
+      "form": "p",
+      "group": "pastparticiple/masculine",
+      "group_sort": 3,
+      "sort": 1,
+      "value": "soados\n"
+    },
+    {
+      "form": "s",
+      "group": "pastparticiple/feminine",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "soada\n"
+    },
+    {
+      "form": "p",
+      "group": "pastparticiple/feminine",
+      "group_sort": 4,
+      "sort": 1,
+      "value": "soadas\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "sooObsolete:sôo\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "soas\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 2,
+      "value": "soa\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 3,
+      "value": "soamos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 4,
+      "value": "soais\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 5,
+      "value": "soam\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "soava\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "soavas\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 2,
+      "value": "soava\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 3,
+      "value": "soávamos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 4,
+      "value": "soáveis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 5,
+      "value": "soavam\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "soei\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "soaste\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "soou\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "soamossoámos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "soastes\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "soaram\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "soara\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "soaras\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "soara\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "soáramos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "soáreis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "soaram\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "soarei\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "soarás\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "soará\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "soaremos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "soareis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "soarão\n"
+    },
+    {
+      "form": "s1",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "soaria\n"
+    },
+    {
+      "form": "s2",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "soarias\n"
+    },
+    {
+      "form": "s3",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "soaria\n"
+    },
+    {
+      "form": "p1",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "soaríamos - "
+    },
+    {
+      "form": "p2",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "soaríeis\n"
+    },
+    {
+      "form": "p3",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "soariam\n"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "soe\n"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "soes\n"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "soe\n"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "soemos - "
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "soeis\n"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "soem\n"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 0,
+      "value": "soasse\n"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "soasses\n"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "soasse\n"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "soássemos - "
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "soásseis\n"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "soassem\n"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 0,
+      "value": "soar\n"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 1,
+      "value": "soares\n"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 2,
+      "value": "soar\n"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 3,
+      "value": "soarmos - "
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 4,
+      "value": "soardes\n"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 5,
+      "value": "soarem\n"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 0,
+      "value": "-\n"
+    },
+    {
+      "form": "s2",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 1,
+      "value": "soa\n"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 2,
+      "value": "soe\n"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 3,
+      "value": "soemos - "
+    },
+    {
+      "form": "p2",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 4,
+      "value": "soai\n"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 5,
+      "value": "soem\n"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 0,
+      "value": "-\n"
+    },
+    {
+      "form": "s2",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 1,
+      "value": "soes\n"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 2,
+      "value": "soe\n"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 3,
+      "value": "soemos - "
+    },
+    {
+      "form": "p2",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 4,
+      "value": "soeis\n"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 5,
+      "value": "soem\n"
+    }
+  ],
+  "definitions": [
+    "make a sound\n\nIsso não soa bem.  ― That doesn't sound good."
+  ],
+  "description": "soar (first-person singular present indicative soo, past participle soado)",
+  "etymology": "From Old Portuguese sõar, from Latin sonāre, present active infinitive of sonō, ultimately from Proto-Indo-European *swen- (“to sound, resound”).",
+  "page_id": 106407,
+  "pronunciations": [
+    "(Portugal) IPA(key): /suˈaɾ/, /ˈswaɾ/\nHomophone: suar",
+    "Homophone: suar",
+    "IPA(key): /soˈaɾ/"
+  ],
+  "related": [],
+  "synonyms": [],
+  "url": "https://en.wiktionary.org/?curid=106407#Portuguese",
+  "word": "soar"
+}

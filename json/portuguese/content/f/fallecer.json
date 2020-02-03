@@ -1,1 +1,564 @@
-{"conjugations": [{"group": "infinitive/impersonal", "group_sort": 0, "sort": 0, "value": "fallecer\n"}, {"form": "s1", "group": "infinitive/personal", "group_sort": 1, "sort": 0, "value": "fallecer\n"}, {"form": "s2", "group": "infinitive/personal", "group_sort": 1, "sort": 1, "value": "falleceres\n"}, {"form": "s3", "group": "infinitive/personal", "group_sort": 1, "sort": 2, "value": "fallecer\n"}, {"form": "p1", "group": "infinitive/personal", "group_sort": 1, "sort": 3, "value": "fallecermos - "}, {"form": "p2", "group": "infinitive/personal", "group_sort": 1, "sort": 4, "value": "fallecerdes\n"}, {"form": "p3", "group": "infinitive/personal", "group_sort": 1, "sort": 5, "value": "fallecerem\n"}, {"group": "gerund", "group_sort": 2, "sort": 0, "value": "fallecendo\n"}, {"form": "s", "group": "pastparticiple/masculine", "group_sort": 3, "sort": 0, "value": "fallecido\n"}, {"form": "p", "group": "pastparticiple/masculine", "group_sort": 3, "sort": 1, "value": "fallecidos\n"}, {"form": "s", "group": "pastparticiple/feminine", "group_sort": 4, "sort": 0, "value": "fallecida\n"}, {"form": "p", "group": "pastparticiple/feminine", "group_sort": 4, "sort": 1, "value": "fallecidas\n"}, {"form": "s1", "group": "indicative/present", "group_sort": 5, "sort": 0, "value": "falle\u00e7o\n"}, {"form": "s2", "group": "indicative/present", "group_sort": 5, "sort": 1, "value": "falleces\n"}, {"form": "s3", "group": "indicative/present", "group_sort": 5, "sort": 2, "value": "fallece\n"}, {"form": "p1", "group": "indicative/present", "group_sort": 5, "sort": 3, "value": "fallecemos - "}, {"form": "p2", "group": "indicative/present", "group_sort": 5, "sort": 4, "value": "falleceis\n"}, {"form": "p3", "group": "indicative/present", "group_sort": 5, "sort": 5, "value": "fallecem\n"}, {"form": "s1", "group": "indicative/imperfect", "group_sort": 6, "sort": 0, "value": "fallecia\n"}, {"form": "s2", "group": "indicative/imperfect", "group_sort": 6, "sort": 1, "value": "fallecias\n"}, {"form": "s3", "group": "indicative/imperfect", "group_sort": 6, "sort": 2, "value": "fallecia\n"}, {"form": "p1", "group": "indicative/imperfect", "group_sort": 6, "sort": 3, "value": "fallec\u00edamos - "}, {"form": "p2", "group": "indicative/imperfect", "group_sort": 6, "sort": 4, "value": "fallec\u00edeis\n"}, {"form": "p3", "group": "indicative/imperfect", "group_sort": 6, "sort": 5, "value": "falleciam\n"}, {"form": "s1", "group": "indicative/preterite", "group_sort": 7, "sort": 0, "value": "falleci\n"}, {"form": "s2", "group": "indicative/preterite", "group_sort": 7, "sort": 1, "value": "falleceste\n"}, {"form": "s3", "group": "indicative/preterite", "group_sort": 7, "sort": 2, "value": "falleceu\n"}, {"form": "p1", "group": "indicative/preterite", "group_sort": 7, "sort": 3, "value": "fallecemos - "}, {"form": "p2", "group": "indicative/preterite", "group_sort": 7, "sort": 4, "value": "fallecestes\n"}, {"form": "p3", "group": "indicative/preterite", "group_sort": 7, "sort": 5, "value": "falleceram\n"}, {"form": "s1", "group": "indicative/pluperfect", "group_sort": 8, "sort": 0, "value": "fallecera\n"}, {"form": "s2", "group": "indicative/pluperfect", "group_sort": 8, "sort": 1, "value": "falleceras\n"}, {"form": "s3", "group": "indicative/pluperfect", "group_sort": 8, "sort": 2, "value": "fallecera\n"}, {"form": "p1", "group": "indicative/pluperfect", "group_sort": 8, "sort": 3, "value": "fallec\u00earamos - "}, {"form": "p2", "group": "indicative/pluperfect", "group_sort": 8, "sort": 4, "value": "fallec\u00eareis\n"}, {"form": "p3", "group": "indicative/pluperfect", "group_sort": 8, "sort": 5, "value": "falleceram\n"}, {"form": "s1", "group": "indicative/future", "group_sort": 9, "sort": 0, "value": "fallecerei\n"}, {"form": "s2", "group": "indicative/future", "group_sort": 9, "sort": 1, "value": "fallecer\u00e1s\n"}, {"form": "s3", "group": "indicative/future", "group_sort": 9, "sort": 2, "value": "fallecer\u00e1\n"}, {"form": "p1", "group": "indicative/future", "group_sort": 9, "sort": 3, "value": "falleceremos - "}, {"form": "p2", "group": "indicative/future", "group_sort": 9, "sort": 4, "value": "fallecereis\n"}, {"form": "p3", "group": "indicative/future", "group_sort": 9, "sort": 5, "value": "fallecer\u00e3o\n"}, {"form": "s1", "group": "conditional", "group_sort": 10, "sort": 0, "value": "falleceria\n"}, {"form": "s2", "group": "conditional", "group_sort": 10, "sort": 1, "value": "fallecerias\n"}, {"form": "s3", "group": "conditional", "group_sort": 10, "sort": 2, "value": "falleceria\n"}, {"form": "p1", "group": "conditional", "group_sort": 10, "sort": 3, "value": "fallecer\u00edamos - "}, {"form": "p2", "group": "conditional", "group_sort": 10, "sort": 4, "value": "fallecer\u00edeis\n"}, {"form": "p3", "group": "conditional", "group_sort": 10, "sort": 5, "value": "falleceriam\n"}, {"form": "s1", "group": "subjunctive/present", "group_sort": 11, "sort": 0, "value": "falle\u00e7a\n"}, {"form": "s2", "group": "subjunctive/present", "group_sort": 11, "sort": 1, "value": "falle\u00e7as\n"}, {"form": "s3", "group": "subjunctive/present", "group_sort": 11, "sort": 2, "value": "falle\u00e7a\n"}, {"form": "p1", "group": "subjunctive/present", "group_sort": 11, "sort": 3, "value": "falle\u00e7amos - "}, {"form": "p2", "group": "subjunctive/present", "group_sort": 11, "sort": 4, "value": "falle\u00e7ais\n"}, {"form": "p3", "group": "subjunctive/present", "group_sort": 11, "sort": 5, "value": "falle\u00e7am\n"}, {"form": "s1", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 0, "value": "fallecesse\n"}, {"form": "s2", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 1, "value": "fallecesses\n"}, {"form": "s3", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 2, "value": "fallecesse\n"}, {"form": "p1", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 3, "value": "fallec\u00eassemos - "}, {"form": "p2", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 4, "value": "fallec\u00easseis\n"}, {"form": "p3", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 5, "value": "fallecessem\n"}, {"form": "s1", "group": "subjunctive/preterite", "group_sort": 13, "sort": 0, "value": "fallecer\n"}, {"form": "s2", "group": "subjunctive/preterite", "group_sort": 13, "sort": 1, "value": "falleceres\n"}, {"form": "s3", "group": "subjunctive/preterite", "group_sort": 13, "sort": 2, "value": "fallecer\n"}, {"form": "p1", "group": "subjunctive/preterite", "group_sort": 13, "sort": 3, "value": "fallecermos - "}, {"form": "p2", "group": "subjunctive/preterite", "group_sort": 13, "sort": 4, "value": "fallecerdes\n"}, {"form": "p3", "group": "subjunctive/preterite", "group_sort": 13, "sort": 5, "value": "fallecerem\n"}, {"form": "s1", "group": "imperative/affirmative", "group_sort": 14, "sort": 0, "value": "-\n"}, {"form": "s2", "group": "imperative/affirmative", "group_sort": 14, "sort": 1, "value": "fallece\n"}, {"form": "s3", "group": "imperative/affirmative", "group_sort": 14, "sort": 2, "value": "falle\u00e7a\n"}, {"form": "p1", "group": "imperative/affirmative", "group_sort": 14, "sort": 3, "value": "falle\u00e7amos - "}, {"form": "p2", "group": "imperative/affirmative", "group_sort": 14, "sort": 4, "value": "fallecei\n"}, {"form": "p3", "group": "imperative/affirmative", "group_sort": 14, "sort": 5, "value": "falle\u00e7am\n"}, {"form": "s1", "group": "imperative/negative", "group_sort": 15, "sort": 0, "value": "-\n"}, {"form": "s2", "group": "imperative/negative", "group_sort": 15, "sort": 1, "value": "falle\u00e7as\n"}, {"form": "s3", "group": "imperative/negative", "group_sort": 15, "sort": 2, "value": "falle\u00e7a\n"}, {"form": "p1", "group": "imperative/negative", "group_sort": 15, "sort": 3, "value": "falle\u00e7amos - "}, {"form": "p2", "group": "imperative/negative", "group_sort": 15, "sort": 4, "value": "falle\u00e7ais\n"}, {"form": "p3", "group": "imperative/negative", "group_sort": 15, "sort": 5, "value": "falle\u00e7am\n"}], "definitions": ["Obsolete spelling of falecer"], "description": "fallecer (first-person singular present indicative falle\u00e7o, past participle fallecido)", "etymology": "From Vulgar Latin *fall\u0113scere, from Latin fall\u014d. Compare Portuguese falecer.", "page_id": 215331, "pronunciations": [], "related": ["fallecimiento", "fallecido"], "synonyms": ["morir"], "url": "https://en.wiktionary.org/?curid=215331#Portuguese", "word": "fallecer"}
+{
+  "conjugations": [
+    {
+      "group": "infinitive/impersonal",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "fallecer\n"
+    },
+    {
+      "form": "s1",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "fallecer\n"
+    },
+    {
+      "form": "s2",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 1,
+      "value": "falleceres\n"
+    },
+    {
+      "form": "s3",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 2,
+      "value": "fallecer\n"
+    },
+    {
+      "form": "p1",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 3,
+      "value": "fallecermos - "
+    },
+    {
+      "form": "p2",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 4,
+      "value": "fallecerdes\n"
+    },
+    {
+      "form": "p3",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 5,
+      "value": "fallecerem\n"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "fallecendo\n"
+    },
+    {
+      "form": "s",
+      "group": "pastparticiple/masculine",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "fallecido\n"
+    },
+    {
+      "form": "p",
+      "group": "pastparticiple/masculine",
+      "group_sort": 3,
+      "sort": 1,
+      "value": "fallecidos\n"
+    },
+    {
+      "form": "s",
+      "group": "pastparticiple/feminine",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "fallecida\n"
+    },
+    {
+      "form": "p",
+      "group": "pastparticiple/feminine",
+      "group_sort": 4,
+      "sort": 1,
+      "value": "fallecidas\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "falleço\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "falleces\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 2,
+      "value": "fallece\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 3,
+      "value": "fallecemos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 4,
+      "value": "falleceis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 5,
+      "value": "fallecem\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "fallecia\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "fallecias\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 2,
+      "value": "fallecia\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 3,
+      "value": "fallecíamos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 4,
+      "value": "fallecíeis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 5,
+      "value": "falleciam\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "falleci\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "falleceste\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "falleceu\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "fallecemos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "fallecestes\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "falleceram\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "fallecera\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "falleceras\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "fallecera\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "fallecêramos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "fallecêreis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "falleceram\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "fallecerei\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "fallecerás\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "fallecerá\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "falleceremos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "fallecereis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "fallecerão\n"
+    },
+    {
+      "form": "s1",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "falleceria\n"
+    },
+    {
+      "form": "s2",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "fallecerias\n"
+    },
+    {
+      "form": "s3",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "falleceria\n"
+    },
+    {
+      "form": "p1",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "falleceríamos - "
+    },
+    {
+      "form": "p2",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "falleceríeis\n"
+    },
+    {
+      "form": "p3",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "falleceriam\n"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "falleça\n"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "falleças\n"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "falleça\n"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "falleçamos - "
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "falleçais\n"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "falleçam\n"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 0,
+      "value": "fallecesse\n"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "fallecesses\n"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "fallecesse\n"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "fallecêssemos - "
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "fallecêsseis\n"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "fallecessem\n"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 0,
+      "value": "fallecer\n"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 1,
+      "value": "falleceres\n"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 2,
+      "value": "fallecer\n"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 3,
+      "value": "fallecermos - "
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 4,
+      "value": "fallecerdes\n"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 5,
+      "value": "fallecerem\n"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 0,
+      "value": "-\n"
+    },
+    {
+      "form": "s2",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 1,
+      "value": "fallece\n"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 2,
+      "value": "falleça\n"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 3,
+      "value": "falleçamos - "
+    },
+    {
+      "form": "p2",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 4,
+      "value": "fallecei\n"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 5,
+      "value": "falleçam\n"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 0,
+      "value": "-\n"
+    },
+    {
+      "form": "s2",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 1,
+      "value": "falleças\n"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 2,
+      "value": "falleça\n"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 3,
+      "value": "falleçamos - "
+    },
+    {
+      "form": "p2",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 4,
+      "value": "falleçais\n"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 5,
+      "value": "falleçam\n"
+    }
+  ],
+  "definitions": [
+    "Obsolete spelling of falecer"
+  ],
+  "description": "fallecer (first-person singular present indicative falleço, past participle fallecido)",
+  "etymology": "From Vulgar Latin *fallēscere, from Latin fallō. Compare Portuguese falecer.",
+  "page_id": 215331,
+  "pronunciations": [],
+  "related": [
+    "fallecimiento",
+    "fallecido"
+  ],
+  "synonyms": [
+    "morir"
+  ],
+  "url": "https://en.wiktionary.org/?curid=215331#Portuguese",
+  "word": "fallecer"
+}

@@ -1,1 +1,565 @@
-{"conjugations": [{"group": "infinitive/impersonal", "group_sort": 0, "sort": 0, "value": "oferecer\n"}, {"form": "s1", "group": "infinitive/personal", "group_sort": 1, "sort": 0, "value": "oferecer\n"}, {"form": "s2", "group": "infinitive/personal", "group_sort": 1, "sort": 1, "value": "ofereceres\n"}, {"form": "s3", "group": "infinitive/personal", "group_sort": 1, "sort": 2, "value": "oferecer\n"}, {"form": "p1", "group": "infinitive/personal", "group_sort": 1, "sort": 3, "value": "oferecermos - "}, {"form": "p2", "group": "infinitive/personal", "group_sort": 1, "sort": 4, "value": "oferecerdes\n"}, {"form": "p3", "group": "infinitive/personal", "group_sort": 1, "sort": 5, "value": "oferecerem\n"}, {"group": "gerund", "group_sort": 2, "sort": 0, "value": "oferecendo\n"}, {"form": "s", "group": "pastparticiple/masculine", "group_sort": 3, "sort": 0, "value": "oferecido\n"}, {"form": "p", "group": "pastparticiple/masculine", "group_sort": 3, "sort": 1, "value": "oferecidos\n"}, {"form": "s", "group": "pastparticiple/feminine", "group_sort": 4, "sort": 0, "value": "oferecida\n"}, {"form": "p", "group": "pastparticiple/feminine", "group_sort": 4, "sort": 1, "value": "oferecidas\n"}, {"form": "s1", "group": "indicative/present", "group_sort": 5, "sort": 0, "value": "ofere\u00e7o\n"}, {"form": "s2", "group": "indicative/present", "group_sort": 5, "sort": 1, "value": "ofereces\n"}, {"form": "s3", "group": "indicative/present", "group_sort": 5, "sort": 2, "value": "oferece\n"}, {"form": "p1", "group": "indicative/present", "group_sort": 5, "sort": 3, "value": "oferecemos - "}, {"form": "p2", "group": "indicative/present", "group_sort": 5, "sort": 4, "value": "ofereceis\n"}, {"form": "p3", "group": "indicative/present", "group_sort": 5, "sort": 5, "value": "oferecem\n"}, {"form": "s1", "group": "indicative/imperfect", "group_sort": 6, "sort": 0, "value": "oferecia\n"}, {"form": "s2", "group": "indicative/imperfect", "group_sort": 6, "sort": 1, "value": "oferecias\n"}, {"form": "s3", "group": "indicative/imperfect", "group_sort": 6, "sort": 2, "value": "oferecia\n"}, {"form": "p1", "group": "indicative/imperfect", "group_sort": 6, "sort": 3, "value": "oferec\u00edamos - "}, {"form": "p2", "group": "indicative/imperfect", "group_sort": 6, "sort": 4, "value": "oferec\u00edeis\n"}, {"form": "p3", "group": "indicative/imperfect", "group_sort": 6, "sort": 5, "value": "ofereciam\n"}, {"form": "s1", "group": "indicative/preterite", "group_sort": 7, "sort": 0, "value": "ofereci\n"}, {"form": "s2", "group": "indicative/preterite", "group_sort": 7, "sort": 1, "value": "ofereceste\n"}, {"form": "s3", "group": "indicative/preterite", "group_sort": 7, "sort": 2, "value": "ofereceu\n"}, {"form": "p1", "group": "indicative/preterite", "group_sort": 7, "sort": 3, "value": "oferecemos - "}, {"form": "p2", "group": "indicative/preterite", "group_sort": 7, "sort": 4, "value": "oferecestes\n"}, {"form": "p3", "group": "indicative/preterite", "group_sort": 7, "sort": 5, "value": "ofereceram\n"}, {"form": "s1", "group": "indicative/pluperfect", "group_sort": 8, "sort": 0, "value": "oferecera\n"}, {"form": "s2", "group": "indicative/pluperfect", "group_sort": 8, "sort": 1, "value": "ofereceras\n"}, {"form": "s3", "group": "indicative/pluperfect", "group_sort": 8, "sort": 2, "value": "oferecera\n"}, {"form": "p1", "group": "indicative/pluperfect", "group_sort": 8, "sort": 3, "value": "oferec\u00earamos - "}, {"form": "p2", "group": "indicative/pluperfect", "group_sort": 8, "sort": 4, "value": "oferec\u00eareis\n"}, {"form": "p3", "group": "indicative/pluperfect", "group_sort": 8, "sort": 5, "value": "ofereceram\n"}, {"form": "s1", "group": "indicative/future", "group_sort": 9, "sort": 0, "value": "oferecerei\n"}, {"form": "s2", "group": "indicative/future", "group_sort": 9, "sort": 1, "value": "oferecer\u00e1s\n"}, {"form": "s3", "group": "indicative/future", "group_sort": 9, "sort": 2, "value": "oferecer\u00e1\n"}, {"form": "p1", "group": "indicative/future", "group_sort": 9, "sort": 3, "value": "ofereceremos - "}, {"form": "p2", "group": "indicative/future", "group_sort": 9, "sort": 4, "value": "oferecereis\n"}, {"form": "p3", "group": "indicative/future", "group_sort": 9, "sort": 5, "value": "oferecer\u00e3o\n"}, {"form": "s1", "group": "conditional", "group_sort": 10, "sort": 0, "value": "ofereceria\n"}, {"form": "s2", "group": "conditional", "group_sort": 10, "sort": 1, "value": "oferecerias\n"}, {"form": "s3", "group": "conditional", "group_sort": 10, "sort": 2, "value": "ofereceria\n"}, {"form": "p1", "group": "conditional", "group_sort": 10, "sort": 3, "value": "oferecer\u00edamos - "}, {"form": "p2", "group": "conditional", "group_sort": 10, "sort": 4, "value": "oferecer\u00edeis\n"}, {"form": "p3", "group": "conditional", "group_sort": 10, "sort": 5, "value": "ofereceriam\n"}, {"form": "s1", "group": "subjunctive/present", "group_sort": 11, "sort": 0, "value": "ofere\u00e7a\n"}, {"form": "s2", "group": "subjunctive/present", "group_sort": 11, "sort": 1, "value": "ofere\u00e7as\n"}, {"form": "s3", "group": "subjunctive/present", "group_sort": 11, "sort": 2, "value": "ofere\u00e7a\n"}, {"form": "p1", "group": "subjunctive/present", "group_sort": 11, "sort": 3, "value": "ofere\u00e7amos - "}, {"form": "p2", "group": "subjunctive/present", "group_sort": 11, "sort": 4, "value": "ofere\u00e7ais\n"}, {"form": "p3", "group": "subjunctive/present", "group_sort": 11, "sort": 5, "value": "ofere\u00e7am\n"}, {"form": "s1", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 0, "value": "oferecesse\n"}, {"form": "s2", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 1, "value": "oferecesses\n"}, {"form": "s3", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 2, "value": "oferecesse\n"}, {"form": "p1", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 3, "value": "oferec\u00eassemos - "}, {"form": "p2", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 4, "value": "oferec\u00easseis\n"}, {"form": "p3", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 5, "value": "oferecessem\n"}, {"form": "s1", "group": "subjunctive/preterite", "group_sort": 13, "sort": 0, "value": "oferecer\n"}, {"form": "s2", "group": "subjunctive/preterite", "group_sort": 13, "sort": 1, "value": "ofereceres\n"}, {"form": "s3", "group": "subjunctive/preterite", "group_sort": 13, "sort": 2, "value": "oferecer\n"}, {"form": "p1", "group": "subjunctive/preterite", "group_sort": 13, "sort": 3, "value": "oferecermos - "}, {"form": "p2", "group": "subjunctive/preterite", "group_sort": 13, "sort": 4, "value": "oferecerdes\n"}, {"form": "p3", "group": "subjunctive/preterite", "group_sort": 13, "sort": 5, "value": "oferecerem\n"}, {"form": "s1", "group": "imperative/affirmative", "group_sort": 14, "sort": 0, "value": "-\n"}, {"form": "s2", "group": "imperative/affirmative", "group_sort": 14, "sort": 1, "value": "oferece\n"}, {"form": "s3", "group": "imperative/affirmative", "group_sort": 14, "sort": 2, "value": "ofere\u00e7a\n"}, {"form": "p1", "group": "imperative/affirmative", "group_sort": 14, "sort": 3, "value": "ofere\u00e7amos - "}, {"form": "p2", "group": "imperative/affirmative", "group_sort": 14, "sort": 4, "value": "oferecei\n"}, {"form": "p3", "group": "imperative/affirmative", "group_sort": 14, "sort": 5, "value": "ofere\u00e7am\n"}, {"form": "s1", "group": "imperative/negative", "group_sort": 15, "sort": 0, "value": "-\n"}, {"form": "s2", "group": "imperative/negative", "group_sort": 15, "sort": 1, "value": "ofere\u00e7as\n"}, {"form": "s3", "group": "imperative/negative", "group_sort": 15, "sort": 2, "value": "ofere\u00e7a\n"}, {"form": "p1", "group": "imperative/negative", "group_sort": 15, "sort": 3, "value": "ofere\u00e7amos - "}, {"form": "p2", "group": "imperative/negative", "group_sort": 15, "sort": 4, "value": "ofere\u00e7ais\n"}, {"form": "p3", "group": "imperative/negative", "group_sort": 15, "sort": 5, "value": "ofere\u00e7am\n"}], "definitions": ["to offer, bid, tender", "to give, present", "to proffer"], "description": "oferecer (first-person singular present indicative ofere\u00e7o, past participle oferecido)", "etymology": "From a Vulgar Latin *offerescere, a derivation of Latin offerre, present active infinitive of offer\u014d.", "page_id": 3972426, "pronunciations": ["(Portugal) IPA(key): /\u0254.f\u0268.\u027e\u0268.\u02c8se\u027e/"], "related": ["oferenda"], "synonyms": [], "url": "https://en.wiktionary.org/?curid=3972426#Portuguese", "word": "oferecer"}
+{
+  "conjugations": [
+    {
+      "group": "infinitive/impersonal",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "oferecer\n"
+    },
+    {
+      "form": "s1",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "oferecer\n"
+    },
+    {
+      "form": "s2",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 1,
+      "value": "ofereceres\n"
+    },
+    {
+      "form": "s3",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 2,
+      "value": "oferecer\n"
+    },
+    {
+      "form": "p1",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 3,
+      "value": "oferecermos - "
+    },
+    {
+      "form": "p2",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 4,
+      "value": "oferecerdes\n"
+    },
+    {
+      "form": "p3",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 5,
+      "value": "oferecerem\n"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "oferecendo\n"
+    },
+    {
+      "form": "s",
+      "group": "pastparticiple/masculine",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "oferecido\n"
+    },
+    {
+      "form": "p",
+      "group": "pastparticiple/masculine",
+      "group_sort": 3,
+      "sort": 1,
+      "value": "oferecidos\n"
+    },
+    {
+      "form": "s",
+      "group": "pastparticiple/feminine",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "oferecida\n"
+    },
+    {
+      "form": "p",
+      "group": "pastparticiple/feminine",
+      "group_sort": 4,
+      "sort": 1,
+      "value": "oferecidas\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "ofereço\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "ofereces\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 2,
+      "value": "oferece\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 3,
+      "value": "oferecemos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 4,
+      "value": "ofereceis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 5,
+      "value": "oferecem\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "oferecia\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "oferecias\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 2,
+      "value": "oferecia\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 3,
+      "value": "oferecíamos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 4,
+      "value": "oferecíeis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 5,
+      "value": "ofereciam\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "ofereci\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "ofereceste\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "ofereceu\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "oferecemos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "oferecestes\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "ofereceram\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "oferecera\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "ofereceras\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "oferecera\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "oferecêramos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "oferecêreis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "ofereceram\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "oferecerei\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "oferecerás\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "oferecerá\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "ofereceremos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "oferecereis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "oferecerão\n"
+    },
+    {
+      "form": "s1",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "ofereceria\n"
+    },
+    {
+      "form": "s2",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "oferecerias\n"
+    },
+    {
+      "form": "s3",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "ofereceria\n"
+    },
+    {
+      "form": "p1",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "ofereceríamos - "
+    },
+    {
+      "form": "p2",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "ofereceríeis\n"
+    },
+    {
+      "form": "p3",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "ofereceriam\n"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "ofereça\n"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "ofereças\n"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "ofereça\n"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "ofereçamos - "
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "ofereçais\n"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "ofereçam\n"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 0,
+      "value": "oferecesse\n"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "oferecesses\n"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "oferecesse\n"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "oferecêssemos - "
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "oferecêsseis\n"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "oferecessem\n"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 0,
+      "value": "oferecer\n"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 1,
+      "value": "ofereceres\n"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 2,
+      "value": "oferecer\n"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 3,
+      "value": "oferecermos - "
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 4,
+      "value": "oferecerdes\n"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 5,
+      "value": "oferecerem\n"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 0,
+      "value": "-\n"
+    },
+    {
+      "form": "s2",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 1,
+      "value": "oferece\n"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 2,
+      "value": "ofereça\n"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 3,
+      "value": "ofereçamos - "
+    },
+    {
+      "form": "p2",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 4,
+      "value": "oferecei\n"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 5,
+      "value": "ofereçam\n"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 0,
+      "value": "-\n"
+    },
+    {
+      "form": "s2",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 1,
+      "value": "ofereças\n"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 2,
+      "value": "ofereça\n"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 3,
+      "value": "ofereçamos - "
+    },
+    {
+      "form": "p2",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 4,
+      "value": "ofereçais\n"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 5,
+      "value": "ofereçam\n"
+    }
+  ],
+  "definitions": [
+    "to offer, bid, tender",
+    "to give, present",
+    "to proffer"
+  ],
+  "description": "oferecer (first-person singular present indicative ofereço, past participle oferecido)",
+  "etymology": "From a Vulgar Latin *offerescere, a derivation of Latin offerre, present active infinitive of offerō.",
+  "page_id": 3972426,
+  "pronunciations": [
+    "(Portugal) IPA(key): /ɔ.fɨ.ɾɨ.ˈseɾ/"
+  ],
+  "related": [
+    "oferenda"
+  ],
+  "synonyms": [],
+  "url": "https://en.wiktionary.org/?curid=3972426#Portuguese",
+  "word": "oferecer"
+}

@@ -1,1 +1,567 @@
-{"conjugations": [{"group": "infinitive/impersonal", "group_sort": 0, "sort": 0, "value": "contrair\n"}, {"form": "s1", "group": "infinitive/personal", "group_sort": 1, "sort": 0, "value": "contrair\n"}, {"form": "s2", "group": "infinitive/personal", "group_sort": 1, "sort": 1, "value": "contra\u00edres\n"}, {"form": "s3", "group": "infinitive/personal", "group_sort": 1, "sort": 2, "value": "contrair\n"}, {"form": "p1", "group": "infinitive/personal", "group_sort": 1, "sort": 3, "value": "contrairmos - "}, {"form": "p2", "group": "infinitive/personal", "group_sort": 1, "sort": 4, "value": "contrairdes\n"}, {"form": "p3", "group": "infinitive/personal", "group_sort": 1, "sort": 5, "value": "contra\u00edrem\n"}, {"group": "gerund", "group_sort": 2, "sort": 0, "value": "contraindo\n"}, {"form": "s", "group": "pastparticiple/masculine", "group_sort": 3, "sort": 0, "value": "contra\u00eddo\n"}, {"form": "p", "group": "pastparticiple/masculine", "group_sort": 3, "sort": 1, "value": "contra\u00eddos\n"}, {"form": "s", "group": "pastparticiple/feminine", "group_sort": 4, "sort": 0, "value": "contra\u00edda\n"}, {"form": "p", "group": "pastparticiple/feminine", "group_sort": 4, "sort": 1, "value": "contra\u00eddas\n"}, {"form": "s1", "group": "indicative/present", "group_sort": 5, "sort": 0, "value": "contraio\n"}, {"form": "s2", "group": "indicative/present", "group_sort": 5, "sort": 1, "value": "contrais\n"}, {"form": "s3", "group": "indicative/present", "group_sort": 5, "sort": 2, "value": "contrai\n"}, {"form": "p1", "group": "indicative/present", "group_sort": 5, "sort": 3, "value": "contra\u00edmos - "}, {"form": "p2", "group": "indicative/present", "group_sort": 5, "sort": 4, "value": "contra\u00eds\n"}, {"form": "p3", "group": "indicative/present", "group_sort": 5, "sort": 5, "value": "contraem\n"}, {"form": "s1", "group": "indicative/imperfect", "group_sort": 6, "sort": 0, "value": "contra\u00eda\n"}, {"form": "s2", "group": "indicative/imperfect", "group_sort": 6, "sort": 1, "value": "contra\u00edas\n"}, {"form": "s3", "group": "indicative/imperfect", "group_sort": 6, "sort": 2, "value": "contra\u00eda\n"}, {"form": "p1", "group": "indicative/imperfect", "group_sort": 6, "sort": 3, "value": "contra\u00edamos - "}, {"form": "p2", "group": "indicative/imperfect", "group_sort": 6, "sort": 4, "value": "contra\u00edeis\n"}, {"form": "p3", "group": "indicative/imperfect", "group_sort": 6, "sort": 5, "value": "contra\u00edam\n"}, {"form": "s1", "group": "indicative/preterite", "group_sort": 7, "sort": 0, "value": "contra\u00ed\n"}, {"form": "s2", "group": "indicative/preterite", "group_sort": 7, "sort": 1, "value": "contra\u00edste\n"}, {"form": "s3", "group": "indicative/preterite", "group_sort": 7, "sort": 2, "value": "contraiu\n"}, {"form": "p1", "group": "indicative/preterite", "group_sort": 7, "sort": 3, "value": "contra\u00edmos - "}, {"form": "p2", "group": "indicative/preterite", "group_sort": 7, "sort": 4, "value": "contra\u00edstes\n"}, {"form": "p3", "group": "indicative/preterite", "group_sort": 7, "sort": 5, "value": "contra\u00edram\n"}, {"form": "s1", "group": "indicative/pluperfect", "group_sort": 8, "sort": 0, "value": "contra\u00edra\n"}, {"form": "s2", "group": "indicative/pluperfect", "group_sort": 8, "sort": 1, "value": "contra\u00edras\n"}, {"form": "s3", "group": "indicative/pluperfect", "group_sort": 8, "sort": 2, "value": "contra\u00edra\n"}, {"form": "p1", "group": "indicative/pluperfect", "group_sort": 8, "sort": 3, "value": "contra\u00edramos - "}, {"form": "p2", "group": "indicative/pluperfect", "group_sort": 8, "sort": 4, "value": "contra\u00edreis\n"}, {"form": "p3", "group": "indicative/pluperfect", "group_sort": 8, "sort": 5, "value": "contra\u00edram\n"}, {"form": "s1", "group": "indicative/future", "group_sort": 9, "sort": 0, "value": "contrairei\n"}, {"form": "s2", "group": "indicative/future", "group_sort": 9, "sort": 1, "value": "contrair\u00e1s\n"}, {"form": "s3", "group": "indicative/future", "group_sort": 9, "sort": 2, "value": "contrair\u00e1\n"}, {"form": "p1", "group": "indicative/future", "group_sort": 9, "sort": 3, "value": "contrairemos - "}, {"form": "p2", "group": "indicative/future", "group_sort": 9, "sort": 4, "value": "contraireis\n"}, {"form": "p3", "group": "indicative/future", "group_sort": 9, "sort": 5, "value": "contrair\u00e3o\n"}, {"form": "s1", "group": "conditional", "group_sort": 10, "sort": 0, "value": "contrairia\n"}, {"form": "s2", "group": "conditional", "group_sort": 10, "sort": 1, "value": "contrairias\n"}, {"form": "s3", "group": "conditional", "group_sort": 10, "sort": 2, "value": "contrairia\n"}, {"form": "p1", "group": "conditional", "group_sort": 10, "sort": 3, "value": "contrair\u00edamos - "}, {"form": "p2", "group": "conditional", "group_sort": 10, "sort": 4, "value": "contrair\u00edeis\n"}, {"form": "p3", "group": "conditional", "group_sort": 10, "sort": 5, "value": "contrairiam\n"}, {"form": "s1", "group": "subjunctive/present", "group_sort": 11, "sort": 0, "value": "contraia\n"}, {"form": "s2", "group": "subjunctive/present", "group_sort": 11, "sort": 1, "value": "contraias\n"}, {"form": "s3", "group": "subjunctive/present", "group_sort": 11, "sort": 2, "value": "contraia\n"}, {"form": "p1", "group": "subjunctive/present", "group_sort": 11, "sort": 3, "value": "contraiamos - "}, {"form": "p2", "group": "subjunctive/present", "group_sort": 11, "sort": 4, "value": "contraiais\n"}, {"form": "p3", "group": "subjunctive/present", "group_sort": 11, "sort": 5, "value": "contraiam\n"}, {"form": "s1", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 0, "value": "contra\u00edsse\n"}, {"form": "s2", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 1, "value": "contra\u00edsses\n"}, {"form": "s3", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 2, "value": "contra\u00edsse\n"}, {"form": "p1", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 3, "value": "contra\u00edssemos - "}, {"form": "p2", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 4, "value": "contra\u00edsseis\n"}, {"form": "p3", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 5, "value": "contra\u00edssem\n"}, {"form": "s1", "group": "subjunctive/preterite", "group_sort": 13, "sort": 0, "value": "contrair\n"}, {"form": "s2", "group": "subjunctive/preterite", "group_sort": 13, "sort": 1, "value": "contra\u00edres\n"}, {"form": "s3", "group": "subjunctive/preterite", "group_sort": 13, "sort": 2, "value": "contrair\n"}, {"form": "p1", "group": "subjunctive/preterite", "group_sort": 13, "sort": 3, "value": "contrairmos - "}, {"form": "p2", "group": "subjunctive/preterite", "group_sort": 13, "sort": 4, "value": "contrairdes\n"}, {"form": "p3", "group": "subjunctive/preterite", "group_sort": 13, "sort": 5, "value": "contra\u00edrem\n"}, {"form": "s1", "group": "imperative/affirmative", "group_sort": 14, "sort": 0, "value": "-\n"}, {"form": "s2", "group": "imperative/affirmative", "group_sort": 14, "sort": 1, "value": "contrai\n"}, {"form": "s3", "group": "imperative/affirmative", "group_sort": 14, "sort": 2, "value": "contraia\n"}, {"form": "p1", "group": "imperative/affirmative", "group_sort": 14, "sort": 3, "value": "contraiamos - "}, {"form": "p2", "group": "imperative/affirmative", "group_sort": 14, "sort": 4, "value": "contra\u00ed\n"}, {"form": "p3", "group": "imperative/affirmative", "group_sort": 14, "sort": 5, "value": "contraiam\n"}, {"form": "s1", "group": "imperative/negative", "group_sort": 15, "sort": 0, "value": "-\n"}, {"form": "s2", "group": "imperative/negative", "group_sort": 15, "sort": 1, "value": "contraias\n"}, {"form": "s3", "group": "imperative/negative", "group_sort": 15, "sort": 2, "value": "contraia\n"}, {"form": "p1", "group": "imperative/negative", "group_sort": 15, "sort": 3, "value": "contraiamos - "}, {"form": "p2", "group": "imperative/negative", "group_sort": 15, "sort": 4, "value": "contraiais\n"}, {"form": "p3", "group": "imperative/negative", "group_sort": 15, "sort": 5, "value": "contraiam\n"}], "definitions": ["(takes a reflexive pronoun, intransitive) to contract (to draw together; to become shorter or narrower)", "(takes a reflexive pronoun, transitive) to contract (to cause to contract)", "(grammar, intransitive) to contract (to become shorter by omitting some phonemes)", "(transitive) to contract (to acquire an illness)", "(transitive) to acquire (to come to have)"], "description": "contrair (first-person singular present indicative contraio, past participle contra\u00eddo)", "etymology": "From Latin contraho, contrahere, probably a borrowing.", "page_id": 3978814, "pronunciations": [], "related": ["contra\u00e7\u00e3o", "contrato", "trazer"], "synonyms": [], "url": "https://en.wiktionary.org/?curid=3978814#Portuguese", "word": "contrair"}
+{
+  "conjugations": [
+    {
+      "group": "infinitive/impersonal",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "contrair\n"
+    },
+    {
+      "form": "s1",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "contrair\n"
+    },
+    {
+      "form": "s2",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 1,
+      "value": "contraíres\n"
+    },
+    {
+      "form": "s3",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 2,
+      "value": "contrair\n"
+    },
+    {
+      "form": "p1",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 3,
+      "value": "contrairmos - "
+    },
+    {
+      "form": "p2",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 4,
+      "value": "contrairdes\n"
+    },
+    {
+      "form": "p3",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 5,
+      "value": "contraírem\n"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "contraindo\n"
+    },
+    {
+      "form": "s",
+      "group": "pastparticiple/masculine",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "contraído\n"
+    },
+    {
+      "form": "p",
+      "group": "pastparticiple/masculine",
+      "group_sort": 3,
+      "sort": 1,
+      "value": "contraídos\n"
+    },
+    {
+      "form": "s",
+      "group": "pastparticiple/feminine",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "contraída\n"
+    },
+    {
+      "form": "p",
+      "group": "pastparticiple/feminine",
+      "group_sort": 4,
+      "sort": 1,
+      "value": "contraídas\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "contraio\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "contrais\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 2,
+      "value": "contrai\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 3,
+      "value": "contraímos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 4,
+      "value": "contraís\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 5,
+      "value": "contraem\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "contraía\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "contraías\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 2,
+      "value": "contraía\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 3,
+      "value": "contraíamos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 4,
+      "value": "contraíeis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 5,
+      "value": "contraíam\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "contraí\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "contraíste\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "contraiu\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "contraímos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "contraístes\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "contraíram\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "contraíra\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "contraíras\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "contraíra\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "contraíramos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "contraíreis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "contraíram\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "contrairei\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "contrairás\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "contrairá\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "contrairemos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "contraireis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "contrairão\n"
+    },
+    {
+      "form": "s1",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "contrairia\n"
+    },
+    {
+      "form": "s2",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "contrairias\n"
+    },
+    {
+      "form": "s3",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "contrairia\n"
+    },
+    {
+      "form": "p1",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "contrairíamos - "
+    },
+    {
+      "form": "p2",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "contrairíeis\n"
+    },
+    {
+      "form": "p3",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "contrairiam\n"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "contraia\n"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "contraias\n"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "contraia\n"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "contraiamos - "
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "contraiais\n"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "contraiam\n"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 0,
+      "value": "contraísse\n"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "contraísses\n"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "contraísse\n"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "contraíssemos - "
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "contraísseis\n"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "contraíssem\n"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 0,
+      "value": "contrair\n"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 1,
+      "value": "contraíres\n"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 2,
+      "value": "contrair\n"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 3,
+      "value": "contrairmos - "
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 4,
+      "value": "contrairdes\n"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 5,
+      "value": "contraírem\n"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 0,
+      "value": "-\n"
+    },
+    {
+      "form": "s2",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 1,
+      "value": "contrai\n"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 2,
+      "value": "contraia\n"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 3,
+      "value": "contraiamos - "
+    },
+    {
+      "form": "p2",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 4,
+      "value": "contraí\n"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 5,
+      "value": "contraiam\n"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 0,
+      "value": "-\n"
+    },
+    {
+      "form": "s2",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 1,
+      "value": "contraias\n"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 2,
+      "value": "contraia\n"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 3,
+      "value": "contraiamos - "
+    },
+    {
+      "form": "p2",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 4,
+      "value": "contraiais\n"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 5,
+      "value": "contraiam\n"
+    }
+  ],
+  "definitions": [
+    "(takes a reflexive pronoun, intransitive) to contract (to draw together; to become shorter or narrower)",
+    "(takes a reflexive pronoun, transitive) to contract (to cause to contract)",
+    "(grammar, intransitive) to contract (to become shorter by omitting some phonemes)",
+    "(transitive) to contract (to acquire an illness)",
+    "(transitive) to acquire (to come to have)"
+  ],
+  "description": "contrair (first-person singular present indicative contraio, past participle contraído)",
+  "etymology": "From Latin contraho, contrahere, probably a borrowing.",
+  "page_id": 3978814,
+  "pronunciations": [],
+  "related": [
+    "contração",
+    "contrato",
+    "trazer"
+  ],
+  "synonyms": [],
+  "url": "https://en.wiktionary.org/?curid=3978814#Portuguese",
+  "word": "contrair"
+}

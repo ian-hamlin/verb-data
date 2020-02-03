@@ -1,1 +1,384 @@
-{"conjugations": [{"group": "infinitive", "group_sort": 0, "sort": 0, "value": "compiersi\n"}, {"group": "auxiliaryverb", "group_sort": 1, "sort": 0, "value": "essere\n"}, {"group": "gerund", "group_sort": 2, "sort": 0, "value": "compiendosi\n"}, {"group": "presentparticiple", "group_sort": 3, "sort": 0, "value": "compientesi\n"}, {"group": "pastparticiple", "group_sort": 4, "sort": 0, "value": "compiuto, compiutosi\n"}, {"form": "s1", "group": "indicative/present", "group_sort": 5, "sort": 0, "value": "mi compio\n"}, {"form": "s2", "group": "indicative/present", "group_sort": 5, "sort": 1, "value": "ti compii\n"}, {"form": "s3", "group": "indicative/present", "group_sort": 5, "sort": 2, "value": "si compie\n"}, {"form": "p1", "group": "indicative/present", "group_sort": 5, "sort": 3, "value": "ci compiamo - "}, {"form": "p2", "group": "indicative/present", "group_sort": 5, "sort": 4, "value": "vi compiete\n"}, {"form": "p3", "group": "indicative/present", "group_sort": 5, "sort": 5, "value": "si compiono\n"}, {"form": "s1", "group": "indicative/imperfect", "group_sort": 6, "sort": 0, "value": "mi compievo, mi compivo\n"}, {"form": "s2", "group": "indicative/imperfect", "group_sort": 6, "sort": 1, "value": "ti compievi, ti compivi\n"}, {"form": "s3", "group": "indicative/imperfect", "group_sort": 6, "sort": 2, "value": "si compieva, si compiva\n"}, {"form": "p1", "group": "indicative/imperfect", "group_sort": 6, "sort": 3, "value": "ci compievamo, ci compivamo - "}, {"form": "p2", "group": "indicative/imperfect", "group_sort": 6, "sort": 4, "value": "vi compievate, vi compivate\n"}, {"form": "p3", "group": "indicative/imperfect", "group_sort": 6, "sort": 5, "value": "si compievano, si compivano\n"}, {"form": "s1", "group": "indicative/pasthistoric", "group_sort": 7, "sort": 0, "value": "mi compiei, mi compii\n"}, {"form": "s2", "group": "indicative/pasthistoric", "group_sort": 7, "sort": 1, "value": "ti compiesti, ti compisti\n"}, {"form": "s3", "group": "indicative/pasthistoric", "group_sort": 7, "sort": 2, "value": "si compi\u00e9, si comp\u00ec\n"}, {"form": "p1", "group": "indicative/pasthistoric", "group_sort": 7, "sort": 3, "value": "ci compiemmo, ci compimmo - "}, {"form": "p2", "group": "indicative/pasthistoric", "group_sort": 7, "sort": 4, "value": "vi compieste, vi compiste\n"}, {"form": "p3", "group": "indicative/pasthistoric", "group_sort": 7, "sort": 5, "value": "si compierono, si compirono\n"}, {"form": "s1", "group": "indicative/future", "group_sort": 8, "sort": 0, "value": "mi compir\u00f2\n"}, {"form": "s2", "group": "indicative/future", "group_sort": 8, "sort": 1, "value": "ti compirai\n"}, {"form": "s3", "group": "indicative/future", "group_sort": 8, "sort": 2, "value": "si compir\u00e0\n"}, {"form": "p1", "group": "indicative/future", "group_sort": 8, "sort": 3, "value": "ci compiremo - "}, {"form": "p2", "group": "indicative/future", "group_sort": 8, "sort": 4, "value": "vi compirete\n"}, {"form": "p3", "group": "indicative/future", "group_sort": 8, "sort": 5, "value": "si compiranno\n"}, {"form": "s1", "group": "conditional/present", "group_sort": 9, "sort": 0, "value": "mi compirei\n"}, {"form": "s2", "group": "conditional/present", "group_sort": 9, "sort": 1, "value": "ti compiresti\n"}, {"form": "s3", "group": "conditional/present", "group_sort": 9, "sort": 2, "value": "si compirebbe\n"}, {"form": "p1", "group": "conditional/present", "group_sort": 9, "sort": 3, "value": "ci compiremmo - "}, {"form": "p2", "group": "conditional/present", "group_sort": 9, "sort": 4, "value": "vi compireste\n"}, {"form": "p3", "group": "conditional/present", "group_sort": 9, "sort": 5, "value": "si compirebbero\n"}, {"form": "s1-a", "group": "subjunctive/present", "group_sort": 10, "sort": 0, "value": "mi compia\n"}, {"form": "s2-a", "group": "subjunctive/present", "group_sort": 10, "sort": 1, "value": "ti compia\n"}, {"form": "s3-a", "group": "subjunctive/present", "group_sort": 10, "sort": 2, "value": "si compia\n"}, {"form": "p1-a", "group": "subjunctive/present", "group_sort": 10, "sort": 3, "value": "ci compiamo - "}, {"form": "p2-a", "group": "subjunctive/present", "group_sort": 10, "sort": 4, "value": "vi compiate\n"}, {"form": "p3-a", "group": "subjunctive/present", "group_sort": 10, "sort": 5, "value": "si compiano\n"}, {"form": "s1-a", "group": "subjunctive/imperfect", "group_sort": 11, "sort": 0, "value": "mi compiessi\n"}, {"form": "s2-a", "group": "subjunctive/imperfect", "group_sort": 11, "sort": 1, "value": "ti compiessi\n"}, {"form": "s3-a", "group": "subjunctive/imperfect", "group_sort": 11, "sort": 2, "value": "si compiesse\n"}, {"form": "p1-a", "group": "subjunctive/imperfect", "group_sort": 11, "sort": 3, "value": "ci compiessimo - "}, {"form": "p2-a", "group": "subjunctive/imperfect", "group_sort": 11, "sort": 4, "value": "vi compieste\n"}, {"form": "p3-a", "group": "subjunctive/imperfect", "group_sort": 11, "sort": 5, "value": "si compiessero\n"}, {"form": "s1", "group": "imperative", "group_sort": 12, "sort": 0, "value": "\n"}, {"form": "s2", "group": "imperative", "group_sort": 12, "sort": 1, "value": "compi, non ti compiere, non compierti\n"}, {"form": "s3-b", "group": "imperative", "group_sort": 12, "sort": 2, "value": "si compia\n"}, {"form": "p1", "group": "imperative", "group_sort": 12, "sort": 3, "value": "compiamo - "}, {"form": "p2", "group": "imperative", "group_sort": 12, "sort": 4, "value": "compite\n"}, {"form": "p3-b", "group": "imperative", "group_sort": 12, "sort": 5, "value": "si compiano\n"}], "definitions": ["reflexive of compiere", "(reflexive) to end, terminate", "(reflexive) to be fulfilled (of a hope, etc.)", "(reflexive) to come true (of a prediction, etc.)"], "description": "compiersi", "etymology": null, "page_id": 1109109, "pronunciations": [], "related": [], "synonyms": [], "url": "https://en.wiktionary.org/?curid=1109109#Italian", "word": "compiersi"}
+{
+  "conjugations": [
+    {
+      "group": "infinitive",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "compiersi\n"
+    },
+    {
+      "group": "auxiliaryverb",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "essere\n"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "compiendosi\n"
+    },
+    {
+      "group": "presentparticiple",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "compientesi\n"
+    },
+    {
+      "group": "pastparticiple",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "compiuto, compiutosi\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "mi compio\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "ti compii\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 2,
+      "value": "si compie\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 3,
+      "value": "ci compiamo - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 4,
+      "value": "vi compiete\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 5,
+      "value": "si compiono\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "mi compievo, mi compivo\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "ti compievi, ti compivi\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 2,
+      "value": "si compieva, si compiva\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 3,
+      "value": "ci compievamo, ci compivamo - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 4,
+      "value": "vi compievate, vi compivate\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 5,
+      "value": "si compievano, si compivano\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "mi compiei, mi compii\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "ti compiesti, ti compisti\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "si compié, si compì\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "ci compiemmo, ci compimmo - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "vi compieste, vi compiste\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "si compierono, si compirono\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "mi compirò\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "ti compirai\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "si compirà\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "ci compiremo - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "vi compirete\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "si compiranno\n"
+    },
+    {
+      "form": "s1",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "mi compirei\n"
+    },
+    {
+      "form": "s2",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "ti compiresti\n"
+    },
+    {
+      "form": "s3",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "si compirebbe\n"
+    },
+    {
+      "form": "p1",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "ci compiremmo - "
+    },
+    {
+      "form": "p2",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "vi compireste\n"
+    },
+    {
+      "form": "p3",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "si compirebbero\n"
+    },
+    {
+      "form": "s1-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "mi compia\n"
+    },
+    {
+      "form": "s2-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "ti compia\n"
+    },
+    {
+      "form": "s3-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "si compia\n"
+    },
+    {
+      "form": "p1-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "ci compiamo - "
+    },
+    {
+      "form": "p2-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "vi compiate\n"
+    },
+    {
+      "form": "p3-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "si compiano\n"
+    },
+    {
+      "form": "s1-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "mi compiessi\n"
+    },
+    {
+      "form": "s2-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "ti compiessi\n"
+    },
+    {
+      "form": "s3-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "si compiesse\n"
+    },
+    {
+      "form": "p1-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "ci compiessimo - "
+    },
+    {
+      "form": "p2-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "vi compieste\n"
+    },
+    {
+      "form": "p3-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "si compiessero\n"
+    },
+    {
+      "form": "s1",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 0,
+      "value": "\n"
+    },
+    {
+      "form": "s2",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "compi, non ti compiere, non compierti\n"
+    },
+    {
+      "form": "s3-b",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "si compia\n"
+    },
+    {
+      "form": "p1",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "compiamo - "
+    },
+    {
+      "form": "p2",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "compite\n"
+    },
+    {
+      "form": "p3-b",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "si compiano\n"
+    }
+  ],
+  "definitions": [
+    "reflexive of compiere",
+    "(reflexive) to end, terminate",
+    "(reflexive) to be fulfilled (of a hope, etc.)",
+    "(reflexive) to come true (of a prediction, etc.)"
+  ],
+  "description": "compiersi",
+  "etymology": null,
+  "page_id": 1109109,
+  "pronunciations": [],
+  "related": [],
+  "synonyms": [],
+  "url": "https://en.wiktionary.org/?curid=1109109#Italian",
+  "word": "compiersi"
+}

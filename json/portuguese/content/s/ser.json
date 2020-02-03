@@ -1,1 +1,601 @@
-{"conjugations": [{"group": "infinitive/impersonal", "group_sort": 0, "sort": 0, "value": "ser\n"}, {"form": "s1", "group": "infinitive/personal", "group_sort": 1, "sort": 0, "value": "ser\n"}, {"form": "s2", "group": "infinitive/personal", "group_sort": 1, "sort": 1, "value": "seres\n"}, {"form": "s3", "group": "infinitive/personal", "group_sort": 1, "sort": 2, "value": "ser\n"}, {"form": "p1", "group": "infinitive/personal", "group_sort": 1, "sort": 3, "value": "sermos - "}, {"form": "p2", "group": "infinitive/personal", "group_sort": 1, "sort": 4, "value": "serdes\n"}, {"form": "p3", "group": "infinitive/personal", "group_sort": 1, "sort": 5, "value": "serem\n"}, {"group": "gerund", "group_sort": 2, "sort": 0, "value": "sendo\n"}, {"form": "s", "group": "pastparticiple/masculine", "group_sort": 3, "sort": 0, "value": "sido\n"}, {"form": "p", "group": "pastparticiple/masculine", "group_sort": 3, "sort": 1, "value": "sidos\n"}, {"form": "s", "group": "pastparticiple/feminine", "group_sort": 4, "sort": 0, "value": "sida\n"}, {"form": "p", "group": "pastparticiple/feminine", "group_sort": 4, "sort": 1, "value": "sidas\n"}, {"form": "s1", "group": "indicative/present", "group_sort": 5, "sort": 0, "value": "sou\n"}, {"form": "s2", "group": "indicative/present", "group_sort": 5, "sort": 1, "value": "\u00e9s\n"}, {"form": "s3", "group": "indicative/present", "group_sort": 5, "sort": 2, "value": "\u00e9\n"}, {"form": "p1", "group": "indicative/present", "group_sort": 5, "sort": 3, "value": "somos - "}, {"form": "p2", "group": "indicative/present", "group_sort": 5, "sort": 4, "value": "sois\n"}, {"form": "p3", "group": "indicative/present", "group_sort": 5, "sort": 5, "value": "s\u00e3o\n"}, {"form": "s1", "group": "indicative/imperfect", "group_sort": 6, "sort": 0, "value": "era\n"}, {"form": "s2", "group": "indicative/imperfect", "group_sort": 6, "sort": 1, "value": "eras\n"}, {"form": "s3", "group": "indicative/imperfect", "group_sort": 6, "sort": 2, "value": "era\n"}, {"form": "p1", "group": "indicative/imperfect", "group_sort": 6, "sort": 3, "value": "\u00e9ramos - "}, {"form": "p2", "group": "indicative/imperfect", "group_sort": 6, "sort": 4, "value": "\u00e9reis\n"}, {"form": "p3", "group": "indicative/imperfect", "group_sort": 6, "sort": 5, "value": "eram\n"}, {"form": "s1", "group": "indicative/preterite", "group_sort": 7, "sort": 0, "value": "fui\n"}, {"form": "s2", "group": "indicative/preterite", "group_sort": 7, "sort": 1, "value": "foste\n"}, {"form": "s3", "group": "indicative/preterite", "group_sort": 7, "sort": 2, "value": "foi\n"}, {"form": "p1", "group": "indicative/preterite", "group_sort": 7, "sort": 3, "value": "fomos - "}, {"form": "p2", "group": "indicative/preterite", "group_sort": 7, "sort": 4, "value": "fostes\n"}, {"form": "p3", "group": "indicative/preterite", "group_sort": 7, "sort": 5, "value": "foram\n"}, {"form": "s1", "group": "indicative/pluperfect", "group_sort": 8, "sort": 0, "value": "fora\n"}, {"form": "s2", "group": "indicative/pluperfect", "group_sort": 8, "sort": 1, "value": "foras\n"}, {"form": "s3", "group": "indicative/pluperfect", "group_sort": 8, "sort": 2, "value": "fora\n"}, {"form": "p1", "group": "indicative/pluperfect", "group_sort": 8, "sort": 3, "value": "f\u00f4ramos - "}, {"form": "p2", "group": "indicative/pluperfect", "group_sort": 8, "sort": 4, "value": "f\u00f4reis\n"}, {"form": "p3", "group": "indicative/pluperfect", "group_sort": 8, "sort": 5, "value": "foram\n"}, {"form": "s1", "group": "indicative/future", "group_sort": 9, "sort": 0, "value": "serei\n"}, {"form": "s2", "group": "indicative/future", "group_sort": 9, "sort": 1, "value": "ser\u00e1s\n"}, {"form": "s3", "group": "indicative/future", "group_sort": 9, "sort": 2, "value": "ser\u00e1\n"}, {"form": "p1", "group": "indicative/future", "group_sort": 9, "sort": 3, "value": "seremos - "}, {"form": "p2", "group": "indicative/future", "group_sort": 9, "sort": 4, "value": "sereis\n"}, {"form": "p3", "group": "indicative/future", "group_sort": 9, "sort": 5, "value": "ser\u00e3o\n"}, {"form": "s1", "group": "conditional", "group_sort": 10, "sort": 0, "value": "seria\n"}, {"form": "s2", "group": "conditional", "group_sort": 10, "sort": 1, "value": "serias\n"}, {"form": "s3", "group": "conditional", "group_sort": 10, "sort": 2, "value": "seria\n"}, {"form": "p1", "group": "conditional", "group_sort": 10, "sort": 3, "value": "ser\u00edamos - "}, {"form": "p2", "group": "conditional", "group_sort": 10, "sort": 4, "value": "ser\u00edeis\n"}, {"form": "p3", "group": "conditional", "group_sort": 10, "sort": 5, "value": "seriam\n"}, {"form": "s1", "group": "subjunctive/present", "group_sort": 11, "sort": 0, "value": "seja\n"}, {"form": "s2", "group": "subjunctive/present", "group_sort": 11, "sort": 1, "value": "sejas\n"}, {"form": "s3", "group": "subjunctive/present", "group_sort": 11, "sort": 2, "value": "seja\n"}, {"form": "p1", "group": "subjunctive/present", "group_sort": 11, "sort": 3, "value": "sejamos - "}, {"form": "p2", "group": "subjunctive/present", "group_sort": 11, "sort": 4, "value": "sejais\n"}, {"form": "p3", "group": "subjunctive/present", "group_sort": 11, "sort": 5, "value": "sejam\n"}, {"form": "s1", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 0, "value": "fosse\n"}, {"form": "s2", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 1, "value": "fosses\n"}, {"form": "s3", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 2, "value": "fosse\n"}, {"form": "p1", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 3, "value": "f\u00f4ssemos - "}, {"form": "p2", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 4, "value": "f\u00f4sseis\n"}, {"form": "p3", "group": "subjunctive/imperfect", "group_sort": 12, "sort": 5, "value": "fossem\n"}, {"form": "s1", "group": "subjunctive/preterite", "group_sort": 13, "sort": 0, "value": "for\n"}, {"form": "s2", "group": "subjunctive/preterite", "group_sort": 13, "sort": 1, "value": "fores\n"}, {"form": "s3", "group": "subjunctive/preterite", "group_sort": 13, "sort": 2, "value": "for\n"}, {"form": "p1", "group": "subjunctive/preterite", "group_sort": 13, "sort": 3, "value": "formos - "}, {"form": "p2", "group": "subjunctive/preterite", "group_sort": 13, "sort": 4, "value": "fordes\n"}, {"form": "p3", "group": "subjunctive/preterite", "group_sort": 13, "sort": 5, "value": "forem\n"}, {"form": "s1", "group": "imperative/affirmative", "group_sort": 14, "sort": 0, "value": "-\n"}, {"form": "s2", "group": "imperative/affirmative", "group_sort": 14, "sort": 1, "value": "s\u00ea\n"}, {"form": "s3", "group": "imperative/affirmative", "group_sort": 14, "sort": 2, "value": "seja\n"}, {"form": "p1", "group": "imperative/affirmative", "group_sort": 14, "sort": 3, "value": "sejamos - "}, {"form": "p2", "group": "imperative/affirmative", "group_sort": 14, "sort": 4, "value": "sede\n"}, {"form": "p3", "group": "imperative/affirmative", "group_sort": 14, "sort": 5, "value": "sejam\n"}, {"form": "s1", "group": "imperative/negative", "group_sort": 15, "sort": 0, "value": "-\n"}, {"form": "s2", "group": "imperative/negative", "group_sort": 15, "sort": 1, "value": "sejas\n"}, {"form": "s3", "group": "imperative/negative", "group_sort": 15, "sort": 2, "value": "seja\n"}, {"form": "p1", "group": "imperative/negative", "group_sort": 15, "sort": 3, "value": "sejamos - "}, {"form": "p2", "group": "imperative/negative", "group_sort": 15, "sort": 4, "value": "sejais\n"}, {"form": "p3", "group": "imperative/negative", "group_sort": 15, "sort": 5, "value": "sejam\n"}], "definitions": ["(copulative) to be (to have the given quality), especially a quality that is intrinsic or not expected to change, contrasting with estar which denotes a temporary quality\nEla est\u00e1 bonita, mas n\u00e3o \u00e9 bonita. She is beautiful right now, but she is not a beautiful person.", "(transitive) to be (to be an example or type of, or the same thing as)\nPessoas s\u00e3o mam\u00edferos. People are mammals.\nA soma de um e dois \u00e9 tr\u00eas. The sum of one and two is three.", "(auxiliary  with a verb in the past participle) to be (forms the passive voice)\nO carro foi vendido pelo seu antigo dono. The car was sold by its previous owner.\nEspero que os criminosos sejam punidos. I hope the criminals are punished.", "(impersonal) to be (indicates a point in time)\nQue horas s\u00e3o? What time is it?\nS\u00e3o cinco horas. It is five o\u2019clock.", "(transitive with em or another locational preposition) to be in (to be located in)\nMinha casa \u00e9 num bairro pobre. My house is in a poor neighbourhood.\nOnde s\u00e3o essas cidades? Where are these cities?", "(transitive with de) to be from (to have as one\u2019s place of origin)\nEsses equipamentos s\u00e3o da Alemanha. These pieces of equipment are from Germany.\nNenhum de n\u00f3s \u00e9 de um pa\u00eds estrangeiro. None of us is from a foreign country.", "(transitive with de) to be (someone\u2019s); to belong to\nEssa casa \u00e9 do prefeito. This house belongs to the mayor.\nN\u00e3o mexa em nada que n\u00e3o for seu. Don\u2019t touch anything that is not yours.", "(transitive or auxiliary with para or de and a verb in the personal infinitive) to be for; to be to (to have as its purpose)\nEsse tipo de faca \u00e9 para cortar tomates. This type of knife is for cutting tomatoes.", "(impersonal, auxiliary with para and a verb in the personal infinitive) to be supposed to; should (introduces an expected or demanded action)\nN\u00e3o sei porque est\u00e1 demorando, j\u00e1 era para o filme ter come\u00e7ado. I don\u2019t know why it is taking so long, the film should have started already.\n\u00c9 para comermos toda a carne. We are supposed to eat all the meat.", "(transitive) to be; to cost (to be worth a given amount of money)\nDuas ma\u00e7\u00e3s s\u00e3o dez centavos. Two apples are ten cents.", "(intransitive) to happen; to take place; to occur\nO que ser\u00e1, ser\u00e1. Whatever happens happens.\nQuando \u00e9 seu anivers\u00e1rio? When is your birthday?", "(transitive with por or a favor de or contra) to be against or in favour of\nAlguns foram contra a guerra, mas a maioria foi a favor. Some were against the war, but most were in favour.", "(poetic, intransitive) to exist; to be (a thing)\nO mal n\u00e3o \u00e9. Evil does not exist.", "(impersonal, transitive) used for emphasis\nEu \u00e9 que vim. I\u2019m the one who came here."], "description": "ser (first-person singular present indicative sou, past participle sido)", "etymology": "From Old Portuguese seer, with some forms from Vulgar Latin *essere (from Latin esse, present active infinitive of sum (\u201cI am, exist\u201d), from Proto-Italic *ezom, from Proto-Indo-European *h\u2081\u00e9sti (\u201cI am, I exist\u201d)), and some forms, including the infinitive, from Latin sed\u0113re, present active infinitive of sede\u014d (\u201cI sit\u201d), from Proto-Italic *sed\u0113\u014d, from Proto-Indo-European *sed-.", "page_id": 36922, "pronunciations": ["(Portugal) IPA(key): /\u02c8se\u027e/", "IPA(key): /ser/", "IPA(key): /se\u031e\u027e/"], "related": ["ser humano"], "synonyms": ["(forms the passive voice): any reflexive pronoun", "(to be located in): ficar em", "localizar-se em", "(to be from): vir de", "(to belong to): pertencer a", "(to have as its purpose): servir para", "(to be supposed to): dever", "(to cost): custar", "valer", "(to happen): acontecer", "haver", "ocorrer", "ter", "produzir-se", "realizar-se", "sobrevir", "suceder", "criatura", "ente", "(head): ba\u015f", "kafa", "(scythe): pladur"], "url": "https://en.wiktionary.org/?curid=36922#Portuguese", "word": "ser"}
+{
+  "conjugations": [
+    {
+      "group": "infinitive/impersonal",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "ser\n"
+    },
+    {
+      "form": "s1",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "ser\n"
+    },
+    {
+      "form": "s2",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 1,
+      "value": "seres\n"
+    },
+    {
+      "form": "s3",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 2,
+      "value": "ser\n"
+    },
+    {
+      "form": "p1",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 3,
+      "value": "sermos - "
+    },
+    {
+      "form": "p2",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 4,
+      "value": "serdes\n"
+    },
+    {
+      "form": "p3",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 5,
+      "value": "serem\n"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "sendo\n"
+    },
+    {
+      "form": "s",
+      "group": "pastparticiple/masculine",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "sido\n"
+    },
+    {
+      "form": "p",
+      "group": "pastparticiple/masculine",
+      "group_sort": 3,
+      "sort": 1,
+      "value": "sidos\n"
+    },
+    {
+      "form": "s",
+      "group": "pastparticiple/feminine",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "sida\n"
+    },
+    {
+      "form": "p",
+      "group": "pastparticiple/feminine",
+      "group_sort": 4,
+      "sort": 1,
+      "value": "sidas\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "sou\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "és\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 2,
+      "value": "é\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 3,
+      "value": "somos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 4,
+      "value": "sois\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 5,
+      "value": "são\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "era\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "eras\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 2,
+      "value": "era\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 3,
+      "value": "éramos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 4,
+      "value": "éreis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 5,
+      "value": "eram\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "fui\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "foste\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "foi\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "fomos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "fostes\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "foram\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "fora\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "foras\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "fora\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "fôramos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "fôreis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "foram\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "serei\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "serás\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "será\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "seremos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "sereis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "serão\n"
+    },
+    {
+      "form": "s1",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "seria\n"
+    },
+    {
+      "form": "s2",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "serias\n"
+    },
+    {
+      "form": "s3",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "seria\n"
+    },
+    {
+      "form": "p1",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "seríamos - "
+    },
+    {
+      "form": "p2",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "seríeis\n"
+    },
+    {
+      "form": "p3",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "seriam\n"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "seja\n"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "sejas\n"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "seja\n"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "sejamos - "
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "sejais\n"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "sejam\n"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 0,
+      "value": "fosse\n"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "fosses\n"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "fosse\n"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "fôssemos - "
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "fôsseis\n"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "fossem\n"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 0,
+      "value": "for\n"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 1,
+      "value": "fores\n"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 2,
+      "value": "for\n"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 3,
+      "value": "formos - "
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 4,
+      "value": "fordes\n"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 5,
+      "value": "forem\n"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 0,
+      "value": "-\n"
+    },
+    {
+      "form": "s2",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 1,
+      "value": "sê\n"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 2,
+      "value": "seja\n"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 3,
+      "value": "sejamos - "
+    },
+    {
+      "form": "p2",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 4,
+      "value": "sede\n"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 5,
+      "value": "sejam\n"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 0,
+      "value": "-\n"
+    },
+    {
+      "form": "s2",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 1,
+      "value": "sejas\n"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 2,
+      "value": "seja\n"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 3,
+      "value": "sejamos - "
+    },
+    {
+      "form": "p2",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 4,
+      "value": "sejais\n"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 5,
+      "value": "sejam\n"
+    }
+  ],
+  "definitions": [
+    "(copulative) to be (to have the given quality), especially a quality that is intrinsic or not expected to change, contrasting with estar which denotes a temporary quality\nEla está bonita, mas não é bonita. She is beautiful right now, but she is not a beautiful person.",
+    "(transitive) to be (to be an example or type of, or the same thing as)\nPessoas são mamíferos. People are mammals.\nA soma de um e dois é três. The sum of one and two is three.",
+    "(auxiliary  with a verb in the past participle) to be (forms the passive voice)\nO carro foi vendido pelo seu antigo dono. The car was sold by its previous owner.\nEspero que os criminosos sejam punidos. I hope the criminals are punished.",
+    "(impersonal) to be (indicates a point in time)\nQue horas são? What time is it?\nSão cinco horas. It is five o’clock.",
+    "(transitive with em or another locational preposition) to be in (to be located in)\nMinha casa é num bairro pobre. My house is in a poor neighbourhood.\nOnde são essas cidades? Where are these cities?",
+    "(transitive with de) to be from (to have as one’s place of origin)\nEsses equipamentos são da Alemanha. These pieces of equipment are from Germany.\nNenhum de nós é de um país estrangeiro. None of us is from a foreign country.",
+    "(transitive with de) to be (someone’s); to belong to\nEssa casa é do prefeito. This house belongs to the mayor.\nNão mexa em nada que não for seu. Don’t touch anything that is not yours.",
+    "(transitive or auxiliary with para or de and a verb in the personal infinitive) to be for; to be to (to have as its purpose)\nEsse tipo de faca é para cortar tomates. This type of knife is for cutting tomatoes.",
+    "(impersonal, auxiliary with para and a verb in the personal infinitive) to be supposed to; should (introduces an expected or demanded action)\nNão sei porque está demorando, já era para o filme ter começado. I don’t know why it is taking so long, the film should have started already.\nÉ para comermos toda a carne. We are supposed to eat all the meat.",
+    "(transitive) to be; to cost (to be worth a given amount of money)\nDuas maçãs são dez centavos. Two apples are ten cents.",
+    "(intransitive) to happen; to take place; to occur\nO que será, será. Whatever happens happens.\nQuando é seu aniversário? When is your birthday?",
+    "(transitive with por or a favor de or contra) to be against or in favour of\nAlguns foram contra a guerra, mas a maioria foi a favor. Some were against the war, but most were in favour.",
+    "(poetic, intransitive) to exist; to be (a thing)\nO mal não é. Evil does not exist.",
+    "(impersonal, transitive) used for emphasis\nEu é que vim. I’m the one who came here."
+  ],
+  "description": "ser (first-person singular present indicative sou, past participle sido)",
+  "etymology": "From Old Portuguese seer, with some forms from Vulgar Latin *essere (from Latin esse, present active infinitive of sum (“I am, exist”), from Proto-Italic *ezom, from Proto-Indo-European *h₁ésti (“I am, I exist”)), and some forms, including the infinitive, from Latin sedēre, present active infinitive of sedeō (“I sit”), from Proto-Italic *sedēō, from Proto-Indo-European *sed-.",
+  "page_id": 36922,
+  "pronunciations": [
+    "(Portugal) IPA(key): /ˈseɾ/",
+    "IPA(key): /ser/",
+    "IPA(key): /se̞ɾ/"
+  ],
+  "related": [
+    "ser humano"
+  ],
+  "synonyms": [
+    "(forms the passive voice): any reflexive pronoun",
+    "(to be located in): ficar em",
+    "localizar-se em",
+    "(to be from): vir de",
+    "(to belong to): pertencer a",
+    "(to have as its purpose): servir para",
+    "(to be supposed to): dever",
+    "(to cost): custar",
+    "valer",
+    "(to happen): acontecer",
+    "haver",
+    "ocorrer",
+    "ter",
+    "produzir-se",
+    "realizar-se",
+    "sobrevir",
+    "suceder",
+    "criatura",
+    "ente",
+    "(head): baş",
+    "kafa",
+    "(scythe): pladur"
+  ],
+  "url": "https://en.wiktionary.org/?curid=36922#Portuguese",
+  "word": "ser"
+}

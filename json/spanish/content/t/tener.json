@@ -1,1 +1,544 @@
-{"conjugations": [{"group": "infinitive", "group_sort": 0, "sort": 0, "value": "tener"}, {"group": "gerund", "group_sort": 1, "sort": 0, "value": "teniendo"}, {"form": "masculine", "group": "pastparticiple/singular", "group_sort": 2, "sort": 0, "value": "tenido"}, {"form": "feminine", "group": "pastparticiple/singular", "group_sort": 2, "sort": 1, "value": "tenida"}, {"form": "masculine", "group": "pastparticiple/plural", "group_sort": 3, "sort": 0, "value": "tenidos"}, {"form": "feminine", "group": "pastparticiple/plural", "group_sort": 3, "sort": 1, "value": "tenidas"}, {"form": "s1", "group": "indicative/present", "group_sort": 4, "sort": 0, "value": "tengo"}, {"form": "s2", "group": "indicative/present", "group_sort": 4, "sort": 1, "value": "tienes (t\u00fa) - ten\u00e9s (vos)"}, {"form": "s3", "group": "indicative/present", "group_sort": 4, "sort": 2, "value": "tiene"}, {"form": "p1", "group": "indicative/present", "group_sort": 4, "sort": 3, "value": "tenemos"}, {"form": "p2", "group": "indicative/present", "group_sort": 4, "sort": 4, "value": "ten\u00e9is"}, {"form": "p3", "group": "indicative/present", "group_sort": 4, "sort": 5, "value": "tienen"}, {"form": "s1", "group": "indicative/imperfect", "group_sort": 5, "sort": 0, "value": "ten\u00eda"}, {"form": "s2", "group": "indicative/imperfect", "group_sort": 5, "sort": 1, "value": "ten\u00edas"}, {"form": "s3", "group": "indicative/imperfect", "group_sort": 5, "sort": 2, "value": "ten\u00eda"}, {"form": "p1", "group": "indicative/imperfect", "group_sort": 5, "sort": 3, "value": "ten\u00edamos"}, {"form": "p2", "group": "indicative/imperfect", "group_sort": 5, "sort": 4, "value": "ten\u00edais"}, {"form": "p3", "group": "indicative/imperfect", "group_sort": 5, "sort": 5, "value": "ten\u00edan"}, {"form": "s1", "group": "indicative/preterite", "group_sort": 6, "sort": 0, "value": "tuve"}, {"form": "s2", "group": "indicative/preterite", "group_sort": 6, "sort": 1, "value": "tuviste"}, {"form": "s3", "group": "indicative/preterite", "group_sort": 6, "sort": 2, "value": "tuvo"}, {"form": "p1", "group": "indicative/preterite", "group_sort": 6, "sort": 3, "value": "tuvimos"}, {"form": "p2", "group": "indicative/preterite", "group_sort": 6, "sort": 4, "value": "tuvisteis"}, {"form": "p3", "group": "indicative/preterite", "group_sort": 6, "sort": 5, "value": "tuvieron"}, {"form": "s1", "group": "indicative/future", "group_sort": 7, "sort": 0, "value": "tendr\u00e9"}, {"form": "s2", "group": "indicative/future", "group_sort": 7, "sort": 1, "value": "tendr\u00e1s"}, {"form": "s3", "group": "indicative/future", "group_sort": 7, "sort": 2, "value": "tendr\u00e1"}, {"form": "p1", "group": "indicative/future", "group_sort": 7, "sort": 3, "value": "tendremos"}, {"form": "p2", "group": "indicative/future", "group_sort": 7, "sort": 4, "value": "tendr\u00e9is"}, {"form": "p3", "group": "indicative/future", "group_sort": 7, "sort": 5, "value": "tendr\u00e1n"}, {"form": "s1", "group": "indicative/conditional", "group_sort": 8, "sort": 0, "value": "tendr\u00eda"}, {"form": "s2", "group": "indicative/conditional", "group_sort": 8, "sort": 1, "value": "tendr\u00edas"}, {"form": "s3", "group": "indicative/conditional", "group_sort": 8, "sort": 2, "value": "tendr\u00eda"}, {"form": "p1", "group": "indicative/conditional", "group_sort": 8, "sort": 3, "value": "tendr\u00edamos"}, {"form": "p2", "group": "indicative/conditional", "group_sort": 8, "sort": 4, "value": "tendr\u00edais"}, {"form": "p3", "group": "indicative/conditional", "group_sort": 8, "sort": 5, "value": "tendr\u00edan"}, {"form": "s1", "group": "subjunctive/present", "group_sort": 9, "sort": 0, "value": "tenga"}, {"form": "s2", "group": "subjunctive/present", "group_sort": 9, "sort": 1, "value": "tengas"}, {"form": "s3", "group": "subjunctive/present", "group_sort": 9, "sort": 2, "value": "tenga"}, {"form": "p1", "group": "subjunctive/present", "group_sort": 9, "sort": 3, "value": "tengamos"}, {"form": "p2", "group": "subjunctive/present", "group_sort": 9, "sort": 4, "value": "teng\u00e1is"}, {"form": "p3", "group": "subjunctive/present", "group_sort": 9, "sort": 5, "value": "tengan"}, {"form": "s1", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 0, "value": "tuviera"}, {"form": "s2", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 1, "value": "tuvieras"}, {"form": "s3", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 2, "value": "tuviera"}, {"form": "p1", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 3, "value": "tuvi\u00e9ramos"}, {"form": "p2", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 4, "value": "tuvierais"}, {"form": "p3", "group": "subjunctive/imperfect_ra", "group_sort": 10, "sort": 5, "value": "tuvieran"}, {"form": "s1", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 0, "value": "tuviese"}, {"form": "s2", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 1, "value": "tuvieses"}, {"form": "s3", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 2, "value": "tuviese"}, {"form": "p1", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 3, "value": "tuvi\u00e9semos"}, {"form": "p2", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 4, "value": "tuvieseis"}, {"form": "p3", "group": "subjunctive/imperfect_se", "group_sort": 11, "sort": 5, "value": "tuviesen"}, {"form": "s1", "group": "subjunctive/future", "group_sort": 12, "sort": 0, "value": "tuviere"}, {"form": "s2", "group": "subjunctive/future", "group_sort": 12, "sort": 1, "value": "tuvieres"}, {"form": "s3", "group": "subjunctive/future", "group_sort": 12, "sort": 2, "value": "tuviere"}, {"form": "p1", "group": "subjunctive/future", "group_sort": 12, "sort": 3, "value": "tuvi\u00e9remos"}, {"form": "p2", "group": "subjunctive/future", "group_sort": 12, "sort": 4, "value": "tuviereis"}, {"form": "p3", "group": "subjunctive/future", "group_sort": 12, "sort": 5, "value": "tuvieren"}, {"form": "s1", "group": "imperative/affirmative", "group_sort": 13, "sort": 0, "value": ""}, {"form": "s2", "group": "imperative/affirmative", "group_sort": 13, "sort": 1, "value": "ten (t\u00fa) - ten\u00e9 (vos)"}, {"form": "s3", "group": "imperative/affirmative", "group_sort": 13, "sort": 2, "value": "tenga"}, {"form": "p1", "group": "imperative/affirmative", "group_sort": 13, "sort": 3, "value": "tengamos"}, {"form": "p2", "group": "imperative/affirmative", "group_sort": 13, "sort": 4, "value": "tened"}, {"form": "p3", "group": "imperative/affirmative", "group_sort": 13, "sort": 5, "value": "tengan"}, {"form": "s1", "group": "imperative/negative", "group_sort": 14, "sort": 0, "value": ""}, {"form": "s2", "group": "imperative/negative", "group_sort": 14, "sort": 1, "value": "no tengas"}, {"form": "s3", "group": "imperative/negative", "group_sort": 14, "sort": 2, "value": "no tenga"}, {"form": "p1", "group": "imperative/negative", "group_sort": 14, "sort": 3, "value": "no tengamos"}, {"form": "p2", "group": "imperative/negative", "group_sort": 14, "sort": 4, "value": "no teng\u00e1is"}, {"form": "p3", "group": "imperative/negative", "group_sort": 14, "sort": 5, "value": "no tengan"}], "definitions": ["(transitive) to have, possess\nElla tiene seis hermanos. \u2015 She has six brothers.\nTengo una pluma. \u2015 I have a pen.", "(transitive) to possess (a condition or quality)\nUsted tiene suerte. \u2015 You are lucky. (literally: \u201cYou have luck.\u201d)\n\u00a1Ten cuidado! \u2015 Be careful! (literally: \u201cHave care!\u201d)\n\u00bfQui\u00e9n tiene raz\u00f3n? \u2015 Who is right? (literally: \u201cWho has reason?\u201d)", "(transitive) to hold, grasp\nTen esto. \u2015 Hold this.", "(transitive) to contain\nEste tarro tiene las cenizas. \u2015 This jar contains the ashes.", "(transitive) to have, feel (internally)\n\u00c9l le tiene mucho cari\u00f1o a ella. \u2015 He has much admiration for her.\nTengo fr\u00edo. \u2015 I feel cold.\nTenemos hambre. \u2015 We are hungry. (literally: \u201cWe have hunger.\u201d)", "(transitive) to make to feel\nEso nos tiene tristes. \u2015 That makes us sad.", "(transitive) to have (a measure or age)\nTiene tres metros de ancho. \u2015 It is three metres wide. (literally: \u201cIt has three metres of width.\u201d)\nTengo veinte a\u00f1os. \u2015 I am twenty years (old). (literally: \u201cI have twenty years.\u201d)", "(used with que) To have to\nTengo que salir ahora. - \"I have to leave now.\""], "description": "tener (first-person singular present tengo, first-person singular preterite tuve, past participle tenido)", "etymology": "From Latin ten\u0113re (\u201cto hold, to have\u201d), present active infinitive of tene\u014d (\u201cI hold, I have\u201d), from Proto-Italic *ten\u0113\u014d, stative from Proto-Indo-European *ten- (\u201cto stretch, draw\u201d).", "page_id": 81432, "pronunciations": ["IPA(key): /te\u02c8ne\u027e/"], "related": ["abstener (\u201cto abstain\u201d)", "atener (\u201cto maintain\u201d)", "contener (\u201cto contain\u201d)", "detener (\u201cto detain\u201d)", "entretener (\u201cto entertain\u201d)", "mantener (\u201cto maintain\u201d)", "manutener (\u201cto maintain\u201d)", "obtener (\u201cto obtain\u201d)", "retener (\u201cto retain\u201d)", "sostener (\u201cto sustain\u201d)", "tenedor", "teniente", "tenis", "tenor"], "synonyms": ["(to have", "possess): poseer"], "url": "https://en.wiktionary.org/?curid=81432#Spanish", "word": "tener"}
+{
+  "conjugations": [
+    {
+      "group": "infinitive",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "tener"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "teniendo"
+    },
+    {
+      "form": "masculine",
+      "group": "pastparticiple/singular",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "tenido"
+    },
+    {
+      "form": "feminine",
+      "group": "pastparticiple/singular",
+      "group_sort": 2,
+      "sort": 1,
+      "value": "tenida"
+    },
+    {
+      "form": "masculine",
+      "group": "pastparticiple/plural",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "tenidos"
+    },
+    {
+      "form": "feminine",
+      "group": "pastparticiple/plural",
+      "group_sort": 3,
+      "sort": 1,
+      "value": "tenidas"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "tengo"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 1,
+      "value": "tienes (tú) - tenés (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 2,
+      "value": "tiene"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 3,
+      "value": "tenemos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 4,
+      "value": "tenéis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 5,
+      "value": "tienen"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "tenía"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "tenías"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 2,
+      "value": "tenía"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 3,
+      "value": "teníamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 4,
+      "value": "teníais"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 5,
+      "value": "tenían"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "tuve"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "tuviste"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 2,
+      "value": "tuvo"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 3,
+      "value": "tuvimos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 4,
+      "value": "tuvisteis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 5,
+      "value": "tuvieron"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "tendré"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "tendrás"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "tendrá"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "tendremos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "tendréis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "tendrán"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "tendría"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "tendrías"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "tendría"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "tendríamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "tendríais"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "tendrían"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "tenga"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "tengas"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "tenga"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "tengamos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "tengáis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "tengan"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "tuviera"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "tuvieras"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "tuviera"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "tuviéramos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "tuvierais"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "tuvieran"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "tuviese"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "tuvieses"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "tuviese"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "tuviésemos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "tuvieseis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "tuviesen"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 0,
+      "value": "tuviere"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "tuvieres"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "tuviere"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "tuviéremos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "tuviereis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "tuvieren"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 1,
+      "value": "ten (tú) - tené (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 2,
+      "value": "tenga"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 3,
+      "value": "tengamos"
+    },
+    {
+      "form": "p2",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 4,
+      "value": "tened"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 5,
+      "value": "tengan"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 1,
+      "value": "no tengas"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 2,
+      "value": "no tenga"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 3,
+      "value": "no tengamos"
+    },
+    {
+      "form": "p2",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 4,
+      "value": "no tengáis"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 5,
+      "value": "no tengan"
+    }
+  ],
+  "definitions": [
+    "(transitive) to have, possess\nElla tiene seis hermanos. ― She has six brothers.\nTengo una pluma. ― I have a pen.",
+    "(transitive) to possess (a condition or quality)\nUsted tiene suerte. ― You are lucky. (literally: “You have luck.”)\n¡Ten cuidado! ― Be careful! (literally: “Have care!”)\n¿Quién tiene razón? ― Who is right? (literally: “Who has reason?”)",
+    "(transitive) to hold, grasp\nTen esto. ― Hold this.",
+    "(transitive) to contain\nEste tarro tiene las cenizas. ― This jar contains the ashes.",
+    "(transitive) to have, feel (internally)\nÉl le tiene mucho cariño a ella. ― He has much admiration for her.\nTengo frío. ― I feel cold.\nTenemos hambre. ― We are hungry. (literally: “We have hunger.”)",
+    "(transitive) to make to feel\nEso nos tiene tristes. ― That makes us sad.",
+    "(transitive) to have (a measure or age)\nTiene tres metros de ancho. ― It is three metres wide. (literally: “It has three metres of width.”)\nTengo veinte años. ― I am twenty years (old). (literally: “I have twenty years.”)",
+    "(used with que) To have to\nTengo que salir ahora. - \"I have to leave now.\""
+  ],
+  "description": "tener (first-person singular present tengo, first-person singular preterite tuve, past participle tenido)",
+  "etymology": "From Latin tenēre (“to hold, to have”), present active infinitive of teneō (“I hold, I have”), from Proto-Italic *tenēō, stative from Proto-Indo-European *ten- (“to stretch, draw”).",
+  "page_id": 81432,
+  "pronunciations": [
+    "IPA(key): /teˈneɾ/"
+  ],
+  "related": [
+    "abstener (“to abstain”)",
+    "atener (“to maintain”)",
+    "contener (“to contain”)",
+    "detener (“to detain”)",
+    "entretener (“to entertain”)",
+    "mantener (“to maintain”)",
+    "manutener (“to maintain”)",
+    "obtener (“to obtain”)",
+    "retener (“to retain”)",
+    "sostener (“to sustain”)",
+    "tenedor",
+    "teniente",
+    "tenis",
+    "tenor"
+  ],
+  "synonyms": [
+    "(to have",
+    "possess): poseer"
+  ],
+  "url": "https://en.wiktionary.org/?curid=81432#Spanish",
+  "word": "tener"
+}

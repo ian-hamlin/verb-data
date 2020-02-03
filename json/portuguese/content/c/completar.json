@@ -1,1 +1,590 @@
-{"conjugations": [{"group": "infinitive/impersonal", "group_sort": 0, "sort": 0, "value": "completar\n"}, {"form": "s1", "group": "infinitive/personal", "group_sort": 1, "sort": 0, "value": "completar\n"}, {"form": "s2", "group": "infinitive/personal", "group_sort": 1, "sort": 1, "value": "completares\n"}, {"form": "s3", "group": "infinitive/personal", "group_sort": 1, "sort": 2, "value": "completar\n"}, {"form": "p1", "group": "infinitive/personal", "group_sort": 1, "sort": 3, "value": "completarmos - "}, {"form": "p2", "group": "infinitive/personal", "group_sort": 1, "sort": 4, "value": "completardes\n"}, {"form": "p3", "group": "infinitive/personal", "group_sort": 1, "sort": 5, "value": "completarem\n"}, {"group": "gerund", "group_sort": 2, "sort": 0, "value": "completando\n"}, {"form": "s", "group": "pastparticipleshort/masculine", "group_sort": 3, "sort": 0, "value": "completo\n"}, {"form": "p", "group": "pastparticipleshort/masculine", "group_sort": 3, "sort": 1, "value": "completos\n"}, {"form": "s", "group": "pastparticipleshort/feminine", "group_sort": 4, "sort": 0, "value": "completa\n"}, {"form": "p", "group": "pastparticipleshort/feminine", "group_sort": 4, "sort": 1, "value": "completas\n"}, {"form": "s", "group": "pastparticiplelong/masculine", "group_sort": 5, "sort": 0, "value": "completado\n"}, {"form": "p", "group": "pastparticiplelong/masculine", "group_sort": 5, "sort": 1, "value": "completados\n"}, {"form": "s", "group": "pastparticiplelong/feminine", "group_sort": 6, "sort": 0, "value": "completada\n"}, {"form": "p", "group": "pastparticiplelong/feminine", "group_sort": 6, "sort": 1, "value": "completadas\n"}, {"form": "s1", "group": "indicative/present", "group_sort": 7, "sort": 0, "value": "completo\n"}, {"form": "s2", "group": "indicative/present", "group_sort": 7, "sort": 1, "value": "completas\n"}, {"form": "s3", "group": "indicative/present", "group_sort": 7, "sort": 2, "value": "completa\n"}, {"form": "p1", "group": "indicative/present", "group_sort": 7, "sort": 3, "value": "completamos - "}, {"form": "p2", "group": "indicative/present", "group_sort": 7, "sort": 4, "value": "completais\n"}, {"form": "p3", "group": "indicative/present", "group_sort": 7, "sort": 5, "value": "completam\n"}, {"form": "s1", "group": "indicative/imperfect", "group_sort": 8, "sort": 0, "value": "completava\n"}, {"form": "s2", "group": "indicative/imperfect", "group_sort": 8, "sort": 1, "value": "completavas\n"}, {"form": "s3", "group": "indicative/imperfect", "group_sort": 8, "sort": 2, "value": "completava\n"}, {"form": "p1", "group": "indicative/imperfect", "group_sort": 8, "sort": 3, "value": "complet\u00e1vamos - "}, {"form": "p2", "group": "indicative/imperfect", "group_sort": 8, "sort": 4, "value": "complet\u00e1veis\n"}, {"form": "p3", "group": "indicative/imperfect", "group_sort": 8, "sort": 5, "value": "completavam\n"}, {"form": "s1", "group": "indicative/preterite", "group_sort": 9, "sort": 0, "value": "completei\n"}, {"form": "s2", "group": "indicative/preterite", "group_sort": 9, "sort": 1, "value": "completaste\n"}, {"form": "s3", "group": "indicative/preterite", "group_sort": 9, "sort": 2, "value": "completou\n"}, {"form": "p1", "group": "indicative/preterite", "group_sort": 9, "sort": 3, "value": "completamoscomplet\u00e1mos - "}, {"form": "p2", "group": "indicative/preterite", "group_sort": 9, "sort": 4, "value": "completastes\n"}, {"form": "p3", "group": "indicative/preterite", "group_sort": 9, "sort": 5, "value": "completaram\n"}, {"form": "s1", "group": "indicative/pluperfect", "group_sort": 10, "sort": 0, "value": "completara\n"}, {"form": "s2", "group": "indicative/pluperfect", "group_sort": 10, "sort": 1, "value": "completaras\n"}, {"form": "s3", "group": "indicative/pluperfect", "group_sort": 10, "sort": 2, "value": "completara\n"}, {"form": "p1", "group": "indicative/pluperfect", "group_sort": 10, "sort": 3, "value": "complet\u00e1ramos - "}, {"form": "p2", "group": "indicative/pluperfect", "group_sort": 10, "sort": 4, "value": "complet\u00e1reis\n"}, {"form": "p3", "group": "indicative/pluperfect", "group_sort": 10, "sort": 5, "value": "completaram\n"}, {"form": "s1", "group": "indicative/future", "group_sort": 11, "sort": 0, "value": "completarei\n"}, {"form": "s2", "group": "indicative/future", "group_sort": 11, "sort": 1, "value": "completar\u00e1s\n"}, {"form": "s3", "group": "indicative/future", "group_sort": 11, "sort": 2, "value": "completar\u00e1\n"}, {"form": "p1", "group": "indicative/future", "group_sort": 11, "sort": 3, "value": "completaremos - "}, {"form": "p2", "group": "indicative/future", "group_sort": 11, "sort": 4, "value": "completareis\n"}, {"form": "p3", "group": "indicative/future", "group_sort": 11, "sort": 5, "value": "completar\u00e3o\n"}, {"form": "s1", "group": "conditional", "group_sort": 12, "sort": 0, "value": "completaria\n"}, {"form": "s2", "group": "conditional", "group_sort": 12, "sort": 1, "value": "completarias\n"}, {"form": "s3", "group": "conditional", "group_sort": 12, "sort": 2, "value": "completaria\n"}, {"form": "p1", "group": "conditional", "group_sort": 12, "sort": 3, "value": "completar\u00edamos - "}, {"form": "p2", "group": "conditional", "group_sort": 12, "sort": 4, "value": "completar\u00edeis\n"}, {"form": "p3", "group": "conditional", "group_sort": 12, "sort": 5, "value": "completariam\n"}, {"form": "s1", "group": "subjunctive/present", "group_sort": 13, "sort": 0, "value": "complete\n"}, {"form": "s2", "group": "subjunctive/present", "group_sort": 13, "sort": 1, "value": "completes\n"}, {"form": "s3", "group": "subjunctive/present", "group_sort": 13, "sort": 2, "value": "complete\n"}, {"form": "p1", "group": "subjunctive/present", "group_sort": 13, "sort": 3, "value": "completemos - "}, {"form": "p2", "group": "subjunctive/present", "group_sort": 13, "sort": 4, "value": "completeis\n"}, {"form": "p3", "group": "subjunctive/present", "group_sort": 13, "sort": 5, "value": "completem\n"}, {"form": "s1", "group": "subjunctive/imperfect", "group_sort": 14, "sort": 0, "value": "completasse\n"}, {"form": "s2", "group": "subjunctive/imperfect", "group_sort": 14, "sort": 1, "value": "completasses\n"}, {"form": "s3", "group": "subjunctive/imperfect", "group_sort": 14, "sort": 2, "value": "completasse\n"}, {"form": "p1", "group": "subjunctive/imperfect", "group_sort": 14, "sort": 3, "value": "complet\u00e1ssemos - "}, {"form": "p2", "group": "subjunctive/imperfect", "group_sort": 14, "sort": 4, "value": "complet\u00e1sseis\n"}, {"form": "p3", "group": "subjunctive/imperfect", "group_sort": 14, "sort": 5, "value": "completassem\n"}, {"form": "s1", "group": "subjunctive/preterite", "group_sort": 15, "sort": 0, "value": "completar\n"}, {"form": "s2", "group": "subjunctive/preterite", "group_sort": 15, "sort": 1, "value": "completares\n"}, {"form": "s3", "group": "subjunctive/preterite", "group_sort": 15, "sort": 2, "value": "completar\n"}, {"form": "p1", "group": "subjunctive/preterite", "group_sort": 15, "sort": 3, "value": "completarmos - "}, {"form": "p2", "group": "subjunctive/preterite", "group_sort": 15, "sort": 4, "value": "completardes\n"}, {"form": "p3", "group": "subjunctive/preterite", "group_sort": 15, "sort": 5, "value": "completarem\n"}, {"form": "s1", "group": "imperative/affirmative", "group_sort": 16, "sort": 0, "value": "-\n"}, {"form": "s2", "group": "imperative/affirmative", "group_sort": 16, "sort": 1, "value": "completa\n"}, {"form": "s3", "group": "imperative/affirmative", "group_sort": 16, "sort": 2, "value": "complete\n"}, {"form": "p1", "group": "imperative/affirmative", "group_sort": 16, "sort": 3, "value": "completemos - "}, {"form": "p2", "group": "imperative/affirmative", "group_sort": 16, "sort": 4, "value": "completai\n"}, {"form": "p3", "group": "imperative/affirmative", "group_sort": 16, "sort": 5, "value": "completem\n"}, {"form": "s1", "group": "imperative/negative", "group_sort": 17, "sort": 0, "value": "-\n"}, {"form": "s2", "group": "imperative/negative", "group_sort": 17, "sort": 1, "value": "completes\n"}, {"form": "s3", "group": "imperative/negative", "group_sort": 17, "sort": 2, "value": "complete\n"}, {"form": "p1", "group": "imperative/negative", "group_sort": 17, "sort": 3, "value": "completemos - "}, {"form": "p2", "group": "imperative/negative", "group_sort": 17, "sort": 4, "value": "completeis\n"}, {"form": "p3", "group": "imperative/negative", "group_sort": 17, "sort": 5, "value": "completem\n"}], "definitions": ["to complete", "to supplement"], "description": "completar (first-person singular present indicative completo, short past participle completo, long past participle completado)", "etymology": "From completo.", "page_id": 217842, "pronunciations": ["(Portugal) IPA(key): /k\u00f5pl\u0268\u02c8ta\u027e/"], "related": [], "synonyms": [], "url": "https://en.wiktionary.org/?curid=217842#Portuguese", "word": "completar"}
+{
+  "conjugations": [
+    {
+      "group": "infinitive/impersonal",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "completar\n"
+    },
+    {
+      "form": "s1",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "completar\n"
+    },
+    {
+      "form": "s2",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 1,
+      "value": "completares\n"
+    },
+    {
+      "form": "s3",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 2,
+      "value": "completar\n"
+    },
+    {
+      "form": "p1",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 3,
+      "value": "completarmos - "
+    },
+    {
+      "form": "p2",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 4,
+      "value": "completardes\n"
+    },
+    {
+      "form": "p3",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 5,
+      "value": "completarem\n"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "completando\n"
+    },
+    {
+      "form": "s",
+      "group": "pastparticipleshort/masculine",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "completo\n"
+    },
+    {
+      "form": "p",
+      "group": "pastparticipleshort/masculine",
+      "group_sort": 3,
+      "sort": 1,
+      "value": "completos\n"
+    },
+    {
+      "form": "s",
+      "group": "pastparticipleshort/feminine",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "completa\n"
+    },
+    {
+      "form": "p",
+      "group": "pastparticipleshort/feminine",
+      "group_sort": 4,
+      "sort": 1,
+      "value": "completas\n"
+    },
+    {
+      "form": "s",
+      "group": "pastparticiplelong/masculine",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "completado\n"
+    },
+    {
+      "form": "p",
+      "group": "pastparticiplelong/masculine",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "completados\n"
+    },
+    {
+      "form": "s",
+      "group": "pastparticiplelong/feminine",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "completada\n"
+    },
+    {
+      "form": "p",
+      "group": "pastparticiplelong/feminine",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "completadas\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "completo\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "completas\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "completa\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "completamos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "completais\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "completam\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "completava\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "completavas\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "completava\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "completávamos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "completáveis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "completavam\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/preterite",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "completei\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/preterite",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "completaste\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/preterite",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "completou\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/preterite",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "completamoscompletámos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/preterite",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "completastes\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/preterite",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "completaram\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/pluperfect",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "completara\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/pluperfect",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "completaras\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/pluperfect",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "completara\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/pluperfect",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "completáramos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/pluperfect",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "completáreis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/pluperfect",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "completaram\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "completarei\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "completarás\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "completará\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "completaremos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "completareis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "completarão\n"
+    },
+    {
+      "form": "s1",
+      "group": "conditional",
+      "group_sort": 12,
+      "sort": 0,
+      "value": "completaria\n"
+    },
+    {
+      "form": "s2",
+      "group": "conditional",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "completarias\n"
+    },
+    {
+      "form": "s3",
+      "group": "conditional",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "completaria\n"
+    },
+    {
+      "form": "p1",
+      "group": "conditional",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "completaríamos - "
+    },
+    {
+      "form": "p2",
+      "group": "conditional",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "completaríeis\n"
+    },
+    {
+      "form": "p3",
+      "group": "conditional",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "completariam\n"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/present",
+      "group_sort": 13,
+      "sort": 0,
+      "value": "complete\n"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/present",
+      "group_sort": 13,
+      "sort": 1,
+      "value": "completes\n"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/present",
+      "group_sort": 13,
+      "sort": 2,
+      "value": "complete\n"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/present",
+      "group_sort": 13,
+      "sort": 3,
+      "value": "completemos - "
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/present",
+      "group_sort": 13,
+      "sort": 4,
+      "value": "completeis\n"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/present",
+      "group_sort": 13,
+      "sort": 5,
+      "value": "completem\n"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect",
+      "group_sort": 14,
+      "sort": 0,
+      "value": "completasse\n"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect",
+      "group_sort": 14,
+      "sort": 1,
+      "value": "completasses\n"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect",
+      "group_sort": 14,
+      "sort": 2,
+      "value": "completasse\n"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect",
+      "group_sort": 14,
+      "sort": 3,
+      "value": "completássemos - "
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect",
+      "group_sort": 14,
+      "sort": 4,
+      "value": "completásseis\n"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect",
+      "group_sort": 14,
+      "sort": 5,
+      "value": "completassem\n"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/preterite",
+      "group_sort": 15,
+      "sort": 0,
+      "value": "completar\n"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/preterite",
+      "group_sort": 15,
+      "sort": 1,
+      "value": "completares\n"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/preterite",
+      "group_sort": 15,
+      "sort": 2,
+      "value": "completar\n"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/preterite",
+      "group_sort": 15,
+      "sort": 3,
+      "value": "completarmos - "
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/preterite",
+      "group_sort": 15,
+      "sort": 4,
+      "value": "completardes\n"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/preterite",
+      "group_sort": 15,
+      "sort": 5,
+      "value": "completarem\n"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/affirmative",
+      "group_sort": 16,
+      "sort": 0,
+      "value": "-\n"
+    },
+    {
+      "form": "s2",
+      "group": "imperative/affirmative",
+      "group_sort": 16,
+      "sort": 1,
+      "value": "completa\n"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/affirmative",
+      "group_sort": 16,
+      "sort": 2,
+      "value": "complete\n"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/affirmative",
+      "group_sort": 16,
+      "sort": 3,
+      "value": "completemos - "
+    },
+    {
+      "form": "p2",
+      "group": "imperative/affirmative",
+      "group_sort": 16,
+      "sort": 4,
+      "value": "completai\n"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/affirmative",
+      "group_sort": 16,
+      "sort": 5,
+      "value": "completem\n"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/negative",
+      "group_sort": 17,
+      "sort": 0,
+      "value": "-\n"
+    },
+    {
+      "form": "s2",
+      "group": "imperative/negative",
+      "group_sort": 17,
+      "sort": 1,
+      "value": "completes\n"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/negative",
+      "group_sort": 17,
+      "sort": 2,
+      "value": "complete\n"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/negative",
+      "group_sort": 17,
+      "sort": 3,
+      "value": "completemos - "
+    },
+    {
+      "form": "p2",
+      "group": "imperative/negative",
+      "group_sort": 17,
+      "sort": 4,
+      "value": "completeis\n"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/negative",
+      "group_sort": 17,
+      "sort": 5,
+      "value": "completem\n"
+    }
+  ],
+  "definitions": [
+    "to complete",
+    "to supplement"
+  ],
+  "description": "completar (first-person singular present indicative completo, short past participle completo, long past participle completado)",
+  "etymology": "From completo.",
+  "page_id": 217842,
+  "pronunciations": [
+    "(Portugal) IPA(key): /kõplɨˈtaɾ/"
+  ],
+  "related": [],
+  "synonyms": [],
+  "url": "https://en.wiktionary.org/?curid=217842#Portuguese",
+  "word": "completar"
+}

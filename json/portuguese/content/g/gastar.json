@@ -1,1 +1,605 @@
-{"conjugations": [{"group": "infinitive/impersonal", "group_sort": 0, "sort": 0, "value": "gastar\n"}, {"form": "s1", "group": "infinitive/personal", "group_sort": 1, "sort": 0, "value": "gastar\n"}, {"form": "s2", "group": "infinitive/personal", "group_sort": 1, "sort": 1, "value": "gastares\n"}, {"form": "s3", "group": "infinitive/personal", "group_sort": 1, "sort": 2, "value": "gastar\n"}, {"form": "p1", "group": "infinitive/personal", "group_sort": 1, "sort": 3, "value": "gastarmos - "}, {"form": "p2", "group": "infinitive/personal", "group_sort": 1, "sort": 4, "value": "gastardes\n"}, {"form": "p3", "group": "infinitive/personal", "group_sort": 1, "sort": 5, "value": "gastarem\n"}, {"group": "gerund", "group_sort": 2, "sort": 0, "value": "gastando\n"}, {"form": "s", "group": "pastparticipleshort/masculine", "group_sort": 3, "sort": 0, "value": "gasto\n"}, {"form": "p", "group": "pastparticipleshort/masculine", "group_sort": 3, "sort": 1, "value": "gastos\n"}, {"form": "s", "group": "pastparticipleshort/feminine", "group_sort": 4, "sort": 0, "value": "gasta\n"}, {"form": "p", "group": "pastparticipleshort/feminine", "group_sort": 4, "sort": 1, "value": "gastas\n"}, {"form": "s", "group": "pastparticiplelong/masculine", "group_sort": 5, "sort": 0, "value": "gastado\n"}, {"form": "p", "group": "pastparticiplelong/masculine", "group_sort": 5, "sort": 1, "value": "gastados\n"}, {"form": "s", "group": "pastparticiplelong/feminine", "group_sort": 6, "sort": 0, "value": "gastada\n"}, {"form": "p", "group": "pastparticiplelong/feminine", "group_sort": 6, "sort": 1, "value": "gastadas\n"}, {"form": "s1", "group": "indicative/present", "group_sort": 7, "sort": 0, "value": "gasto\n"}, {"form": "s2", "group": "indicative/present", "group_sort": 7, "sort": 1, "value": "gastas\n"}, {"form": "s3", "group": "indicative/present", "group_sort": 7, "sort": 2, "value": "gasta\n"}, {"form": "p1", "group": "indicative/present", "group_sort": 7, "sort": 3, "value": "gastamos - "}, {"form": "p2", "group": "indicative/present", "group_sort": 7, "sort": 4, "value": "gastais\n"}, {"form": "p3", "group": "indicative/present", "group_sort": 7, "sort": 5, "value": "gastam\n"}, {"form": "s1", "group": "indicative/imperfect", "group_sort": 8, "sort": 0, "value": "gastava\n"}, {"form": "s2", "group": "indicative/imperfect", "group_sort": 8, "sort": 1, "value": "gastavas\n"}, {"form": "s3", "group": "indicative/imperfect", "group_sort": 8, "sort": 2, "value": "gastava\n"}, {"form": "p1", "group": "indicative/imperfect", "group_sort": 8, "sort": 3, "value": "gast\u00e1vamos - "}, {"form": "p2", "group": "indicative/imperfect", "group_sort": 8, "sort": 4, "value": "gast\u00e1veis\n"}, {"form": "p3", "group": "indicative/imperfect", "group_sort": 8, "sort": 5, "value": "gastavam\n"}, {"form": "s1", "group": "indicative/preterite", "group_sort": 9, "sort": 0, "value": "gastei\n"}, {"form": "s2", "group": "indicative/preterite", "group_sort": 9, "sort": 1, "value": "gastaste\n"}, {"form": "s3", "group": "indicative/preterite", "group_sort": 9, "sort": 2, "value": "gastou\n"}, {"form": "p1", "group": "indicative/preterite", "group_sort": 9, "sort": 3, "value": "gastamosgast\u00e1mos - "}, {"form": "p2", "group": "indicative/preterite", "group_sort": 9, "sort": 4, "value": "gastastes\n"}, {"form": "p3", "group": "indicative/preterite", "group_sort": 9, "sort": 5, "value": "gastaram\n"}, {"form": "s1", "group": "indicative/pluperfect", "group_sort": 10, "sort": 0, "value": "gastara\n"}, {"form": "s2", "group": "indicative/pluperfect", "group_sort": 10, "sort": 1, "value": "gastaras\n"}, {"form": "s3", "group": "indicative/pluperfect", "group_sort": 10, "sort": 2, "value": "gastara\n"}, {"form": "p1", "group": "indicative/pluperfect", "group_sort": 10, "sort": 3, "value": "gast\u00e1ramos - "}, {"form": "p2", "group": "indicative/pluperfect", "group_sort": 10, "sort": 4, "value": "gast\u00e1reis\n"}, {"form": "p3", "group": "indicative/pluperfect", "group_sort": 10, "sort": 5, "value": "gastaram\n"}, {"form": "s1", "group": "indicative/future", "group_sort": 11, "sort": 0, "value": "gastarei\n"}, {"form": "s2", "group": "indicative/future", "group_sort": 11, "sort": 1, "value": "gastar\u00e1s\n"}, {"form": "s3", "group": "indicative/future", "group_sort": 11, "sort": 2, "value": "gastar\u00e1\n"}, {"form": "p1", "group": "indicative/future", "group_sort": 11, "sort": 3, "value": "gastaremos - "}, {"form": "p2", "group": "indicative/future", "group_sort": 11, "sort": 4, "value": "gastareis\n"}, {"form": "p3", "group": "indicative/future", "group_sort": 11, "sort": 5, "value": "gastar\u00e3o\n"}, {"form": "s1", "group": "conditional", "group_sort": 12, "sort": 0, "value": "gastaria\n"}, {"form": "s2", "group": "conditional", "group_sort": 12, "sort": 1, "value": "gastarias\n"}, {"form": "s3", "group": "conditional", "group_sort": 12, "sort": 2, "value": "gastaria\n"}, {"form": "p1", "group": "conditional", "group_sort": 12, "sort": 3, "value": "gastar\u00edamos - "}, {"form": "p2", "group": "conditional", "group_sort": 12, "sort": 4, "value": "gastar\u00edeis\n"}, {"form": "p3", "group": "conditional", "group_sort": 12, "sort": 5, "value": "gastariam\n"}, {"form": "s1", "group": "subjunctive/present", "group_sort": 13, "sort": 0, "value": "gaste\n"}, {"form": "s2", "group": "subjunctive/present", "group_sort": 13, "sort": 1, "value": "gastes\n"}, {"form": "s3", "group": "subjunctive/present", "group_sort": 13, "sort": 2, "value": "gaste\n"}, {"form": "p1", "group": "subjunctive/present", "group_sort": 13, "sort": 3, "value": "gastemos - "}, {"form": "p2", "group": "subjunctive/present", "group_sort": 13, "sort": 4, "value": "gasteis\n"}, {"form": "p3", "group": "subjunctive/present", "group_sort": 13, "sort": 5, "value": "gastem\n"}, {"form": "s1", "group": "subjunctive/imperfect", "group_sort": 14, "sort": 0, "value": "gastasse\n"}, {"form": "s2", "group": "subjunctive/imperfect", "group_sort": 14, "sort": 1, "value": "gastasses\n"}, {"form": "s3", "group": "subjunctive/imperfect", "group_sort": 14, "sort": 2, "value": "gastasse\n"}, {"form": "p1", "group": "subjunctive/imperfect", "group_sort": 14, "sort": 3, "value": "gast\u00e1ssemos - "}, {"form": "p2", "group": "subjunctive/imperfect", "group_sort": 14, "sort": 4, "value": "gast\u00e1sseis\n"}, {"form": "p3", "group": "subjunctive/imperfect", "group_sort": 14, "sort": 5, "value": "gastassem\n"}, {"form": "s1", "group": "subjunctive/preterite", "group_sort": 15, "sort": 0, "value": "gastar\n"}, {"form": "s2", "group": "subjunctive/preterite", "group_sort": 15, "sort": 1, "value": "gastares\n"}, {"form": "s3", "group": "subjunctive/preterite", "group_sort": 15, "sort": 2, "value": "gastar\n"}, {"form": "p1", "group": "subjunctive/preterite", "group_sort": 15, "sort": 3, "value": "gastarmos - "}, {"form": "p2", "group": "subjunctive/preterite", "group_sort": 15, "sort": 4, "value": "gastardes\n"}, {"form": "p3", "group": "subjunctive/preterite", "group_sort": 15, "sort": 5, "value": "gastarem\n"}, {"form": "s1", "group": "imperative/affirmative", "group_sort": 16, "sort": 0, "value": "-\n"}, {"form": "s2", "group": "imperative/affirmative", "group_sort": 16, "sort": 1, "value": "gasta\n"}, {"form": "s3", "group": "imperative/affirmative", "group_sort": 16, "sort": 2, "value": "gaste\n"}, {"form": "p1", "group": "imperative/affirmative", "group_sort": 16, "sort": 3, "value": "gastemos - "}, {"form": "p2", "group": "imperative/affirmative", "group_sort": 16, "sort": 4, "value": "gastai\n"}, {"form": "p3", "group": "imperative/affirmative", "group_sort": 16, "sort": 5, "value": "gastem\n"}, {"form": "s1", "group": "imperative/negative", "group_sort": 17, "sort": 0, "value": "-\n"}, {"form": "s2", "group": "imperative/negative", "group_sort": 17, "sort": 1, "value": "gastes\n"}, {"form": "s3", "group": "imperative/negative", "group_sort": 17, "sort": 2, "value": "gaste\n"}, {"form": "p1", "group": "imperative/negative", "group_sort": 17, "sort": 3, "value": "gastemos - "}, {"form": "p2", "group": "imperative/negative", "group_sort": 17, "sort": 4, "value": "gasteis\n"}, {"form": "p3", "group": "imperative/negative", "group_sort": 17, "sort": 5, "value": "gastem\n"}], "definitions": ["to spend", "to expend"], "description": "gastar (first-person singular present indicative gasto, short past participle gasto, long past participle gastado)", "etymology": "From Latin vast\u0101re. Compare Spanish gastar, Italian guastare (\u201cto spoil\u201d).", "page_id": 342414, "pronunciations": [], "related": ["gastable", "gasto", "gast\u00f3n", "gastado", "gastoso", "gastador", "desgastar", "malgastar", "sobregastar", "regastar", "gastito", "gastazo"], "synonyms": ["(wear out): desgastar", "(have): llevar", "tener"], "url": "https://en.wiktionary.org/?curid=342414#Portuguese", "word": "gastar"}
+{
+  "conjugations": [
+    {
+      "group": "infinitive/impersonal",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "gastar\n"
+    },
+    {
+      "form": "s1",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "gastar\n"
+    },
+    {
+      "form": "s2",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 1,
+      "value": "gastares\n"
+    },
+    {
+      "form": "s3",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 2,
+      "value": "gastar\n"
+    },
+    {
+      "form": "p1",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 3,
+      "value": "gastarmos - "
+    },
+    {
+      "form": "p2",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 4,
+      "value": "gastardes\n"
+    },
+    {
+      "form": "p3",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 5,
+      "value": "gastarem\n"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "gastando\n"
+    },
+    {
+      "form": "s",
+      "group": "pastparticipleshort/masculine",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "gasto\n"
+    },
+    {
+      "form": "p",
+      "group": "pastparticipleshort/masculine",
+      "group_sort": 3,
+      "sort": 1,
+      "value": "gastos\n"
+    },
+    {
+      "form": "s",
+      "group": "pastparticipleshort/feminine",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "gasta\n"
+    },
+    {
+      "form": "p",
+      "group": "pastparticipleshort/feminine",
+      "group_sort": 4,
+      "sort": 1,
+      "value": "gastas\n"
+    },
+    {
+      "form": "s",
+      "group": "pastparticiplelong/masculine",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "gastado\n"
+    },
+    {
+      "form": "p",
+      "group": "pastparticiplelong/masculine",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "gastados\n"
+    },
+    {
+      "form": "s",
+      "group": "pastparticiplelong/feminine",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "gastada\n"
+    },
+    {
+      "form": "p",
+      "group": "pastparticiplelong/feminine",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "gastadas\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "gasto\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "gastas\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "gasta\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "gastamos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "gastais\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "gastam\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "gastava\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "gastavas\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "gastava\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "gastávamos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "gastáveis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "gastavam\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/preterite",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "gastei\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/preterite",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "gastaste\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/preterite",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "gastou\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/preterite",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "gastamosgastámos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/preterite",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "gastastes\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/preterite",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "gastaram\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/pluperfect",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "gastara\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/pluperfect",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "gastaras\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/pluperfect",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "gastara\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/pluperfect",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "gastáramos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/pluperfect",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "gastáreis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/pluperfect",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "gastaram\n"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "gastarei\n"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "gastarás\n"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "gastará\n"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "gastaremos - "
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "gastareis\n"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "gastarão\n"
+    },
+    {
+      "form": "s1",
+      "group": "conditional",
+      "group_sort": 12,
+      "sort": 0,
+      "value": "gastaria\n"
+    },
+    {
+      "form": "s2",
+      "group": "conditional",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "gastarias\n"
+    },
+    {
+      "form": "s3",
+      "group": "conditional",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "gastaria\n"
+    },
+    {
+      "form": "p1",
+      "group": "conditional",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "gastaríamos - "
+    },
+    {
+      "form": "p2",
+      "group": "conditional",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "gastaríeis\n"
+    },
+    {
+      "form": "p3",
+      "group": "conditional",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "gastariam\n"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/present",
+      "group_sort": 13,
+      "sort": 0,
+      "value": "gaste\n"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/present",
+      "group_sort": 13,
+      "sort": 1,
+      "value": "gastes\n"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/present",
+      "group_sort": 13,
+      "sort": 2,
+      "value": "gaste\n"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/present",
+      "group_sort": 13,
+      "sort": 3,
+      "value": "gastemos - "
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/present",
+      "group_sort": 13,
+      "sort": 4,
+      "value": "gasteis\n"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/present",
+      "group_sort": 13,
+      "sort": 5,
+      "value": "gastem\n"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect",
+      "group_sort": 14,
+      "sort": 0,
+      "value": "gastasse\n"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect",
+      "group_sort": 14,
+      "sort": 1,
+      "value": "gastasses\n"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect",
+      "group_sort": 14,
+      "sort": 2,
+      "value": "gastasse\n"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect",
+      "group_sort": 14,
+      "sort": 3,
+      "value": "gastássemos - "
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect",
+      "group_sort": 14,
+      "sort": 4,
+      "value": "gastásseis\n"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect",
+      "group_sort": 14,
+      "sort": 5,
+      "value": "gastassem\n"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/preterite",
+      "group_sort": 15,
+      "sort": 0,
+      "value": "gastar\n"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/preterite",
+      "group_sort": 15,
+      "sort": 1,
+      "value": "gastares\n"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/preterite",
+      "group_sort": 15,
+      "sort": 2,
+      "value": "gastar\n"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/preterite",
+      "group_sort": 15,
+      "sort": 3,
+      "value": "gastarmos - "
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/preterite",
+      "group_sort": 15,
+      "sort": 4,
+      "value": "gastardes\n"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/preterite",
+      "group_sort": 15,
+      "sort": 5,
+      "value": "gastarem\n"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/affirmative",
+      "group_sort": 16,
+      "sort": 0,
+      "value": "-\n"
+    },
+    {
+      "form": "s2",
+      "group": "imperative/affirmative",
+      "group_sort": 16,
+      "sort": 1,
+      "value": "gasta\n"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/affirmative",
+      "group_sort": 16,
+      "sort": 2,
+      "value": "gaste\n"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/affirmative",
+      "group_sort": 16,
+      "sort": 3,
+      "value": "gastemos - "
+    },
+    {
+      "form": "p2",
+      "group": "imperative/affirmative",
+      "group_sort": 16,
+      "sort": 4,
+      "value": "gastai\n"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/affirmative",
+      "group_sort": 16,
+      "sort": 5,
+      "value": "gastem\n"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/negative",
+      "group_sort": 17,
+      "sort": 0,
+      "value": "-\n"
+    },
+    {
+      "form": "s2",
+      "group": "imperative/negative",
+      "group_sort": 17,
+      "sort": 1,
+      "value": "gastes\n"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/negative",
+      "group_sort": 17,
+      "sort": 2,
+      "value": "gaste\n"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/negative",
+      "group_sort": 17,
+      "sort": 3,
+      "value": "gastemos - "
+    },
+    {
+      "form": "p2",
+      "group": "imperative/negative",
+      "group_sort": 17,
+      "sort": 4,
+      "value": "gasteis\n"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/negative",
+      "group_sort": 17,
+      "sort": 5,
+      "value": "gastem\n"
+    }
+  ],
+  "definitions": [
+    "to spend",
+    "to expend"
+  ],
+  "description": "gastar (first-person singular present indicative gasto, short past participle gasto, long past participle gastado)",
+  "etymology": "From Latin vastāre. Compare Spanish gastar, Italian guastare (“to spoil”).",
+  "page_id": 342414,
+  "pronunciations": [],
+  "related": [
+    "gastable",
+    "gasto",
+    "gastón",
+    "gastado",
+    "gastoso",
+    "gastador",
+    "desgastar",
+    "malgastar",
+    "sobregastar",
+    "regastar",
+    "gastito",
+    "gastazo"
+  ],
+  "synonyms": [
+    "(wear out): desgastar",
+    "(have): llevar",
+    "tener"
+  ],
+  "url": "https://en.wiktionary.org/?curid=342414#Portuguese",
+  "word": "gastar"
+}
