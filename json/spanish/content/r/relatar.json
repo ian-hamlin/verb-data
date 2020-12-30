@@ -504,9 +504,9 @@
     }
   ],
   "definitions": [
-    "to tell\nSynonyms: contar, narrar",
-    "to report\nSynonym: reportar",
-    "to relate\nSynonym: relacionar"
+    "to tell",
+    "to report",
+    "to relate"
   ],
   "description": "relatar (first-person singular present relato, first-person singular preterite relaté, past participle relatado)",
   "etymology": null,
@@ -516,7 +516,12 @@
     "relación",
     "relato"
   ],
-  "synonyms": [],
+  "synonyms": [
+    "contar",
+    "narrar",
+    "reportar",
+    "relacionar"
+  ],
   "url": "https://en.wiktionary.org/?curid=408496#Spanish",
   "word": "relatar"
 }

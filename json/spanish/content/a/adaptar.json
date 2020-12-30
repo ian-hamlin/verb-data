@@ -504,9 +504,10 @@
     }
   ],
   "definitions": [
-    "(transitive) to adapt, to adjust, to tailor (to make suitable)\nSynonyms: ajustar, acomodar",
+    "(transitive) to adapt, to adjust, to tailor (to make suitable)",
     "(transitive) to adapt (to fit by alteration)",
-    "(reflexive) to adapt (to change so as to be adapted)"
+    "(reflexive) to adapt (to change so as to be adapted)",
+    "(reflexive) to suit, to fit"
   ],
   "description": "adaptar (first-person singular present adapto, first-person singular preterite adapté, past participle adaptado)",
   "etymology": "From Latin adaptāre (“to fit to”).",
@@ -518,7 +519,10 @@
     "adaptación",
     "adaptativo"
   ],
-  "synonyms": [],
+  "synonyms": [
+    "ajustar",
+    "acomodar"
+  ],
   "url": "https://en.wiktionary.org/?curid=46513#Spanish",
   "word": "adaptar"
 }

@@ -504,12 +504,12 @@
     }
   ],
   "definitions": [
-    "to shave\nSynonym: afeitar",
+    "to shave",
     "to crop",
-    "(colloquial) to rob, steal\nSynonyms: hurtar, robar"
+    "(colloquial) to rob, steal"
   ],
   "description": "rapar (first-person singular present rapo, first-person singular preterite rapé, past participle rapado)",
-  "etymology": "From Gothic *𐌷𐍂𐌰𐍀𐍉𐌽 (*hrapōn, “to pull out”). Cognate with Middle High German raffen, Dutch rapen, English rap.",
+  "etymology": "From Gothic *𐌷𐍂𐌰𐍀𐍉𐌽 (*hrapōn, “to pull out”), from Proto-Germanic *hrapōną (“to seize”).",
   "page_id": 241294,
   "pronunciations": [
     "IPA(key): /raˈpaɾ/"
@@ -517,7 +517,11 @@
   "related": [
     "rape"
   ],
-  "synonyms": [],
+  "synonyms": [
+    "afeitar",
+    "hurtar",
+    "robar"
+  ],
   "url": "https://en.wiktionary.org/?curid=241294#Spanish",
   "word": "rapar"
 }

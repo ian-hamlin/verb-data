@@ -504,25 +504,26 @@
     }
   ],
   "definitions": [
-    "to put out, extinguish (a flame or light)\nSynonyms: extinguir, apagar",
     "to kill, slay",
+    "to put out, extinguish (a flame or light)",
     "to butcher",
-    "to injure, damage\nSynonyms: dañar, enfermar",
-    "to fatigue, exhaust, tire out\nSynonyms: fatigar, cansar",
-    "to dull (render dim or obscure; to sully; to tarnish)\nSynonyms: apagar, deslustrar, opacar",
+    "to injure, damage",
+    "to fatigue, exhaust, tire out",
+    "to dull (render dim or obscure; to sully; to tarnish)",
     "to round off",
-    "to ruin\nSynonym: arruinar",
-    "(colloquial) to kill (to annoy)\nSynonyms: incomodar, molestar",
+    "to ruin",
+    "(colloquial) to kill (to annoy)",
     "(colloquial) to kill (to get mad at)",
-    "(colloquial) to kill (to amaze, exceed, stun)\nSynonyms: sorprender, asombrar",
+    "(colloquial) to kill (to amaze, exceed, stun)",
     "(colloquial) to beat (to be better than)",
-    "to postmark\nSynonym: matasellar"
+    "to postmark"
   ],
   "description": "matar (first-person singular present mato, first-person singular preterite maté, past participle matado)",
-  "etymology": "Most likely from Latin mactāre, present active infinitive of mactō (through a Vulgar Latin root *mattāre). Alternatively, possibly from Vulgar Latin *mattare, from Late Latin mattus (“drunk, intoxicated”), related to madidus. Compare Portuguese and Catalan matar, archaic Italian mattare. Cf. also Italian ammazzare, Spanish mazar.",
+  "etymology": "Most likely from Latin mactō (through a Vulgar Latin *mattō). Thus, a potential cognate with English mactate. Alternatively, possibly from Vulgar Latin *mattō, from Late Latin mattus (“drunk, intoxicated”), related to madidus. Compare Portuguese and Catalan matar, archaic Italian mattare. Cf. also Italian ammazzare, Spanish mazar.",
   "page_id": 55491,
   "pronunciations": [
-    "IPA(key): /maˈtaɾ/, [maˈt̪aɾ]"
+    "IPA(key): /maˈtaɾ/, [maˈt̪aɾ]",
+    "(file)"
   ],
   "related": [
     "matanza",
@@ -532,7 +533,23 @@
     "rematar",
     "matarife"
   ],
-  "synonyms": [],
+  "synonyms": [
+    "extinguir",
+    "apagar",
+    "dañar",
+    "enfermar",
+    "fatigar",
+    "cansar",
+    "apagar",
+    "deslustrar",
+    "opacar",
+    "arruinar",
+    "incomodar",
+    "molestar",
+    "sorprender",
+    "asombrar",
+    "matasellar"
+  ],
   "url": "https://en.wiktionary.org/?curid=55491#Spanish",
   "word": "matar"
 }

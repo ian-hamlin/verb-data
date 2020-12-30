@@ -504,12 +504,12 @@
     }
   ],
   "definitions": [
-    "(transitive) to gain\nSynonym: obtener\nAntonym: perder",
-    "(transitive) to earn\nSynonym: granjear\nAntonym: perder",
+    "(transitive) to gain",
+    "(transitive) to earn",
     "(sports) to win\nAntonym: perder",
-    "(transitive) to defeat, to beat\nSynonym: derrotar",
-    "(transitive) to reach; to attain\nSynonym: alcanzar",
-    "(reflexive, Chile) to position oneself, to situate oneself\nLa gata se ganó al lado de la chimenea.The cat sat down beside the fireplace.\nSynonyms: ubicarse, ponerse, situarse, parase, plantarse"
+    "(transitive) to defeat, to beat",
+    "(transitive) to reach; to attain",
+    "(reflexive, Chile) to position oneself, to situate oneself\nLa gata se ganó al lado de la chimenea.The cat sat down beside the fireplace."
   ],
   "description": "ganar (first-person singular present gano, first-person singular preterite gané, past participle ganado)",
   "etymology": "From Old Spanish ganar, from Medieval Latin ganō, ganāre, from Gothic *𐌲𐌰𐌽𐌰𐌽 (*ganan, “to covet”). Compare Asturian ganar, Old Portuguese gãar. Cf. also Portuguese ganhar, Catalan guanyar, French gagner, Italian guadagnare, all meaning \"gain, earn, win\", from a separate root *wadanio, wadaniare, which may have influenced this word's etymon.",
@@ -518,7 +518,17 @@
     "IPA(key): /ɡaˈnaɾ/"
   ],
   "related": [],
-  "synonyms": [],
+  "synonyms": [
+    "obtener",
+    "granjear",
+    "derrotar",
+    "alcanzar",
+    "ubicarse",
+    "ponerse",
+    "situarse",
+    "parase",
+    "plantarse"
+  ],
   "url": "https://en.wiktionary.org/?curid=58170#Spanish",
   "word": "ganar"
 }

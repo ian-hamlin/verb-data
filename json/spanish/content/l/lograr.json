@@ -504,8 +504,8 @@
     }
   ],
   "definitions": [
-    "(transitive) to get; to obtain\nSynonym: obtener",
-    "(transitive) to achieve\nSynonym: conseguir"
+    "(transitive) to get, to obtain",
+    "(transitive) to achieve, to manage to, to pull off"
   ],
   "description": "lograr (first-person singular present logro, first-person singular preterite logré, past participle logrado)",
   "etymology": "From Latin lucrārī, present active infinitive of lucror.",
@@ -517,7 +517,10 @@
     "logro",
     "lucro"
   ],
-  "synonyms": [],
+  "synonyms": [
+    "obtener",
+    "conseguir"
+  ],
   "url": "https://en.wiktionary.org/?curid=93201#Spanish",
   "word": "lograr"
 }

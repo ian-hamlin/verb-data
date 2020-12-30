@@ -504,8 +504,8 @@
     }
   ],
   "definitions": [
-    "to send\nSynonym: enviar",
-    "to order\nSynonym: ordenar",
+    "to send",
+    "to order",
     "to lead, be in charge, command",
     "to enjoin",
     "(dancing) to lead"
@@ -519,10 +519,13 @@
   "related": [
     "comandar",
     "demandar",
-    "encomendar",
-    "comandar"
+    "encomendar"
   ],
-  "synonyms": [],
+  "synonyms": [
+    "enviar",
+    "ordenar",
+    "liderar"
+  ],
   "url": "https://en.wiktionary.org/?curid=55267#Spanish",
   "word": "mandar"
 }

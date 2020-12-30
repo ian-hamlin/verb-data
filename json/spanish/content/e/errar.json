@@ -52,7 +52,7 @@
       "group": "indicative/present",
       "group_sort": 4,
       "sort": 1,
-      "value": "yerras (tú) -  erras (vos)"
+      "value": "yerras (tú) - erras (vos)"
     },
     {
       "form": "s3",
@@ -430,7 +430,7 @@
       "group": "imperative/affirmative",
       "group_sort": 13,
       "sort": 1,
-      "value": "yerra (tú) -  erra (vos)"
+      "value": "yerra (tú) - erra (vos)"
     },
     {
       "form": "s3",
@@ -504,25 +504,26 @@
     }
   ],
   "definitions": [
-    "to miss",
-    "(poetic)to be wrong",
-    "(poetic)to wander around, to roam"
+    "(transitive) to miss",
+    "(transitive, poetic) to be wrong",
+    "(intransitive, poetic) to wander around, roam"
   ],
   "description": "errar (first-person singular present yerro, first-person singular preterite erré, past participle errado)",
-  "etymology": "Latin errāre, present active infinitive of errō. Related to English and Spanish error.",
+  "etymology": "From Latin errāre, present active infinitive of errō. Related to English and Spanish error.",
   "page_id": 589273,
   "pronunciations": [
-    "IPA(key): [e̞ˈra̠ɾ]"
+    "IPA(key): /eˈraɾ/",
+    "Homophone: herrar"
   ],
   "related": [
     "aberrar",
-    "error",
-    "erróneo"
+    "erróneo",
+    "error"
   ],
   "synonyms": [
-    "(to be wrong): equivocarse",
+    "equivocarse",
     "marrar",
-    "(to wander arround): divagar",
+    "divagar",
     "vagar"
   ],
   "url": "https://en.wiktionary.org/?curid=589273#Spanish",

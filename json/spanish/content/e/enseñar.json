@@ -504,8 +504,8 @@
     }
   ],
   "definitions": [
-    "to teach\nSynonyms: instruir, educar",
-    "to show\nSynonym: mostrar"
+    "to teach",
+    "to show"
   ],
   "description": "enseñar (first-person singular present enseño, first-person singular preterite enseñé, past participle enseñado)",
   "etymology": "From Medieval Latin insignāre, present active infinitive of insignō, from Latin signō.",
@@ -514,11 +514,15 @@
     "IPA(key): /enseˈɲaɾ/, [ẽnseˈɲaɾ]"
   ],
   "related": [
-    "enseñanza",
     "enseñable",
+    "enseñanza",
     "seña"
   ],
-  "synonyms": [],
+  "synonyms": [
+    "instruir",
+    "educar",
+    "mostrar"
+  ],
   "url": "https://en.wiktionary.org/?curid=199265#Spanish",
   "word": "enseñar"
 }

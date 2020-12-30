@@ -504,9 +504,9 @@
     }
   ],
   "definitions": [
-    "to accept, to admit, to agree to, to concede\nSynonyms: aceptar, reconocer",
+    "to accept, to admit, to agree to, to concede",
     "to admit, to let in",
-    "to permit, to allow\nSynonyms: permitir, dejar"
+    "to permit, to allow"
   ],
   "description": "admitir (first-person singular present admito, first-person singular preterite admití, past participle admitido)",
   "etymology": "Borrowed from Latin admittere, present active infinitive of admittō.",
@@ -518,7 +518,12 @@
     "admisible",
     "admisión"
   ],
-  "synonyms": [],
+  "synonyms": [
+    "aceptar",
+    "reconocer",
+    "permitir",
+    "dejar"
+  ],
   "url": "https://en.wiktionary.org/?curid=213673#Spanish",
   "word": "admitir"
 }

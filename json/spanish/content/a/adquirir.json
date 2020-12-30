@@ -504,8 +504,8 @@
     }
   ],
   "definitions": [
-    "(transitive) to acquire\nSynonym: conseguir",
-    "(transitive) to buy\nSynonym: comprar"
+    "(transitive) to acquire",
+    "(transitive) to buy"
   ],
   "description": "adquirir (first-person singular present adquiero, first-person singular preterite adquirí, past participle adquirido)",
   "etymology": "From Latin adquīrō.",
@@ -519,7 +519,10 @@
     "adquisición",
     "adquisitivo"
   ],
-  "synonyms": [],
+  "synonyms": [
+    "conseguir",
+    "comprar"
+  ],
   "url": "https://en.wiktionary.org/?curid=101421#Spanish",
   "word": "adquirir"
 }

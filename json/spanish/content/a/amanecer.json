@@ -506,20 +506,24 @@
   "definitions": [
     "(intransitive, impersonal) to dawn\nAmaneció a las siete. ― The sun rose at seven.",
     "(intransitive, impersonal) to get light (become light in the morning)",
-    "(intransitive) to wake up (cease to sleep)\nSynonym: despertar",
+    "(intransitive) to wake up (cease to sleep)",
     "(intransitive) to see the morning; be seen by the morning (be in a given state when the sun rises)\nMuchas casas amanecieron cubiertas de papel higiénico después del día de las bromas de abril. ― The morning saw many houses covered in toilet paper after April Fools' Day.",
     "(transitive) to awake, wake up (rouse from sleep)",
     "(reflexive) to waken, awaken (cease to sleep)",
-    "(reflexive, Latin America) to stay awake all night\nSynonym: trasnochar"
+    "(reflexive, Latin America) to stay awake all night"
   ],
   "description": "amanecer (first-person singular present amanezco, first-person singular preterite amanecí, past participle amanecido)",
-  "etymology": "From Vulgar Latin (Iberian dialect) *manescere, from mane (“morning”). Compare Asturian amanecer, Extremaduran amanecel, Galician amañecer, Galician amencer, Mirandese amanhecer, Portuguese amanhecer.",
+  "etymology": "From Iberian Vulgar Latin *manescere, from Latin mane (“morning”). Compare Asturian amanecer, Extremaduran amanecel, Galician amañecer, Galician amencer, Mirandese amanhecer, Portuguese amanhecer.",
   "page_id": 755981,
   "pronunciations": [
-    "(Castilian) IPA(key): /amaneˈθeɾ/"
+    "(Castilian) IPA(key): /amaneˈθeɾ/",
+    "(Latin America) IPA(key): /amaneˈseɾ/"
   ],
   "related": [],
-  "synonyms": [],
+  "synonyms": [
+    "despertar",
+    "trasnochar"
+  ],
   "url": "https://en.wiktionary.org/?curid=755981#Spanish",
   "word": "amanecer"
 }

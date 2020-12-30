@@ -504,10 +504,10 @@
     }
   ],
   "definitions": [
-    "(transitive) to position; to place\nSynonyms: situar, colocar",
-    "(transitive) to find\nSynonym: localizar",
-    "(reflexive) to be located\nSynonym: localizarse",
-    "(reflexive) to position oneself\nSynonyms: situarse, orientarse",
+    "(transitive) to position; to place",
+    "(transitive) to find",
+    "(reflexive) to be located",
+    "(reflexive) to position oneself",
     "(reflexive) to behave well, seemly"
   ],
   "description": "ubicar (first-person singular present ubico, first-person singular preterite ubiqué, past participle ubicado)",
@@ -522,7 +522,14 @@
     "desubicado",
     "ubicatex"
   ],
-  "synonyms": [],
+  "synonyms": [
+    "situar",
+    "colocar",
+    "localizar",
+    "localizarse",
+    "situarse",
+    "orientarse"
+  ],
   "url": "https://en.wiktionary.org/?curid=92596#Spanish",
   "word": "ubicar"
 }

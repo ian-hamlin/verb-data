@@ -504,11 +504,13 @@
     }
   ],
   "definitions": [
-    "to cover\nSynonym: cubrir\nSynonym: destapar",
-    "to close with a lid, put a lid on\nSynonym: cerrar\nAntonym: destapar",
-    "to fill a hole or pit\nSynonyms: rellenar, empastar (of teeth)",
-    "to block, obstruct\nSynonyms: obstruir, bloquear",
-    "to hide, conceal\nSynonyms: encubrir, esconder, ocultar"
+    "to cover",
+    "to cap, to close with a lid, to put a lid on",
+    "to plug, to plug up, to fill a hole or pit",
+    "to block, to obstruct, to clog",
+    "to cover up, to hide, to conceal",
+    "to mask (e.g., a smell, a painting or colors painted)",
+    "(reflexive) to be clogged, to be clogged up"
   ],
   "description": "tapar (first-person singular present tapo, first-person singular preterite tapé, past participle tapado)",
   "etymology": "From tapa (“lid, cover”) + -ar.",
@@ -519,7 +521,17 @@
   "related": [
     "tapón"
   ],
-  "synonyms": [],
+  "synonyms": [
+    "cubrir",
+    "cerrar",
+    "rellenar",
+    "empastar (of teeth)",
+    "obstruir",
+    "bloquear",
+    "encubrir",
+    "esconder",
+    "ocultar"
+  ],
   "url": "https://en.wiktionary.org/?curid=343743#Spanish",
   "word": "tapar"
 }

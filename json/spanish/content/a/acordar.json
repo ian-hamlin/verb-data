@@ -505,9 +505,9 @@
   ],
   "definitions": [
     "(transitive) to decide, arrange",
-    "(intransitive) to agree\nLo acordaron por unanimidad. ― They agreed to it unanimously.",
-    "(reflexive, acordarse de) to reach agreement",
-    "(reflexive, acordarse de) to remember, recall\n¿Se acuerda Ud. de esto? ― Do you remember this?\nSynonym: recordar",
+    "(intransitive) to agree",
+    "(reflexive) to reach agreement (+ de)",
+    "(reflexive) to remember, recall (+ de)",
     "(transitive) to flush, to make flush, to level",
     "(transitive, music) to tune"
   ],
@@ -521,9 +521,13 @@
     "acordarse",
     "acorde",
     "acuerdo",
-    "desacordar"
+    "desacordar",
+    "si te he visto no me acuerdo"
   ],
-  "synonyms": [],
+  "synonyms": [
+    "concordar",
+    "recordar"
+  ],
   "url": "https://en.wiktionary.org/?curid=184763#Spanish",
   "word": "acordar"
 }

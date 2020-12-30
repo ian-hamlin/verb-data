@@ -504,15 +504,18 @@
     }
   ],
   "definitions": [
-    "to boil\ncocer a fuego lento ― simmer",
-    "(reflexive, cocerse) to brew\nAlgo se está cociendoSomething is brewing",
-    "(takes a reflexive pronoun) to chafe (get sore)\nSynonyms: escocerse, escaldarse"
+    "to boil",
+    "to cook (only used in situations where the food being prepared is submitted to fire; such as through the processes of boiling, simmering or steaming anything; or baking bread slowly in an oven)\ncocer a fuego lento ― simmer",
+    "(reflexive) to brew\nAlgo se está cociendoSomething is brewing",
+    "(takes a reflexive pronoun) to chafe (get sore)"
   ],
   "description": "cocer (first-person singular present cuezo, first-person singular preterite cocí, past participle cocido)",
-  "etymology": "From Old Spanish, from Vulgar Latin *cocēre, from Latin coquere, present active infinitive of coquō, from Proto-Italic *kʷekʷō, ultimately from Proto-Indo-European *pekʷ- (“to cook, become ripe”). Some conjugated forms of the verb were reformed through analogy with the infinitive; in Old Spanish, the forms cueza and cuezo were cuega and cuego, respectively, coció was coxo, and the past participle was cocho instead of cocido[1]. Cognate with English cook.",
+  "etymology": "From Old Spanish, from Vulgar Latin *cocēre, from Latin coquere, present active infinitive of coquō, from Proto-Italic *kʷekʷō, from Proto-Indo-European *pékʷeti, from *pekʷ- (“to cook, become ripe”).",
   "page_id": 181694,
   "pronunciations": [
-    "(Castilian) IPA(key): /koˈθeɾ/"
+    "(Castilian) IPA(key): /koˈθeɾ/",
+    "(Latin America) IPA(key): /koˈseɾ/",
+    "Homophone: coser (non-Castilian dialects)"
   ],
   "related": [
     "cocción",
@@ -522,7 +525,10 @@
     "cocinar",
     "escocer"
   ],
-  "synonyms": [],
+  "synonyms": [
+    "escocerse",
+    "escaldarse"
+  ],
   "url": "https://en.wiktionary.org/?curid=181694#Spanish",
   "word": "cocer"
 }
