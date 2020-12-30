@@ -504,12 +504,18 @@
     }
   ],
   "definitions": [
-    "(transitive) to advance, to move forward in space or time",
-    "(transitive) to pay in advance\nSynonym: anticipar",
+    "(transitive) to bring forward, advance, to move forward (in space or time)",
+    "(transitive) to pay in advance",
     "(transitive) to outstrip, to outrun",
-    "(intransitive) to make progress\nSynonym: avanzar",
+    "(intransitive) to make progress",
     "(transitive) to overtake, to pass (to pass a more slowly moving object)",
-    "(transitive) to speed up (to make something go faster)\nSynonyms: acelerar, apresurar"
+    "(transitive) to move up, speed up (to make something happen faster or come sooner)",
+    "(transitive) to fast forward (e.g. a film or recording)",
+    "(reflexive) to preempt",
+    "(reflexive) to anticipate, to forestall (+ a)",
+    "(reflexive) to get ahead of, to stay ahead of (+ a)",
+    "(reflexive) to jump the gun, get ahead of oneself",
+    "(reflexive) to be brought forward"
   ],
   "description": "adelantar (first-person singular present adelanto, first-person singular preterite adelanté, past participle adelantado)",
   "etymology": "From adelante (“forward”).",
@@ -520,7 +526,13 @@
   "related": [
     "adelanto"
   ],
-  "synonyms": [],
+  "synonyms": [
+    "anticipar",
+    "avanzar",
+    "rebasar",
+    "acelerar",
+    "apresurar"
+  ],
   "url": "https://en.wiktionary.org/?curid=342221#Spanish",
   "word": "adelantar"
 }
