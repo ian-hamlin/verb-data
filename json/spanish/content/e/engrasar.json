@@ -1,0 +1,521 @@
+{
+  "conjugations": [
+    {
+      "group": "infinitive",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "engrasar"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "engrasando"
+    },
+    {
+      "form": "masculine",
+      "group": "pastparticiple/singular",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "engrasado"
+    },
+    {
+      "form": "feminine",
+      "group": "pastparticiple/singular",
+      "group_sort": 2,
+      "sort": 1,
+      "value": "engrasada"
+    },
+    {
+      "form": "masculine",
+      "group": "pastparticiple/plural",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "engrasados"
+    },
+    {
+      "form": "feminine",
+      "group": "pastparticiple/plural",
+      "group_sort": 3,
+      "sort": 1,
+      "value": "engrasadas"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "engraso"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 1,
+      "value": "engrasas (tú) - engrasás (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 2,
+      "value": "engrasa"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 3,
+      "value": "engrasamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 4,
+      "value": "engrasáis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 5,
+      "value": "engrasan"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "engrasaba"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "engrasabas"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 2,
+      "value": "engrasaba"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 3,
+      "value": "engrasábamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 4,
+      "value": "engrasabais"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 5,
+      "value": "engrasaban"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "engrasé"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "engrasaste"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 2,
+      "value": "engrasó"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 3,
+      "value": "engrasamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 4,
+      "value": "engrasasteis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 5,
+      "value": "engrasaron"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "engrasaré"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "engrasarás"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "engrasará"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "engrasaremos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "engrasaréis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "engrasarán"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "engrasaría"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "engrasarías"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "engrasaría"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "engrasaríamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "engrasaríais"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "engrasarían"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "engrase"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "engrases (tú) - engrasés (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "engrase"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "engrasemos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "engraséis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "engrasen"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "engrasara"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "engrasaras"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "engrasara"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "engrasáramos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "engrasarais"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "engrasaran"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "engrasase"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "engrasases"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "engrasase"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "engrasásemos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "engrasaseis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "engrasasen"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 0,
+      "value": "engrasare"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "engrasares"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "engrasare"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "engrasáremos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "engrasareis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "engrasaren"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 1,
+      "value": "engrasa (tú) - engrasá (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 2,
+      "value": "engrase"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 3,
+      "value": "engrasemos"
+    },
+    {
+      "form": "p2",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 4,
+      "value": "engrasad"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 5,
+      "value": "engrasen"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 1,
+      "value": "no engrases"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 2,
+      "value": "no engrase"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 3,
+      "value": "no engrasemos"
+    },
+    {
+      "form": "p2",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 4,
+      "value": "no engraséis"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 5,
+      "value": "no engrasen"
+    }
+  ],
+  "definitions": [
+    "to grease"
+  ],
+  "description": "engrasar (first-person singular present engraso, first-person singular preterite engrasé, past participle engrasado)",
+  "etymology": "From en- + grasa + -ar Compare Italian ingrassare, French engraisser.",
+  "page_id": 357645,
+  "pronunciations": [
+    "IPA(key): /enɡɾaˈsaɾ/, [ẽŋɡɾaˈsaɾ]"
+  ],
+  "related": [
+    "grasa"
+  ],
+  "synonyms": [],
+  "url": "https://en.wiktionary.org/?curid=357645#Spanish",
+  "word": "engrasar"
+}

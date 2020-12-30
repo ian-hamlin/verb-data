@@ -1,0 +1,519 @@
+{
+  "conjugations": [
+    {
+      "group": "infinitive",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "desenvolver"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "desenvolviendo"
+    },
+    {
+      "form": "masculine",
+      "group": "pastparticiple/singular",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "desenvuelto"
+    },
+    {
+      "form": "feminine",
+      "group": "pastparticiple/singular",
+      "group_sort": 2,
+      "sort": 1,
+      "value": "desenvuelta"
+    },
+    {
+      "form": "masculine",
+      "group": "pastparticiple/plural",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "desenvueltos"
+    },
+    {
+      "form": "feminine",
+      "group": "pastparticiple/plural",
+      "group_sort": 3,
+      "sort": 1,
+      "value": "desenvueltas"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "desenvuelvo"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 1,
+      "value": "desenvuelves (tú) - desenvolvés (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 2,
+      "value": "desenvuelve"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 3,
+      "value": "desenvolvemos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 4,
+      "value": "desenvolvéis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 5,
+      "value": "desenvuelven"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "desenvolvía"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "desenvolvías"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 2,
+      "value": "desenvolvía"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 3,
+      "value": "desenvolvíamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 4,
+      "value": "desenvolvíais"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 5,
+      "value": "desenvolvían"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "desenvolví"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "desenvolviste"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 2,
+      "value": "desenvolvió"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 3,
+      "value": "desenvolvimos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 4,
+      "value": "desenvolvisteis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 5,
+      "value": "desenvolvieron"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "desenvolveré"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "desenvolverás"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "desenvolverá"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "desenvolveremos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "desenvolveréis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "desenvolverán"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "desenvolvería"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "desenvolverías"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "desenvolvería"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "desenvolveríamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "desenvolveríais"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "desenvolverían"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "desenvuelva"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "desenvuelvas"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "desenvuelva"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "desenvolvamos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "desenvolváis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "desenvuelvan"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "desenvolviera"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "desenvolvieras"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "desenvolviera"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "desenvolviéramos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "desenvolvierais"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "desenvolvieran"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "desenvolviese"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "desenvolvieses"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "desenvolviese"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "desenvolviésemos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "desenvolvieseis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "desenvolviesen"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 0,
+      "value": "desenvolviere"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "desenvolvieres"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "desenvolviere"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "desenvolviéremos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "desenvolviereis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "desenvolvieren"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 1,
+      "value": "desenvuelve (tú) - desenvolvé (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 2,
+      "value": "desenvuelva"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 3,
+      "value": "desenvolvamos"
+    },
+    {
+      "form": "p2",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 4,
+      "value": "desenvolved"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 5,
+      "value": "desenvuelvan"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 1,
+      "value": "no desenvuelvas"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 2,
+      "value": "no desenvuelva"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 3,
+      "value": "no desenvolvamos"
+    },
+    {
+      "form": "p2",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 4,
+      "value": "no desenvolváis"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 5,
+      "value": "no desenvuelvan"
+    }
+  ],
+  "definitions": [
+    "to unwrap",
+    "(reflexive) to develop",
+    "(reflexive) to manage the situation"
+  ],
+  "description": "desenvolver (first-person singular present desenvuelvo, first-person singular preterite desenvolví, past participle desenvuelto)",
+  "etymology": "From des- + envolver.",
+  "page_id": 566020,
+  "pronunciations": [],
+  "related": [],
+  "synonyms": [],
+  "url": "https://en.wiktionary.org/?curid=566020#Spanish",
+  "word": "desenvolver"
+}

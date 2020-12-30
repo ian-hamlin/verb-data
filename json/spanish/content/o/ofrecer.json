@@ -1,0 +1,523 @@
+{
+  "conjugations": [
+    {
+      "group": "infinitive",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "ofrecer"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "ofreciendo"
+    },
+    {
+      "form": "masculine",
+      "group": "pastparticiple/singular",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "ofrecido"
+    },
+    {
+      "form": "feminine",
+      "group": "pastparticiple/singular",
+      "group_sort": 2,
+      "sort": 1,
+      "value": "ofrecida"
+    },
+    {
+      "form": "masculine",
+      "group": "pastparticiple/plural",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "ofrecidos"
+    },
+    {
+      "form": "feminine",
+      "group": "pastparticiple/plural",
+      "group_sort": 3,
+      "sort": 1,
+      "value": "ofrecidas"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "ofrezco"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 1,
+      "value": "ofreces (tú) - ofrecés (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 2,
+      "value": "ofrece"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 3,
+      "value": "ofrecemos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 4,
+      "value": "ofrecéis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 5,
+      "value": "ofrecen"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "ofrecía"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "ofrecías"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 2,
+      "value": "ofrecía"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 3,
+      "value": "ofrecíamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 4,
+      "value": "ofrecíais"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 5,
+      "value": "ofrecían"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "ofrecí"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "ofreciste"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 2,
+      "value": "ofreció"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 3,
+      "value": "ofrecimos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 4,
+      "value": "ofrecisteis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 5,
+      "value": "ofrecieron"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "ofreceré"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "ofrecerás"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "ofrecerá"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "ofreceremos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "ofreceréis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "ofrecerán"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "ofrecería"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "ofrecerías"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "ofrecería"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "ofreceríamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "ofreceríais"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "ofrecerían"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "ofrezca"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "ofrezcas"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "ofrezca"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "ofrezcamos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "ofrezcáis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "ofrezcan"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "ofreciera"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "ofrecieras"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "ofreciera"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "ofreciéramos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "ofrecierais"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "ofrecieran"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "ofreciese"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "ofrecieses"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "ofreciese"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "ofreciésemos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "ofrecieseis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "ofreciesen"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 0,
+      "value": "ofreciere"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "ofrecieres"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "ofreciere"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "ofreciéremos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "ofreciereis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "ofrecieren"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 1,
+      "value": "ofrece (tú) - ofrecé (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 2,
+      "value": "ofrezca"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 3,
+      "value": "ofrezcamos"
+    },
+    {
+      "form": "p2",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 4,
+      "value": "ofreced"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 5,
+      "value": "ofrezcan"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 1,
+      "value": "no ofrezcas"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 2,
+      "value": "no ofrezca"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 3,
+      "value": "no ofrezcamos"
+    },
+    {
+      "form": "p2",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 4,
+      "value": "no ofrezcáis"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 5,
+      "value": "no ofrezcan"
+    }
+  ],
+  "definitions": [
+    "to offer, to offer up, to provide",
+    "to proffer"
+  ],
+  "description": "ofrecer (first-person singular present ofrezco, first-person singular preterite ofrecí, past participle ofrecido)",
+  "etymology": "From Old Spanish [Term?], from Vulgar Latin *offerēscere, present active infinitive of *offerescō (cf. also *offeriō), a derivation of Latin offerre, present active infinitive of offerō.",
+  "page_id": 218255,
+  "pronunciations": [
+    "(Castilian) IPA(key): /ofɾeˈθeɾ/",
+    "(Latin America) IPA(key): /ofɾeˈseɾ/"
+  ],
+  "related": [
+    "oferta"
+  ],
+  "synonyms": [],
+  "url": "https://en.wiktionary.org/?curid=218255#Spanish",
+  "word": "ofrecer"
+}

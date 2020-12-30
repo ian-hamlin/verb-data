@@ -1,0 +1,517 @@
+{
+  "conjugations": [
+    {
+      "group": "infinitive",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "repujar"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "repujando"
+    },
+    {
+      "form": "masculine",
+      "group": "pastparticiple/singular",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "repujado"
+    },
+    {
+      "form": "feminine",
+      "group": "pastparticiple/singular",
+      "group_sort": 2,
+      "sort": 1,
+      "value": "repujada"
+    },
+    {
+      "form": "masculine",
+      "group": "pastparticiple/plural",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "repujados"
+    },
+    {
+      "form": "feminine",
+      "group": "pastparticiple/plural",
+      "group_sort": 3,
+      "sort": 1,
+      "value": "repujadas"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "repujo"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 1,
+      "value": "repujas (tú) - repujás (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 2,
+      "value": "repuja"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 3,
+      "value": "repujamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 4,
+      "value": "repujáis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 5,
+      "value": "repujan"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "repujaba"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "repujabas"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 2,
+      "value": "repujaba"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 3,
+      "value": "repujábamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 4,
+      "value": "repujabais"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 5,
+      "value": "repujaban"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "repujé"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "repujaste"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 2,
+      "value": "repujó"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 3,
+      "value": "repujamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 4,
+      "value": "repujasteis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 5,
+      "value": "repujaron"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "repujaré"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "repujarás"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "repujará"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "repujaremos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "repujaréis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "repujarán"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "repujaría"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "repujarías"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "repujaría"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "repujaríamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "repujaríais"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "repujarían"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "repuje"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "repujes (tú) - repujés (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "repuje"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "repujemos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "repujéis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "repujen"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "repujara"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "repujaras"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "repujara"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "repujáramos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "repujarais"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "repujaran"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "repujase"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "repujases"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "repujase"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "repujásemos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "repujaseis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "repujasen"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 0,
+      "value": "repujare"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "repujares"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "repujare"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "repujáremos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "repujareis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "repujaren"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 1,
+      "value": "repuja (tú) - repujá (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 2,
+      "value": "repuje"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 3,
+      "value": "repujemos"
+    },
+    {
+      "form": "p2",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 4,
+      "value": "repujad"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 5,
+      "value": "repujen"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 1,
+      "value": "no repujes"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 2,
+      "value": "no repuje"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 3,
+      "value": "no repujemos"
+    },
+    {
+      "form": "p2",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 4,
+      "value": "no repujéis"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 5,
+      "value": "no repujen"
+    }
+  ],
+  "definitions": [
+    "to emboss"
+  ],
+  "description": "repujar (first-person singular present repujo, first-person singular preterite repujé, past participle repujado)",
+  "etymology": "From Latin re- + pulsō (“I beat repeatedly”). See pujar.",
+  "page_id": 408538,
+  "pronunciations": [],
+  "related": [],
+  "synonyms": [],
+  "url": "https://en.wiktionary.org/?curid=408538#Spanish",
+  "word": "repujar"
+}

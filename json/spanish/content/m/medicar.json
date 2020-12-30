@@ -1,0 +1,523 @@
+{
+  "conjugations": [
+    {
+      "group": "infinitive",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "medicar"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "medicando"
+    },
+    {
+      "form": "masculine",
+      "group": "pastparticiple/singular",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "medicado"
+    },
+    {
+      "form": "feminine",
+      "group": "pastparticiple/singular",
+      "group_sort": 2,
+      "sort": 1,
+      "value": "medicada"
+    },
+    {
+      "form": "masculine",
+      "group": "pastparticiple/plural",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "medicados"
+    },
+    {
+      "form": "feminine",
+      "group": "pastparticiple/plural",
+      "group_sort": 3,
+      "sort": 1,
+      "value": "medicadas"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "medico"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 1,
+      "value": "medicas (tú) - medicás (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 2,
+      "value": "medica"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 3,
+      "value": "medicamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 4,
+      "value": "medicáis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 4,
+      "sort": 5,
+      "value": "medican"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "medicaba"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "medicabas"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 2,
+      "value": "medicaba"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 3,
+      "value": "medicábamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 4,
+      "value": "medicabais"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 5,
+      "sort": 5,
+      "value": "medicaban"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "mediqué"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "medicaste"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 2,
+      "value": "medicó"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 3,
+      "value": "medicamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 4,
+      "value": "medicasteis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/preterite",
+      "group_sort": 6,
+      "sort": 5,
+      "value": "medicaron"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "medicaré"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "medicarás"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "medicará"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "medicaremos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "medicaréis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "medicarán"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "medicaría"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "medicarías"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "medicaría"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "medicaríamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "medicaríais"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/conditional",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "medicarían"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "medique"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "mediques (tú) - mediqués (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "medique"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "mediquemos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "mediquéis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/present",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "mediquen"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "medicara"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "medicaras"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "medicara"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "medicáramos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "medicarais"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect_ra",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "medicaran"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "medicase"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "medicases"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "medicase"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "medicásemos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "medicaseis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect_se",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "medicasen"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 0,
+      "value": "medicare"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "medicares"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "medicare"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "medicáremos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "medicareis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/future",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "medicaren"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 1,
+      "value": "medica (tú) - medicá (vos)"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 2,
+      "value": "medique"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 3,
+      "value": "mediquemos"
+    },
+    {
+      "form": "p2",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 4,
+      "value": "medicad"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/affirmative",
+      "group_sort": 13,
+      "sort": 5,
+      "value": "mediquen"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 1,
+      "value": "no mediques"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 2,
+      "value": "no medique"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 3,
+      "value": "no mediquemos"
+    },
+    {
+      "form": "p2",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 4,
+      "value": "no mediquéis"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/negative",
+      "group_sort": 14,
+      "sort": 5,
+      "value": "no mediquen"
+    }
+  ],
+  "definitions": [
+    "(transitive) to medicate"
+  ],
+  "description": "medicar (first-person singular present medico, first-person singular preterite mediqué, past participle medicado)",
+  "etymology": "Borrowed from Latin medicāre, present active infinitive of medicō (“I cure, heal”).",
+  "page_id": 2832056,
+  "pronunciations": [
+    "IPA(key): /mediˈkaɾ/, [meðiˈkaɾ]"
+  ],
+  "related": [],
+  "synonyms": [
+    "medicinar",
+    "medicamentar",
+    "recetar"
+  ],
+  "url": "https://en.wiktionary.org/?curid=2832056#Spanish",
+  "word": "medicar"
+}
