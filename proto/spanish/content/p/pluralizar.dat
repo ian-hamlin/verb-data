@@ -9,15 +9,14 @@ pluralizarR
 pastparticiple/singular"	masculine*pluralizadoR4
 pastparticiple/singular"feminine*pluralizadaR2
 pastparticiple/plural"	masculine*pluralizadosR3
-pastparticiple/plural"feminine*pluralizadasR&
-indicative/present"s1*
-pluralízoRC
-indicative/present"s2*%pluralízas (tú) - pluralizás (vos)R(
-indicative/present"s3*
-pluralízaR*
+pastparticiple/plural"feminine*pluralizadasR%
+indicative/present"s1*	pluralizoRB
+indicative/present"s2*$pluralizas (tú) - pluralizás (vos)R'
+indicative/present"s3*	pluralizaR*
 indicative/present"p1*pluralizamosR*
-indicative/present"p2*pluralizáisR)
-indicative/present"p3*pluralízanR)
+indicative/present"p2*pluralizáisR(
+indicative/present"p3*
+pluralizanR)
 indicative/imperfect"s1*pluralizabaR,
 indicative/imperfect"s2*pluralizabasR+
 indicative/imperfect"s3*pluralizabaR/
@@ -43,15 +42,14 @@ pluralizóR,
 indicative/conditional"s3*pluralizaríaR2
 indicative/conditional"p1*pluralizaríamosR1
 indicative/conditional"p2*pluralizaríaisR0
-indicative/conditional"p3*pluralizaríanR'
-subjunctive/present	"s1*
-pluralíceR*
-subjunctive/present	"s2*pluralícesR)
-subjunctive/present	"s3*
-pluralíceR+
+indicative/conditional"p3*pluralizaríanR&
+subjunctive/present	"s1*	pluraliceRC
+subjunctive/present	"s2*$pluralices (tú) - pluralicés (vos)R(
+subjunctive/present	"s3*	pluraliceR+
 subjunctive/present	"p1*pluralicemosR+
-subjunctive/present	"p2*pluralicéisR*
-subjunctive/present	"p3*pluralícenR-
+subjunctive/present	"p2*pluralicéisR)
+subjunctive/present	"p3*
+pluralicenR-
 subjunctive/imperfect_ra
 "s1*pluralizaraR0
 subjunctive/imperfect_ra
@@ -76,17 +74,17 @@ pluralíceR+
 subjunctive/future"p1*pluralizáremosR+
 subjunctive/future"p2*pluralizareisR*
 subjunctive/future"p3*pluralizarenR
-imperative/affirmative"s1RE
-imperative/affirmative"s2*#pluralíza (tú) - pluralizá (vos)R,
-imperative/affirmative"s3*
-pluralíceR.
+imperative/affirmative"s1RD
+imperative/affirmative"s2*"pluraliza (tú) - pluralizá (vos)R+
+imperative/affirmative"s3*	pluraliceR.
 imperative/affirmative"p1*pluralicemosR,
 imperative/affirmative"p2*
-pluralizadR-
-imperative/affirmative"p3*pluralícenR
-imperative/negative"s1R-
-imperative/negative"s2*no pluralícesR,
-imperative/negative"s3*no pluralíceR.
+pluralizadR,
+imperative/affirmative"p3*
+pluralicenR
+imperative/negative"s1R,
+imperative/negative"s2*no pluralicesR+
+imperative/negative"s3*no pluraliceR.
 imperative/negative"p1*no pluralicemosR.
-imperative/negative"p2*no pluralicéisR-
-imperative/negative"p3*no pluralícen
+imperative/negative"p2*no pluralicéisR,
+imperative/negative"p3*no pluralicen
