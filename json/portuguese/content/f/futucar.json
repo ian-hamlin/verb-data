@@ -1,0 +1,575 @@
+{
+  "conjugations": [
+    {
+      "group": "infinitive/impersonal",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "futucar"
+    },
+    {
+      "form": "s1",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "futucar"
+    },
+    {
+      "form": "s2",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 1,
+      "value": "futucares"
+    },
+    {
+      "form": "s3",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 2,
+      "value": "futucar"
+    },
+    {
+      "form": "p1",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 3,
+      "value": "futucarmos"
+    },
+    {
+      "form": "p2",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 4,
+      "value": "futucardes"
+    },
+    {
+      "form": "p3",
+      "group": "infinitive/personal",
+      "group_sort": 1,
+      "sort": 5,
+      "value": "futucarem"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "futucando"
+    },
+    {
+      "form": "s",
+      "group": "pastparticiple/masculine",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "futucado"
+    },
+    {
+      "form": "p",
+      "group": "pastparticiple/masculine",
+      "group_sort": 3,
+      "sort": 1,
+      "value": "futucados"
+    },
+    {
+      "form": "s",
+      "group": "pastparticiple/feminine",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "futucada"
+    },
+    {
+      "form": "p",
+      "group": "pastparticiple/feminine",
+      "group_sort": 4,
+      "sort": 1,
+      "value": "futucadas"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "futuco"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "futucas"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 2,
+      "value": "futuca"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 3,
+      "value": "futucamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 4,
+      "value": "futucais"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 5,
+      "value": "futucam"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "futucava"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "futucavas"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 2,
+      "value": "futucava"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 3,
+      "value": "futucávamos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 4,
+      "value": "futucáveis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 5,
+      "value": "futucavam"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "futuquei"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "futucaste"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "futucou"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "futucamos - futucámos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "futucastes"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/preterite",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "futucaram"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "futucara"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "futucaras"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "futucara"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "futucáramos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "futucáreis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/pluperfect",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "futucaram"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "futucarei"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "futucarás"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "futucará"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "futucaremos"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "futucareis"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "futucarão"
+    },
+    {
+      "form": "s1",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "futucaria"
+    },
+    {
+      "form": "s2",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "futucarias"
+    },
+    {
+      "form": "s3",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "futucaria"
+    },
+    {
+      "form": "p1",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "futucaríamos"
+    },
+    {
+      "form": "p2",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "futucaríeis"
+    },
+    {
+      "form": "p3",
+      "group": "conditional",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "futucariam"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "futuque"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "futuques"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "futuque"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "futuquemos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "futuqueis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/present",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "futuquem"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 0,
+      "value": "futucasse"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "futucasses"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "futucasse"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "futucássemos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "futucásseis"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/imperfect",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "futucassem"
+    },
+    {
+      "form": "s1",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 0,
+      "value": "futucar"
+    },
+    {
+      "form": "s2",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 1,
+      "value": "futucares"
+    },
+    {
+      "form": "s3",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 2,
+      "value": "futucar"
+    },
+    {
+      "form": "p1",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 3,
+      "value": "futucarmos"
+    },
+    {
+      "form": "p2",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 4,
+      "value": "futucardes"
+    },
+    {
+      "form": "p3",
+      "group": "subjunctive/preterite",
+      "group_sort": 13,
+      "sort": 5,
+      "value": "futucarem"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 0,
+      "value": "-"
+    },
+    {
+      "form": "s2",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 1,
+      "value": "futuca"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 2,
+      "value": "futuque"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 3,
+      "value": "futuquemos"
+    },
+    {
+      "form": "p2",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 4,
+      "value": "futucai"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/affirmative",
+      "group_sort": 14,
+      "sort": 5,
+      "value": "futuquem"
+    },
+    {
+      "form": "s1",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 0,
+      "value": "-"
+    },
+    {
+      "form": "s2",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 1,
+      "value": "futuques"
+    },
+    {
+      "form": "s3",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 2,
+      "value": "futuque"
+    },
+    {
+      "form": "p1",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 3,
+      "value": "futuquemos"
+    },
+    {
+      "form": "p2",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 4,
+      "value": "futuqueis"
+    },
+    {
+      "form": "p3",
+      "group": "imperative/negative",
+      "group_sort": 15,
+      "sort": 5,
+      "value": "futuquem"
+    }
+  ],
+  "definitions": [
+    "(transitive) to repeatedly touch",
+    "(transitive) to agitate or shake",
+    "(transitive) to remove filthiness from something",
+    "(transitive) to remember",
+    "(transitive) to annoy, to pester"
+  ],
+  "description": "futucar (first-person singular present indicative futuco, past participle futucado)",
+  "etymology": null,
+  "page_id": 7005002,
+  "pronunciations": [
+    "IPA(key): /fu.tu.ˈka(ɾ)/, /fu.tu.ˈka(ʁ)/",
+    "Hyphenation: fu‧tu‧car"
+  ],
+  "related": [],
+  "synonyms": [
+    "aborrecer",
+    "esgaravatar",
+    "esgravatar",
+    "futicar",
+    "irritar",
+    "lembrar",
+    "recordar",
+    "relembrar"
+  ],
+  "url": "https://en.wiktionary.org/?curid=7005002#Portuguese",
+  "word": "futucar"
+}
