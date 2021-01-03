@@ -1,0 +1,384 @@
+{
+  "conjugations": [
+    {
+      "group": "infinitive",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "impiagare"
+    },
+    {
+      "group": "auxiliaryverb",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "avere"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "impiagando"
+    },
+    {
+      "group": "presentparticiple",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "impiagante"
+    },
+    {
+      "group": "pastparticiple",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "impiagato"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "impiago"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "impiaghi"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 2,
+      "value": "impiaga"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 3,
+      "value": "impiaghiamo"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 4,
+      "value": "impiagate"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 5,
+      "value": "impiagano"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "impiagavo"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "impiagavi"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 2,
+      "value": "impiagava"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 3,
+      "value": "impiagavamo"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 4,
+      "value": "impiagavate"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 5,
+      "value": "impiagavano"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "impiagai"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "impiagasti"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "impiagò"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "impiagammo"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "impiagaste"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "impiagarono"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "impiagherò"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "impiagherai"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "impiagherà"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "impiagheremo"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "impiagherete"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "impiagheranno"
+    },
+    {
+      "form": "s1",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "impiagherei"
+    },
+    {
+      "form": "s2",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "impiagheresti"
+    },
+    {
+      "form": "s3",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "impiagherebbe"
+    },
+    {
+      "form": "p1",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "impiagheremmo"
+    },
+    {
+      "form": "p2",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "impiaghereste"
+    },
+    {
+      "form": "p3",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "impiagherebbero"
+    },
+    {
+      "form": "s1-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "impiaghi"
+    },
+    {
+      "form": "s2-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "impiaghi"
+    },
+    {
+      "form": "s3-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "impiaghi"
+    },
+    {
+      "form": "p1-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "impiaghiamo"
+    },
+    {
+      "form": "p2-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "impiaghiate"
+    },
+    {
+      "form": "p3-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "impiaghino"
+    },
+    {
+      "form": "s1-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "impiagassi"
+    },
+    {
+      "form": "s2-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "impiagassi"
+    },
+    {
+      "form": "s3-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "impiagasse"
+    },
+    {
+      "form": "p1-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "impiagassimo"
+    },
+    {
+      "form": "p2-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "impiagaste"
+    },
+    {
+      "form": "p3-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "impiagassero"
+    },
+    {
+      "form": "s1",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "impiaga, non impiagare"
+    },
+    {
+      "form": "s3-b",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "impiaghi"
+    },
+    {
+      "form": "p1",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "impiaghiamo"
+    },
+    {
+      "form": "p2",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "impiagate"
+    },
+    {
+      "form": "p3-b",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "impiaghino"
+    }
+  ],
+  "definitions": [
+    "(transitive) To cover with sores or scabs"
+  ],
+  "description": "impiagare",
+  "etymology": "in- + piaga + -are",
+  "page_id": 7619673,
+  "pronunciations": [
+    "IPA(key): /im.pjaˈɡa.re/, [impjäˈɡäːr̺e̞]",
+    "Hyphenation: im‧pia‧gà‧re"
+  ],
+  "related": [],
+  "synonyms": [],
+  "url": "https://en.wiktionary.org/?curid=7619673#Italian",
+  "word": "impiagare"
+}

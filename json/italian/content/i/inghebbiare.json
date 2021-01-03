@@ -1,0 +1,384 @@
+{
+  "conjugations": [
+    {
+      "group": "infinitive",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "inghebbiare"
+    },
+    {
+      "group": "auxiliaryverb",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "avere"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "inghebbiando"
+    },
+    {
+      "group": "presentparticiple",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "inghebbiante"
+    },
+    {
+      "group": "pastparticiple",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "inghebbiato"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "inghebbio"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "inghebbi"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 2,
+      "value": "inghebbia"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 3,
+      "value": "inghebbiamo"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 4,
+      "value": "inghebbiate"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 5,
+      "value": "inghebbiano"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "inghebbiavo"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "inghebbiavi"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 2,
+      "value": "inghebbiava"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 3,
+      "value": "inghebbiavamo"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 4,
+      "value": "inghebbiavate"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 5,
+      "value": "inghebbiavano"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "inghebbiai"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "inghebbiasti"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "inghebbiò"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "inghebbiammo"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "inghebbiaste"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "inghebbiarono"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "inghebbierò"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "inghebbierai"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "inghebbierà"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "inghebbieremo"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "inghebbierete"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "inghebbieranno"
+    },
+    {
+      "form": "s1",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "inghebbierei"
+    },
+    {
+      "form": "s2",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "inghebbieresti"
+    },
+    {
+      "form": "s3",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "inghebbierebbe"
+    },
+    {
+      "form": "p1",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "inghebbieremmo"
+    },
+    {
+      "form": "p2",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "inghebbiereste"
+    },
+    {
+      "form": "p3",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "inghebbierebbero"
+    },
+    {
+      "form": "s1-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "inghebbi"
+    },
+    {
+      "form": "s2-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "inghebbi"
+    },
+    {
+      "form": "s3-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "inghebbi"
+    },
+    {
+      "form": "p1-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "inghebbiamo"
+    },
+    {
+      "form": "p2-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "inghebbiate"
+    },
+    {
+      "form": "p3-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "inghebbino"
+    },
+    {
+      "form": "s1-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "inghebbiassi"
+    },
+    {
+      "form": "s2-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "inghebbiassi"
+    },
+    {
+      "form": "s3-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "inghebbiasse"
+    },
+    {
+      "form": "p1-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "inghebbiassimo"
+    },
+    {
+      "form": "p2-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "inghebbiaste"
+    },
+    {
+      "form": "p3-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "inghebbiassero"
+    },
+    {
+      "form": "s1",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "inghebbia, non inghebbiare"
+    },
+    {
+      "form": "s3-b",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "inghebbi"
+    },
+    {
+      "form": "p1",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "inghebbiamo"
+    },
+    {
+      "form": "p2",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "inghebbiate"
+    },
+    {
+      "form": "p3-b",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "inghebbino"
+    }
+  ],
+  "definitions": [
+    "Alternative form of ingubbiare"
+  ],
+  "description": "inghebbiare",
+  "etymology": null,
+  "page_id": 7880977,
+  "pronunciations": [
+    "IPA(key): /in.ɡebˈbja.re/",
+    "Hyphenation: in‧gheb‧bià‧re"
+  ],
+  "related": [],
+  "synonyms": [],
+  "url": "https://en.wiktionary.org/?curid=7880977#Italian",
+  "word": "inghebbiare"
+}

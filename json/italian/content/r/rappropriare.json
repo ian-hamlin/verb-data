@@ -1,0 +1,381 @@
+{
+  "conjugations": [
+    {
+      "group": "infinitive",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "rappropriare"
+    },
+    {
+      "group": "auxiliaryverb",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "avere"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "rappropriando"
+    },
+    {
+      "group": "presentparticiple",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "rappropriante"
+    },
+    {
+      "group": "pastparticiple",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "rappropriato"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "rapproprio"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "rappropri"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 2,
+      "value": "rappropria"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 3,
+      "value": "rappropriamo"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 4,
+      "value": "rappropriate"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 5,
+      "value": "rappropriano"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "rappropriavo"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "rappropriavi"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 2,
+      "value": "rappropriava"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 3,
+      "value": "rappropriavamo"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 4,
+      "value": "rappropriavate"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 5,
+      "value": "rappropriavano"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "rappropriai"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "rappropriasti"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "rappropriò"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "rappropriammo"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "rappropriaste"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "rappropriarono"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "rapproprierò"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "rapproprierai"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "rapproprierà"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "rapproprieremo"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "rapproprierete"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "rapproprieranno"
+    },
+    {
+      "form": "s1",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "rapproprierei"
+    },
+    {
+      "form": "s2",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "rapproprieresti"
+    },
+    {
+      "form": "s3",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "rapproprierebbe"
+    },
+    {
+      "form": "p1",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "rapproprieremmo"
+    },
+    {
+      "form": "p2",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "rappropriereste"
+    },
+    {
+      "form": "p3",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "rapproprierebbero"
+    },
+    {
+      "form": "s1-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "rappropri"
+    },
+    {
+      "form": "s2-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "rappropri"
+    },
+    {
+      "form": "s3-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "rappropri"
+    },
+    {
+      "form": "p1-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "rappropriamo"
+    },
+    {
+      "form": "p2-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "rappropriate"
+    },
+    {
+      "form": "p3-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "rapproprino"
+    },
+    {
+      "form": "s1-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "rappropriassi"
+    },
+    {
+      "form": "s2-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "rappropriassi"
+    },
+    {
+      "form": "s3-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "rappropriasse"
+    },
+    {
+      "form": "p1-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "rappropriassimo"
+    },
+    {
+      "form": "p2-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "rappropriaste"
+    },
+    {
+      "form": "p3-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "rappropriassero"
+    },
+    {
+      "form": "s1",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "rappropria, non rappropriare"
+    },
+    {
+      "form": "s3-b",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "rappropri"
+    },
+    {
+      "form": "p1",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "rappropriamo"
+    },
+    {
+      "form": "p2",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "rappropriate"
+    },
+    {
+      "form": "p3-b",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "rapproprino"
+    }
+  ],
+  "definitions": [
+    "Alternative form of riappropriare"
+  ],
+  "description": "rappropriare",
+  "etymology": "ri- + appropriare",
+  "page_id": 7660156,
+  "pronunciations": [],
+  "related": [],
+  "synonyms": [],
+  "url": "https://en.wiktionary.org/?curid=7660156#Italian",
+  "word": "rappropriare"
+}

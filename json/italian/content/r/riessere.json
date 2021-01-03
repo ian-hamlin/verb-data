@@ -1,19 +1,383 @@
 {
-  "conjugations": null,
+  "conjugations": [
+    {
+      "group": "infinitive",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "riessere, (truncated apocopic form) riesser"
+    },
+    {
+      "group": "auxiliaryverb",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "riessere"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "riessendo, (archaic) risendo"
+    },
+    {
+      "group": "presentparticiple",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "(rare, partially supplied) riessente"
+    },
+    {
+      "group": "pastparticiple",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "ristato, (archaic, supplied by ristato) riessuto, (archaic) risuto"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "risono, (truncated apocopic form) rison"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "risei"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 2,
+      "value": "riè"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 3,
+      "value": "risiamo, (truncated apocopic form) risiam - (archaic or regional) risemo, (archaic or regional, truncated apocopic form) risem"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 4,
+      "value": "risiete, (archaic) risete"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 5,
+      "value": "risono, (truncated apocopic form) rison, (archaic or regional) rienno, (archaic or regional, truncated apocopic form) rien"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "riero, (archaic or litarary) riera"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "rieri"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 2,
+      "value": "riera"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 3,
+      "value": "rieravamo, (truncated apocopic form) rieravam"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 4,
+      "value": "rieravate"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 5,
+      "value": "rierano, (truncated apocopic form) rieran"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "rifui"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "rifosti, (archaic) rifusti"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "rifù"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "rifummo, (truncated apocopic form) rifum"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "rifoste, (archaic) rifuste"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "rifurono, (truncated apocopic form) rifuron, (archaic) rifuro, (archaic, truncated apocopic form) rifur, (archaic) riforo, (archaic, truncated apocopic form) rifor, (archaic) rifuoro, (archaic, truncated apocopic form) rifuor"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "risarò"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "risarai"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "risarà, (archaic) rifia, (archaic) rifie"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "risaremo, (truncated apocopic form) risarem"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "risarete"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "risaranno, (truncated apocopic form) risaran, (archaic) rifiano, (archaic, truncated apocopic form) rifian, (archaic) rifieno, (archaic, truncated apocopic form) rifien"
+    },
+    {
+      "form": "s1",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "risarei, (archaic) risaria, (archaic) rifora"
+    },
+    {
+      "form": "s2",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "risaresti"
+    },
+    {
+      "form": "s3",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "risarebbe, (archaic) risaria, (archaic) rifora"
+    },
+    {
+      "form": "p1",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "risaremmo"
+    },
+    {
+      "form": "p2",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "risareste"
+    },
+    {
+      "form": "p3",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "risarebbero"
+    },
+    {
+      "form": "s1-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "risia"
+    },
+    {
+      "form": "s2-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "risia"
+    },
+    {
+      "form": "s3-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "risia"
+    },
+    {
+      "form": "p1-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "risiamo, (truncated apocopic form) risiam"
+    },
+    {
+      "form": "p2-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "risiate"
+    },
+    {
+      "form": "p3-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "risiano, (truncated apocopic form) risian, (archaic) risieno, (archaic, truncated apocopic form) risien"
+    },
+    {
+      "form": "s1-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "rifossi, (archaic) rifussi"
+    },
+    {
+      "form": "s2-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "rifossi, (archaic) rifussi"
+    },
+    {
+      "form": "s3-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "rifosse, (archaic) rifusse"
+    },
+    {
+      "form": "p1-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "rifossimo, (truncated apocopic form) rifossim - (archaic) rifussimo"
+    },
+    {
+      "form": "p2-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "rifoste, (archaic) rifuste"
+    },
+    {
+      "form": "p3-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "rifossero, (archaic) rifussero"
+    },
+    {
+      "form": "s1",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "risii, non riessere/riesser"
+    },
+    {
+      "form": "s3-b",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "risia"
+    },
+    {
+      "form": "p1",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "risiamo, (truncated apocopic form) risiam"
+    },
+    {
+      "form": "p2",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "risiate"
+    },
+    {
+      "form": "p3-b",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "risiano, (truncated apocopic form) risian"
+    }
+  ],
   "definitions": [
-    "(intransitive) To be again.",
-    "(intransitive) To be back again.",
-    "(intransitive) To go again."
+    "(intransitive, familiar) to be back at the same place\nrisarò a casa alle ottoI'll be back home at eight"
   ],
   "description": "riessere",
-  "etymology": null,
+  "etymology": "From ri- (“again”) + essere (“to be”).",
   "page_id": 1070155,
   "pronunciations": [
-    "Rhymes: -ɛssere"
+    "IPA(key): /ˈrjɛs.se.re/",
+    "Hyphenation: ri‧es‧se‧re"
   ],
-  "related": [
-    "essere"
-  ],
+  "related": [],
   "synonyms": [],
   "url": "https://en.wiktionary.org/?curid=1070155#Italian",
   "word": "riessere"

@@ -1,0 +1,383 @@
+{
+  "conjugations": [
+    {
+      "group": "infinitive",
+      "group_sort": 0,
+      "sort": 0,
+      "value": "mammoleggiare"
+    },
+    {
+      "group": "auxiliaryverb",
+      "group_sort": 1,
+      "sort": 0,
+      "value": "avere"
+    },
+    {
+      "group": "gerund",
+      "group_sort": 2,
+      "sort": 0,
+      "value": "mammoleggiando"
+    },
+    {
+      "group": "presentparticiple",
+      "group_sort": 3,
+      "sort": 0,
+      "value": "mammoleggiante"
+    },
+    {
+      "group": "pastparticiple",
+      "group_sort": 4,
+      "sort": 0,
+      "value": "mammoleggiato"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 0,
+      "value": "mammoleggio"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 1,
+      "value": "mammoleggi"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 2,
+      "value": "mammoleggia"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 3,
+      "value": "mammoleggiamo"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 4,
+      "value": "mammoleggiate"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/present",
+      "group_sort": 5,
+      "sort": 5,
+      "value": "mammoleggiano"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 0,
+      "value": "mammoleggiavo"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 1,
+      "value": "mammoleggiavi"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 2,
+      "value": "mammoleggiava"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 3,
+      "value": "mammoleggiavamo"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 4,
+      "value": "mammoleggiavate"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/imperfect",
+      "group_sort": 6,
+      "sort": 5,
+      "value": "mammoleggiavano"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 0,
+      "value": "mammoleggiai"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 1,
+      "value": "mammoleggiasti"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 2,
+      "value": "mammoleggiò"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 3,
+      "value": "mammoleggiammo"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 4,
+      "value": "mammoleggiaste"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/pasthistoric",
+      "group_sort": 7,
+      "sort": 5,
+      "value": "mammoleggiarono"
+    },
+    {
+      "form": "s1",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 0,
+      "value": "mammoleggierò"
+    },
+    {
+      "form": "s2",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 1,
+      "value": "mammoleggierai"
+    },
+    {
+      "form": "s3",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 2,
+      "value": "mammoleggierà"
+    },
+    {
+      "form": "p1",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 3,
+      "value": "mammoleggieremo"
+    },
+    {
+      "form": "p2",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 4,
+      "value": "mammoleggierete"
+    },
+    {
+      "form": "p3",
+      "group": "indicative/future",
+      "group_sort": 8,
+      "sort": 5,
+      "value": "mammoleggieranno"
+    },
+    {
+      "form": "s1",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 0,
+      "value": "mammoleggierei"
+    },
+    {
+      "form": "s2",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 1,
+      "value": "mammoleggieresti"
+    },
+    {
+      "form": "s3",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 2,
+      "value": "mammoleggierebbe"
+    },
+    {
+      "form": "p1",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 3,
+      "value": "mammoleggieremmo"
+    },
+    {
+      "form": "p2",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 4,
+      "value": "mammoleggiereste"
+    },
+    {
+      "form": "p3",
+      "group": "conditional/present",
+      "group_sort": 9,
+      "sort": 5,
+      "value": "mammoleggierebbero"
+    },
+    {
+      "form": "s1-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 0,
+      "value": "mammoleggi"
+    },
+    {
+      "form": "s2-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 1,
+      "value": "mammoleggi"
+    },
+    {
+      "form": "s3-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 2,
+      "value": "mammoleggi"
+    },
+    {
+      "form": "p1-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 3,
+      "value": "mammoleggiamo"
+    },
+    {
+      "form": "p2-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 4,
+      "value": "mammoleggiate"
+    },
+    {
+      "form": "p3-a",
+      "group": "subjunctive/present",
+      "group_sort": 10,
+      "sort": 5,
+      "value": "mammoleggino"
+    },
+    {
+      "form": "s1-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 0,
+      "value": "mammoleggiassi"
+    },
+    {
+      "form": "s2-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 1,
+      "value": "mammoleggiassi"
+    },
+    {
+      "form": "s3-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 2,
+      "value": "mammoleggiasse"
+    },
+    {
+      "form": "p1-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 3,
+      "value": "mammoleggiassimo"
+    },
+    {
+      "form": "p2-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 4,
+      "value": "mammoleggiaste"
+    },
+    {
+      "form": "p3-a",
+      "group": "subjunctive/imperfect",
+      "group_sort": 11,
+      "sort": 5,
+      "value": "mammoleggiassero"
+    },
+    {
+      "form": "s1",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 0,
+      "value": ""
+    },
+    {
+      "form": "s2",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 1,
+      "value": "mammoleggia, non mammoleggiare"
+    },
+    {
+      "form": "s3-b",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 2,
+      "value": "mammoleggi"
+    },
+    {
+      "form": "p1",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 3,
+      "value": "mammoleggiamo"
+    },
+    {
+      "form": "p2",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 4,
+      "value": "mammoleggiate"
+    },
+    {
+      "form": "p3-b",
+      "group": "imperative",
+      "group_sort": 12,
+      "sort": 5,
+      "value": "mammoleggino"
+    }
+  ],
+  "definitions": [
+    "to be childish"
+  ],
+  "description": "mammoleggiare",
+  "etymology": "mammolo + -eggiare",
+  "page_id": 7623588,
+  "pronunciations": [],
+  "related": [],
+  "synonyms": [
+    "bamboleggiare"
+  ],
+  "url": "https://en.wiktionary.org/?curid=7623588#Italian",
+  "word": "mammoleggiare"
+}
