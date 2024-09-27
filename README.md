@@ -14,6 +14,7 @@ Original data was sourced from https://en.wiktionary.org/wiki/Wiktionary:Main_Pa
 
 ## Mobile apps
 
+** ALL OF THESE ARE DEAD **
 The following apps make use of this data:
 
 | Language | App Store | Play Store |
